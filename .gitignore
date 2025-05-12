@@ -60,3 +60,10 @@ Thumbs.db
 /.luarc.json
 _site/
 _extensions/
+
+
+data-tech-poli-arch_files/
+data-tech-poli-arch.html
+sections/*.html
+sections/*_files/
+guidelines/
