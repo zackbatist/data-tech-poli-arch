@@ -1,0 +1,25 @@
+# Discussion
+
+
+Projects experience immense pressures to render observations in ways that are amenable to formal and functional analysis, which in turn mandate rigid and decisive data collection processes to instill confidence in the stability and evidentiary nature of archaeological data.\textsuperscript{\ref{A176}, \ref{A89}}
+A particular kind of analytic process thus comes to dictate the conduct of other aspects of work, and involves reducing the interpretive agency of actors involved in all aspects of the data's constitution and processing.
+
+This results in prioritization of archaeological materials as formally structured and abstract entities, devoid of character in their own right and always perceived as specific instances of a more general class.
+The genericization of labour and of data are not unrelated; the only person who can recognize a thing as meaningful is someone who is capable of granting it meaning.
+This is exemplified by my observations of work performed by trench assistants, who essentially serve as unskilled labourers who are shuffled around a project to perform menial tasks that, almost exclusively, concern materials that have not yet been assigned archaeological character \parencite[]{batistinreviewa}.
+Beyond operating as sensory instruments, fieldworkers serve others' creative efforts by cleaning artefacts and performing preliminary artefact sorting, flotation, or heavy-residue sorting involves working with mere matter, separating dirt and rock from potential anthropogenic entities, broadly construed.
+Those involved in this type of work prepare materials for analysis that others will perform, namely specialists.
+Similarly, trench assistants move sediment and rocks out of a trench, but it is up to the supervisor, who is responsible for recording the significance of these materials, to make meaning out of them.
+Trench assistants are cast as mere sensors, whose identifications of a thing, if taken seriously at all, are based on the character of shapes and textures they encounter, and not on any underlying archaeological theory or model.
+Their interchangeability, owing to the limited expectations made of them (simply responding to prompts), renders them invisible and removes any potential for imagining data collection as discursive and situated.
+The observer's role is to act without thinking too much, especially regarding how the material may fit within broader narratives.
+Moreover, the data-recording system, being a non-human and distributed entity, is not considered to hold a situated perspective, despite the fact that it was designed with implicit assumptions and affordances.
+Interpretation is thus pushed off to others who are not as present at the site, and whose distance from the archaeological encounter provides a kind of freedom to take the data at face value, rather than to grapple with their discursive origins.
+This contributes to a sense that so-called ``data-driven'' analysis generates new knowledge synthesized from a series of objective facts derived from generic, predictable, and protocol-driven sensing devices \parencite[cf.][]{huggett2022}.
+Archaeological information infrastructures are thus designed to enable the appropriation of direct observations by those with the means of extracting more meaningful value from them.
+
+---
+
+[remark on how there is greater flexibility afforded to those higher up on the chain, where those people are given more chances to explain the context of the work they perform, i.e. context is for kings]
+
+[and also remark how this is not the case when data re-use is concerned, the project is considered just one point among many, and the director's actions are gendered generic as he did with his lackeys, i.e. it's all about control, comfort and discomfort of giving up control, and expectations of having or not having control when in certain positions; which relates to the idea of humanistic tool use, or participation in a system where your behaviours are not controlled by one person but by a system that treats everyone in your "class" the same way (i think this came up in graeber's work, specifically regarding relative acceptable of class/caste/race-based violence relative to more "arbitrary" forms of violence since the reasons are based on an established system of morality that applies to everyone equally -- which can be used as a counterpoint against morgan and eve's conception of equality in single context recording, i.e. there is an inherent underlying inequity between classes (as per star) that morgan ignores in favour of (theoretical) equality among the class of fieldworkers)]

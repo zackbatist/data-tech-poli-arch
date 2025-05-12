@@ -1,0 +1,8 @@
+# Introduction
+@batist2023a  <!-- The LaTeX template needs at least one reference to build, so using this as a placeholder. -->
+
+About the explosion and integration of specialist work.
+How this work relies on both robust and relaxed means of communication and control.
+
+Controlling data through control of people's behaviours.
+

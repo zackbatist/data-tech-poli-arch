@@ -1,0 +1,33 @@
+---
+title: Brainstorm
+description: Ideas and notes for the data-tech-poli-arch paper.
+date: last-modified
+---
+
+- On data management as management
+- On the distribution of materials within a project among specialists, and how it neatly aligns with database models
+- Sampling strategies as a means of controlling the objects, while also reliant on strict distribution of labour
+- And implicit recognition that this is not enough: need to bring in consultants to share "being there" perspectives
+
+---
+
+- The rejected JEP abstract has some good language I can borrow.
+
+- explosion paper
+  - About the explosion and integration of specialist work.
+  - How this work relies on both robust and relaxed means of communication and control.
+  - Division of the site
+  - Sampling strategies
+  - Integrating and aligning perspectives
+  - Informal consultation
+
+- See also the excerpt from the draft Information Matters paper, on the role of fieldworkers in preparing samples for lithics specialists to review
+
+- Some bits from roles-agency paper, scaffolding paper
+
+- project and data management paper seems like something that got broken apart into various other drafts
+
+---
+
+About systems of control --- over behaviour, materials and information.
+About the utility of these control mechanisms, the apprehensions surrounding it, and healthy vs unhealthy modes of control.

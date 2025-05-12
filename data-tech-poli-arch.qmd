@@ -1,0 +1,29 @@
+---
+title: XXXX
+subtitle: Data and Technology Politics in Archaeology
+date: today
+abstract: |
+  XXXX
+keywords:
+  - aaa
+  - bbb
+  - ccc
+# funding: xxxx
+# citation:
+#   title: xxx
+#   container-title: xxx
+#   volume: xxx
+#   doi: xxx
+#   url: https://zackbatist.info/data-tech-poli-arch
+
+---
+
+{{< include sections/01_introduction.qmd >}}
+{{< include sections/02_background.qmd >}}
+{{< include sections/03_methods-materials.qmd >}}
+{{< include sections/04_findings.qmd >}}
+{{< include sections/05_discussion.qmd >}}
+{{< include sections/06_conclusion.qmd >}}
+{{< include sections/11_references.qmd >}}
+{{< include sections/12_back-matter.qmd >}}
+{{< include sections/13_supplement.qmd >}}

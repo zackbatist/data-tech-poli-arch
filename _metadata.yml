@@ -1,0 +1,43 @@
+author:
+  - name: Zachary Batist
+    id: zb
+    email: zachary.batist@mcgill.ca
+    url: https://zackbatist.info
+    orcid: 0000-0003-0435-508X
+    affiliations:
+      - name: McGill University
+        department: Epidemiology, Biostatistics and Occupational Health
+        city: Montreal
+        region: Québec
+        country: Canada
+bibliography: assets/data-tech-poli-arch.bib
+csl: assets/chicago-author-date.csl
+license: CC0
+toc: true
+toc-depth: 3
+toc-expand: 2
+number-sections: true
+title-block-banner: plain
+
+
+
+format:
+  html:
+    include-in-header:
+      - text: |
+          <style>
+          .exc {
+            background-color: rgb(247, 247, 247);
+            &.quarto-figure-center>figure>div {
+              text-align: left;
+            }
+          }
+          </style>
+
+
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Excerpt
+      key: exc
+      caption-location: bottom
