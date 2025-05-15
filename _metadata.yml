@@ -12,15 +12,35 @@ author:
         country: Canada
 bibliography: assets/data-tech-poli-arch.bib
 csl: assets/chicago-author-date.csl
-license: CC0
+# license: CC0
 toc: true
-toc-depth: 3
+toc-depth: 2
 toc-expand: 2
 number-sections: true
 title-block-banner: plain
-
-
-
+lang: en-CA
+date: last-modified
+date-format: "MMMM DD, YYYY"
+keywords:
+  - Archaeological practice
+  - information commons
+  - collaborative experiences
+# funding: |
+#   This work is derived from the author's doctoral dissertation, _Archaeological data work as continuous and collaborative practice_ [@batist2023a], which was supported by the Canadian Social Sciences and Humanities Research Council Doctoral Fellowship (Award ID: 752-2019-2233).
+# citation:
+#   title: xxx
+#   container-title: xxx
+#   volume: xxx
+#   doi: xxx
+#   url: https://zackbatist.info/data-tech-poli-arch
+language:
+  title-block-published: "Updated"
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Excerpt
+      key: exc
+      caption-location: bottom
 format:
   html:
     include-in-header:
@@ -33,11 +53,5 @@ format:
             }
           }
           </style>
-
-
-crossref:
-  custom:
-    - kind: float
-      reference-prefix: Excerpt
-      key: exc
-      caption-location: bottom
+filters:
+  - abstract-section

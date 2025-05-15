@@ -1,6 +1,4 @@
 # Discussion
-
-
 Projects experience immense pressures to render observations in ways that are amenable to formal and functional analysis, which in turn mandate rigid and decisive data collection processes to instill confidence in the stability and evidentiary nature of archaeological data.\textsuperscript{\ref{A176}, \ref{A89}}
 A particular kind of analytic process thus comes to dictate the conduct of other aspects of work, and involves reducing the interpretive agency of actors involved in all aspects of the data's constitution and processing.
 

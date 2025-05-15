@@ -158,7 +158,9 @@ More active interactions between archaeologists and external members of their re
 Consultants are specialists in their own right, but their involvement is usually limited to one-off interactions that preclude long-term commitment to the project.
 
 Consultants may be called in to examine peculiar or anomalous material configurations that confound project participants.
-<!-- For instance, as illustrated in @exc-consulting-dialogue, Basil asked Andreas, a micromorphology specialist, to perform a preliminary, _ad-hoc_ examination of the microstratigraphy in a trench that exhibited evidence of hearth activity:^[\[A118\]](#A118){reference-type="ref" reference="A118"},\ [\[A119\]](#A119){reference-type="ref" reference="A119"},\ [\[A120\]](#A120){reference-type="ref" reference="A120"},\ [\[A121\]](#A121){reference-type="ref" reference="A121"}^
+
+<!--
+For instance, as illustrated in @exc-consulting-dialogue, Basil asked Andreas, a micromorphology specialist, to perform a preliminary, _ad-hoc_ examination of the microstratigraphy in a trench that exhibited evidence of hearth activity:^[\[A118\]](#A118){reference-type="ref" reference="A118"},\ [\[A119\]](#A119){reference-type="ref" reference="A119"},\ [\[A120\]](#A120){reference-type="ref" reference="A120"},\ [\[A121\]](#A121){reference-type="ref" reference="A121"}^
 
 ::: {#exc-consulting-dialogue .exc}
 > **Andreas:** And on this side, on this side, is the, the fire base, sand, sand right below the, the hearth. \dots This sand is de-calcified, which again implies kind of, [left on] the surface in order to de-calcify. And on this surface, the guys came and put fire. Actually the matrix of the black stuff is sand again. \dots So the whole thing is kind of in play but not in sequence. \dots Of course we don't see any more ashes because they have been dissolved away. Actually what you see under the microscope is just sand grains surrounded by [unclear] made of very fine charcoaled dust, dust charcoal. That's why you don't find, I guess, charcoal inside, probably [a] few bits.\
@@ -181,7 +183,6 @@ Consultants may be called in to examine peculiar or anomalous material configura
 > **Basil:** So what---\
 > **Andreas:** Ahh, I mean, ok, in theory, some more fancy biochemical analysis? I don't know, I don't know if these things have survided. But why not? There have been, lately, some umm biochemical analyses on these kinds of stuff.\textsuperscript{\ref{A121}}
 
-Lorem ipsum
 :::
 
 In this exchange, Andreas remarks that there is enormous potential to apply more in-depth micromorphological and instrumental analyses in this particular trench.
@@ -191,21 +192,20 @@ Alfred, who is the project's dedicated micromorphology specialist, recalls speci
 and Basil uses his authority as project director to decide that these ideas are worth pursuing in greater depth.^[\[A120\]](#A120){reference-type="ref" reference="A120"},\ [\[A121\]](#A121){reference-type="ref" reference="A121"}^
 
 Similarly, since Case B does not employ a full-time zooarchaeologist, Chris occasionally sends pictures of faunal remains they recover to a colleague who can quickly identify them.
-In one case, Chris was fairly confident that a long bone they found was a cow's femur but he wanted to verify that it was not a human bone, which would have called for very different excavation procedures and project management decisions.^[\[B31\]](#B31){reference-type="ref" reference="B31"}^ -->
+In one case, Chris was fairly confident that a long bone they found was a cow's femur but he wanted to verify that it was not a human bone, which would have called for very different excavation procedures and project management decisions.^[\[B31\]](#B31){reference-type="ref" reference="B31"}^
+-->
 
-For instance, projects sometimes seek to leverage their authority on a subject to bolster confidence in cases when their findings rest on shaky foundations or may be controversial when published.^[\[A122\]](#A122){reference-type="ref" reference="A122"},\ [\[A123\]](#A123){reference-type="ref" reference="A123"},\ [\[A124\]](#A124){reference-type="ref" reference="A124"}^
+For instance, projects sometimes seek to leverage their authority on a subject to bolster confidence in cases when their findings rest on shaky foundations or may be controversial when published.^[A122],[A123][A124]^
 This is exemplified by the way that Case A handled its anxieties regarding the extremely colluvial nature of the site.
 Colluviation complicates any effort to date stratigraphic units and had resulted in many artefacts having extremely weathered surfaces that make them more difficult to characterize.
 Despite his confidence in their claims due to his daily involvement examining these artefacts, and his acknowledgement that the stratigraphy is imperfect, Basil knew that he would have a hard time convincing others of the nature of the things that they found.
-He therefore involved Denise, a major figure in lithics analysis who was responsible for publishing the most definitive assemblages of the kind of materials recovered at Case A, to examine their materials, as articulated in @exc-warrant-for-consultantation:^[\[A124\]](#A124){reference-type="ref" reference="A124"},\ [\[A125\]](#A125){reference-type="ref" reference="A125"}^
+He therefore involved Denise, a major figure in lithics analysis who was responsible for publishing the most definitive assemblages of the kind of materials recovered at Case A, to examine their materials, as articulated in @exc-warrant-for-consultantation:^[A124],[A125]^
 
 ::: {#exc-warrant-for-consultantation .exc}
-> **Basil:** ... for decades, there have been accepted means of scientifically representing the archaeological record, umm to act as evidential bases for your claims. It's understood, that you know, it's impractical for every single interested archaeologist to come to see your site, to see your material. You could be in Australia and the site could be in Peru, umm and so, without that tactile, immediate relationship with the evidence basis that somebody's uhh excavated, there are ways of representing it through photography and line illustration. Umm, that always used to seem to be enough, but it seems like again, it comes down to this contentious nature of our site. The fact that we are, we allegedly have such an early site where such early sites are not meant to be, I'm starting to discover that some of what used to be the accepted means of, accepted ehh evidential umm bases, don't seem to be good enough for everyone. And so it's been very important to have people like Denise come and see this stuff in the flesh. Yes, she's seen the drawing, yes, she's seen the photograph, but for her to see it first hand, handle it, pick it up, query it, umm look at, look at assemblages, as opposed to cherry picked illustrated pieces, has been fundamental to convince her that we really have what we say we have.\textsuperscript{\ref{A124}}
-
-Lorem ipsum
+> **Basil:** ... for decades, there have been accepted means of scientifically representing the archaeological record, umm to act as evidential bases for your claims. It's understood, that you know, it's impractical for every single interested archaeologist to come to see your site, to see your material. You could be in Australia and the site could be in Peru, umm and so, without that tactile, immediate relationship with the evidence basis that somebody's uhh excavated, there are ways of representing it through photography and line illustration. Umm, that always used to seem to be enough, but it seems like again, it comes down to this contentious nature of our site. The fact that we are, we allegedly have such an early site where such early sites are not meant to be, I'm starting to discover that some of what used to be the accepted means of, accepted ehh evidential umm bases, don't seem to be good enough for everyone. And so it's been very important to have people like Denise come and see this stuff in the flesh. Yes, she's seen the drawing, yes, she's seen the photograph, but for her to see it first hand, handle it, pick it up, query it, umm look at, look at assemblages, as opposed to cherry picked illustrated pieces, has been fundamental to convince her that we really have what we say we have.[A124]
 :::
 
-At the same time, Denise informed Basil about some of her concerns with the material, and in @exc-result-of-consultation Basil recalls how this constructive criticism provided him with an understanding of how to proceed to accommodate these issues.^[\[A125\]](#A125){reference-type="ref" reference="A125"},\ [\[A126\]](#A126){reference-type="ref" reference="A126"}^
+At the same time, Denise informed Basil about some of her concerns with the material, and in @exc-result-of-consultation Basil recalls how this constructive criticism provided him with an understanding of how to proceed to accommodate these issues.^[A125],[A126]^
 
 ::: {#exc-result-of-consultation .exc}
 > **Basil:** So the superstar material that Lauren was excavating, that we thought was Levallois blade cores, she disagreed. She thinks the material is fabulous, she's never seen this material before in Greece, she thinks it's Aurignation and looks much more like what you would find in France. She's blown away. She's blown away by---\
@@ -215,10 +215,8 @@ At the same time, Denise informed Basil about some of her concerns with the mate
 > **Basil:** I mean that stuff is--- but we had shown her some of our superstar pieces from the survey, like here's a Levallois point, classic thing. But she's like hmm, it's just one piece. Haha you know, it's just like, she's not exactly [unclear], but she has very high standards.\
 > **Zack:** So is she sticking with, is she saying that Middle Pal was a thing though?\
 > **Basil:** She was like, so she was looking at these, these little bits and pieces, and like, well, the stuff, you know, we showed her a whole bunch of stuff, it's like, we think this is Levallois, she's like no, it's this. And then we show her some stuff from the survey and it's like, hmm it's one piece and it could be, but it's just one piece, that's not really enough. And then finally we showed her the material, Jolene showed her material from [the trench], Alice's new trench, and she's like yes, this is Middle Palaeolithic.\textsuperscript{\ref{A125}}
-
-Lorem ipsum
 :::
 
 From these examples we see that members of the archaeological community who are not active project participants sometimes supplement the input provided by specialist project participants.
 As people who are external to the project, they are not committed to following through on their advice.
-They instead relay their interpretations to specialists who are already members of the project and who are capable of implementing their guidance.^[\[A127\]](#A127){reference-type="ref" reference="A127"},\ [\[A128\]](#A128){reference-type="ref" reference="A128"}^
+They instead relay their interpretations to specialists who are already members of the project and who are capable of implementing their guidance.^[A127],[A128]^

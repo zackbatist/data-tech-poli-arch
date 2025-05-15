@@ -31,3 +31,17 @@ date: last-modified
 
 About systems of control --- over behaviour, materials and information.
 About the utility of these control mechanisms, the apprehensions surrounding it, and healthy vs unhealthy modes of control.
+
+
+Need to emphasize the political aspects somehow.
+Make it more about commoning, role-relations, creative versus automaton forms of agency, and on being used and genericized, who gets to have context recognized?
+Extractivist mentality of computer applications, those who thought they were "safe" from genericization are in fact not.
+
+Lead into future project (with Piraye) that investigates who compiles, collates, integrates and standardizes, and the values and tensions that underlie these processes.
+
+The connector is that compilation, collation, integration and standardization happens at all stages of archaeological research, inclduding within projects (which is the topic of the paper).
+The things that unify these "scales" of integration are the concern with agency, the apprehension and coping strategies involved, the recognition of flaws or taking data at face value, and "healthy" anxieties that introduce doubt to the formal modes of analysis.
+
+So the paper may be structured as a series of interactions that (a) integrate data through mechanisms of control, countered by (b) recognitions of the limits of those mechanisms.
+And then highlight how future work (with Piraye) will do similar analysis on a scale not covered in my dissertation, specifically regarding the work of open data aggregators, which does involve a fundamental shift in perspective (more tech influence, greater confidence in data's validity (by virtue of having undergone peer-review), dilemmas regarding unsavoury uses of data (including AI, cliometrics, pseudoscience, non-archaeological applications, industrial applications etc)).
+
