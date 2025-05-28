@@ -3,11 +3,13 @@ Archaeological research is inherently collaborative, in that it involves many pe
 Independent projects establish organizational structures and information systems to help coordinate labour and pool information derived thereof into communal data streams, which can then be applied toward the production and publication of analytical findings.
 However, these information commons are not egalitarian; project communities establish practical expectations for how people in different positions should engage with archaeological information based on their roles.
 Contributing to and extracting from the commons is therefore scaffolded by diverse yet converging commitments to a collective enterprise, which are instilled through participation in a community of practice.
-Since the management of archaeological data involves regulating people's actions, the mechanisms that operationalize archaeological labour bear broader epistemic implications regarding the nature and use of evidence in our reasoning about the past.
 
-Through an abductive qualitative data analysis based on recorded observations, interviews, and documents collected from three cases, this paper describes some mechanisms through which data are constituted by controlling archaeological labour.
-Specifically, it highlights how digital systems designed to direct the flow of information do so via the coordination of labour and the strategic arrangement of human and object agency.
-Moreover, it draws attention to how information systems and the institutional structures that support them tend to reinforce and reify existing power structures and divisions of labour, including implicit rules that govern ownership and control over research materials and that designate who may benefit from their use.
+Through an abductive qualitative data analysis based on recorded observations, interviews, and documents collected from three cases, this paper highlights how digital systems designed to direct the flow of information do so via the coordination of labour and the strategic arrangement of human and object agency.
+Specifically, I highlight how the information systems that archaeologists rely on to generate records, internal reports, published papers and integrated datasets reinforce and reify existing power structures and divisions of labour, including implicit rules that govern ownership and control over research materials at various scales within and beyond archaeological projects.
+In this manner, the paper critically examines the mediating devices that occur throughout the continuum of archaeological practice, and characterizes them as points of convergence and control, where collaborative commitments are reified, reproduced, and sometimes challenged.
+By framing the flow of information as comprising a series of collaborative commitments and role-relations, the papers highlights the social and relational contexts that are often overlooked when developing local and global research infrastructures.
 
-As such, the paper critically evaluates the mediating devices that occur throughout the continuum of archaeological practice, and characterizes them as points of convergence where collaborative commitments are reified and reproduced.
-By framing the flow of information --- whether it occurs between close colleagues or as mediated by open data platforms among strangers via the web --- as comprising a series of engagements with collective initiatives, I highlight the social contexts that are often overlooked when developing digital research infrastructures, despite the significant roles that these interactions play in establishing our expectations of what constitutes legitimate, respectful and responsible access and reuse.
+\
+\noindent
+**Keywords:**
+information infrastructures, collaborative commitments, divisions of labour
