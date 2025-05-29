@@ -1,6 +1,5 @@
 ---
 title: "Constructing the Commons: Archaeological Projects as Organized, Collective Enterprises"
-# subtitle: x
 ---
 
 {{< include sections/00_abstract.qmd >}}

@@ -5,11 +5,15 @@ However, these information commons are not egalitarian; project communities esta
 Contributing to and extracting from the commons is therefore scaffolded by diverse yet converging commitments to a collective enterprise, which are instilled through participation in a community of practice.
 
 Through an abductive qualitative data analysis based on recorded observations, interviews, and documents collected from three cases, this paper highlights how digital systems designed to direct the flow of information do so via the coordination of labour and the strategic arrangement of human and object agency.
-Specifically, I highlight how the information systems that archaeologists rely on to generate records, internal reports, published papers and integrated datasets reinforce and reify existing power structures and divisions of labour, including implicit rules that govern ownership and control over research materials at various scales within and beyond archaeological projects.
-In this manner, the paper critically examines the mediating devices that occur throughout the continuum of archaeological practice, and characterizes them as points of convergence and control, where collaborative commitments are reified, reproduced, and sometimes challenged.
-By framing the flow of information as comprising a series of collaborative commitments and role-relations, the papers highlights the social and relational contexts that are often overlooked when developing local and global research infrastructures.
+Specifically, I highlight how the information systems that archaeologists rely on to generate records, internal reports, published papers and integrated datasets reify, reinforce, and sometimes challenge entrenched power structures and divisions of labour.
+For instance, I observe that each level of documentation effectively communicates local understanding to a broader collective by rendering prior work as series of formal processes performed by interchangable agents; recognition of prior creative agency therefore diminishes as narratives about the objects of interest are further developed.
+At the same time, latent awareness of the practicial circumstances, decisions and actions that contributed to records' creation enable them to be recontextualized, as needed.
+However, this ability to recontextualize data erodes at projects' boundaries, where familiarity with creative circumstances fades.
+
+By characterizing the documentary media that archaeologists use to capture, organize and share knowledge as tools that facilitate controlled communication, and which govern how certain people may contribute to and access collectively-maintained knowledge, this paper re-casts the formation of data commons as a social rather than a technical enterprise.
+In highlighting some social and relational aspects of data work that are often overlooked when developing local and global research infrastructures, the paper puts forward a theoretical framework that explains the awkwardness of using other people's data, and the underwhelming results of initiatives to integrate data in contexts of reuse.
 
 \
 \noindent
 **Keywords:**
-information infrastructures, collaborative commitments, divisions of labour
+information commons, collaborative commitments, divisions of labour

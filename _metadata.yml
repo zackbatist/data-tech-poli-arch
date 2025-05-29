@@ -56,9 +56,9 @@ format:
           </style>
   pdf:
     documentclass: article
-    keep-tex: true
+    # keep-tex: true
     geometry:
-      - top = 1in
+      - top = 0.75in
       - bottom = 1in
       - left = 1in
       - right = 1in
