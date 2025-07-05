@@ -6,7 +6,4 @@ The paper is to be presented at the Norwegian Institute at Athens (December 3 - 
 
 ## How to view the documents and slides
 
-- A preprint of the full paper is accessible at [zackbatist.info/data-tech-poli-arch](https://zackbatist.info/data-tech-poli-arch).
-- The preliminary abstract is available at [zackbatist.info/data-tech-poli-arch/abstract](https://zackbatist.info/data-tech-poli-arch/abstract).
-- An extended abstract is available at [zackbatist.info/data-tech-poli-arch/long-abstract](https://zackbatist.info/data-tech-poli-arch/long-abstract).
-- The slides are accessible at [zackbatist.info/data-tech-poli-arch/slides](https://zackbatist.info/data-tech-poli-arch/slides).
+- A preprint is accessible at [zackbatist.info/data-tech-poli-arch](https://zackbatist.info/data-tech-poli-arch).
