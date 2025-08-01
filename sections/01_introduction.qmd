@@ -1,8 +1,11 @@
 # Introduction
-@batist2023a  <!-- The LaTeX template needs at least one reference to build, so using this as a placeholder. -->
+Archaeological data are often imagined as highly structured records, collated in a consistent manner, which accurately and precisely document aspects of entities of interest, at scale.
+This supports the notion that data are created using objective sensory mechanisms or protocols, which imbues them with an aura of authority, stability, and truthfulness.
+The concrete, consistent, and corpuscular nature of data imagined in this way helps centralize control over datasets, produce outcomes deriving from formulaic processes, and makes it easier to share findings openly on the web.
+To this end, projects adopt technologies that re-situate individual archaeologists in relation to project collectives, and therefore serve as managerial mechanisms, delegating people to specific roles within distributed project systems.
 
-About the explosion and integration of specialist work.
-How this work relies on both robust and relaxed means of communication and control.
+In this paper I draw clear associations between project and data management, and their mutual reliance on technological systems as means of maintaining control.
+More specifically, I examine the ways in which locally-circumscribed practices are re-framed as generic processes as part of attempts to streamline the dissemination of data, and how this permeates across project systems at various scales --- albeit unevenly across various agents within project collectives.
 
-Controlling data through control of people's behaviours.
-
+By demonstrates how data sharing occurs _within_ projects, not merely without, the paper grounds data management as concrete mechanisms of control within relatively familiar work environments.
+As such, it draws attention to the series of collaborative commitments and broader social contexts from which we develop open research infrastructures.

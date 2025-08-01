@@ -1,1 +1,78 @@
 # Background
+Archaeological data are records that encode objects' characteristics, properties or features in ways that render meaningful aspects communicable among actors (including humans and non-humans) who share common points of reference.
+In other words, data identify, record and format information about objects or phenomena and their relevant properties, which enables knowledge about them to circulate and form the basis for extended avenues of knowledge production.
+Despite popular imaginations of data as exclusively rectangular spreadsheets, data may in fact comprise written records formatted according to various styles (recording sheets, spreadsheets, field notes), various forms of visual media (sketches, scale drawings, photographs, 3D models), or information collected through use of specialized sensing equipment designed to identify objects' physical, chemical or biomolecular properties (magnetometer, X-Ray Fluorescence [XRF] analyzers, tools and protocols for sequencing ancient DNA, etc) or spatial positions and relationships (theodolites, LiDAR, etc). Moreover, data are sometimes derived or recombined from published sources in ways that generate original value.
+
+Despite the varied contexts and circumstances in which data are produced, archaeologists tend to identify data as resulting from fieldwork, since this is typically where they first encounter archaeological objects and phenomena [@carver2010: 36].
+Moreover, since the act of collecting archaeological materials necessarily involves removing them from their archaeological contexts, fieldwork relies on recording systems that enable comprehensive description and association of various kinds of archaeological entities.
+These factors have contributed to fieldwork being a primary locus through which archaeologists explore the nature of archaeological understanding and meaning-making.
+
+My main goal in this section is to emphasize the pragmatic means through which archaeologists produce data.
+I highlight prior theoretical work on the nature and value of archaeological data, especially in contexts of initial archaeological encounters, and then review work that critically examines how data acquisition is influenced by social context.
+Finally, I highlight potential epistemic conflicts between this pragmatic orientation in contexts of data acquisition and an alternative view concerned with maintaining stable chains of inference held in contexts of analysis, which is addressed in the following section.
+
+---
+
+However, the popular imagination of archaeological data described above is useful for particular purposes, it generally, and falsely, treats data as entities devoid of social, contextual, and material basis.
+In fact, archaeological data are the products of decisions made within situated circumstances, by people holding their own experiences, wielding wielding tools bearing certain affordances and limitations, all directed by converging desires, norms and expectations.
+
+In this section I will go over prior work that situates archaeological data as the products of human action, and in relation to systemic pressures
+
+## Theories of knowledge production and development
+All archaeological theory is concerned with archaeologists' roles in creating knowledge about the past
+
+Gardin and expert systems specifically focused on the interplay between immutable facts and mutable inferences
+
+Tie in with newer concerns with metadata and paradata, and the translation of archaeological data into inert published entities, digital repositories as natural resting places, data reuse as non-discursive form of information transmission
+
+Also Wylie cables and tacking
+
+## Archaeological data and digital practices / digital media
+use this section to draw attention to some critical work, grounded in empirical research
+
+- Archaeologists have always been producing data, and many kinds of data are completely disregarded from newer digitally-embedded conceptions of data
+- Haciguzeller data dominance
+- Morgan and Wright, Batist et al on the different pathways, affordances and limitations of digital and analog comparisons, especially when it comes to recreating the discipline in pedagogical a pedagogical sense (people learn the digital as extension of the analog base)
+- lead in to the current study which highlights systemic features and implications of archaeological data management
+
+This work is based on critical observations of actual research practices and careful dissection and comparison of attitudes held by individuals occupying different roles and performing various activities.
+This enables me to account for the systemic implications of collaborative research practices, which impact different people in different ways, and that archaeologists may struggle to identify or articulate.
+
+I critically evaluate some broader systemic tensions that emerge from these arrangements, more specifically, by showing how various social and technical apparatus control labour and the information derived from it.
+
+
+This study is about the social order of scientific research, i.e. the frameworks, mindsets or sets of values that humans adopt to carry out their work in specific ways. Human beings rely upon physical and conceptual apparatus to do this work but, in order to understand how they do science \emph{in ways that conform to the epistemic mandates of the scientific enterprise,} it is necessary to prioritize attention to human intention, drivers and pressures.
+My work therefore emphasizes the agency of human drivers since they are the ones who (a) identify problems that need to be resolved; (b) imagine, project or predict potential outcomes of various kinds of actions that they may select to resolve the challenges; and (c) learn from prior experiences and change their behaviours accordingly.
+
+By highlighting how pragmatic actions are conducted in relation to broader discursive frameworks, I consider scholarly practices in terms of potential, certainty and desire from the perspectives of practitioners themselves.
+This is made possible by my consideration of data as discursive media that connects distributed actions experienced by people operating in disparate work environments.
+
+---
+
+Other work in the past 5-10 years has attempted to critically examine archaeological information systems in terms of how they shape archaeological attitudes and practices.
+@haciguzeller2021 et al looked at the dominance of structured data and highlighted certain myths regarding what structured data is generally thought to afford. @morgan2018 also looked at the digitization of illustration practices and noted blah blah blah (some things lost in this transformation?).
+@batist2021 looked at how digital tech comes with different learning pathways.
+Contrast this with @sapirstein2021, @poehler2016, @wallrodt2016 who contend that digital systems are just 1:1 mirrors of existing practice.
+
+Also, some things just remain stagnant, totally unaffected by digital systems.
+Things like administrative practices, budget constraints, social and professional connections, friendships, and rivalries (thinking specifically about my masters thesis, in which having access to all data in open tabular format would still not have prepared me for the social history of obsidian sourcing studies).
+Digital technology only brings us to far, and only affects things that the powers that wield it want it to affect.
+In other words, digital technology holds the _potential_ for transformative change, but this potential is only realizable under certain social conditions that enable it to actually occur in practice.
+To expand on @haciguzeller2021's observations, structured data are representations because archaeologists represent things; structured data are not a neutral resource because no archaeological product is a neutral resource; and structured data may not be a democratizing trend because archaeology project management is not democratically organized. On this last point, this paper goes further by arguing that structured data has contributed to archaeological project management being less democratizing.
+
+---
+
+- Identify a concern with the standardization of knowledge, digital dominance, etc
+- Cite: Caraher, Haciguzeller, Thorpe, Morgan, etc for critical perspectives
+- Cite: Carver, Wylie, Chapman, etc for more normative views on project and data management, specifically looking at how perspectives are integrated, synthesized, and reconciled
+- State the objectives:
+    - to draw attention, in an empircal manner, to the management strategies involved in archaeological knowledge production
+    - to demonstrate the inseperable relationship between project and data management
+    - to underscore the managerial nature of project management, draw it into a discourse led by Suchman, Strauss, Star, etc concerning the duality between plans and situated action
+
+- Archaeology has always been concerned with how we interpret and present information about the past
+- This is the essense of archaeological theory, and the great paradigm shifts
+- Central to this is a concern with the authoritativeness of archaeological knowedge
+- Does it come from global institutions? Colonial enterprise? Local community involvement? Scientific objectivity?
+- Others, decades ago, have shown that these are all related (Foucault, Hodder, etc), but as Lucas pointed out, these discussions have been pushed aside
+- As digital tools and technologies have become more widespread and demystified in recenet years, archaeologists are beginning to realize that its decisions, situated within systemic factors that limit the range of possible actions, all the way down
