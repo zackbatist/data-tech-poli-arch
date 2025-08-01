@@ -1,13 +1,13 @@
 ---
-title: "Constructing the Commons: Archaeological Projects as Organized, Collective Enterprises"
+title: "Data management is people management: on abstraction of data and labour in archaeological projects"
 ---
 
 {{< include sections/00_abstract.qmd >}}
-<!-- {{< include sections/01_introduction.qmd >}} -->
-<!-- {{< include sections/02_background.qmd >}} -->
-<!-- {{< include sections/03_methods-materials.qmd >}} -->
-<!-- {{< include sections/04_findings.qmd >}} -->
-<!-- {{< include sections/05_discussion.qmd >}} -->
+{{< include sections/01_introduction.qmd >}}
+{{< include sections/02_background.qmd >}}
+{{< include sections/03_methods-materials.qmd >}}
+{{< include sections/04_findings.qmd >}}
+{{< include sections/05_discussion.qmd >}}
 <!-- {{< include sections/06_conclusion.qmd >}} -->
 <!-- {{< include sections/11_references.qmd >}} -->
 <!-- {{< include sections/12_back-matter.qmd >}} -->
