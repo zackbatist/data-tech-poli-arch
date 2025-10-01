@@ -12,8 +12,3 @@ However, this ability to recontextualize data erodes at projects' boundaries, wh
 
 By characterizing the documentary media that archaeologists use to capture, organize and share knowledge as tools that facilitate controlled communication, and which govern how certain people may contribute to and access collectively-maintained knowledge, this paper re-casts the formation of data commons as a social rather than a technical enterprise.
 In highlighting some social and relational aspects of data work that are often overlooked when developing local and global research infrastructures, the paper puts forward a theoretical framework that explains the awkwardness of using other people's data, and the underwhelming results of initiatives to integrate data in contexts of reuse.
-
-\
-\noindent
-**Keywords:**
-information commons, collaborative commitments, divisions of labour
