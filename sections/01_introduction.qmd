@@ -1,11 +1,10 @@
 # Introduction
-Archaeological data are often imagined as highly structured records, collated in a consistent manner, which accurately and precisely document aspects of entities of interest, at scale.
-This supports the notion that data are created using objective sensory mechanisms or protocols, which imbues them with an aura of authority, stability, and truthfulness.
-The concrete, consistent, and corpuscular nature of data imagined in this way helps centralize control over datasets, produce outcomes deriving from formulaic processes, and makes it easier to share findings openly on the web.
-To this end, projects adopt technologies that re-situate individual archaeologists in relation to project collectives, and therefore serve as managerial mechanisms, delegating people to specific roles within distributed project systems.
+Archaeological projects are inherently collaborative, in that they bring teams of people with a variety of unique outlooks and experiences to examine material assemblages of common interest.
+Archaeologists apply a multitude of tools and methods, in sequence and in tandem and across different kinds of work settings, to produce rich and heterogeneous data about their engagements with the archaeological record.
+They adhere to professional norms and expectations to organize the products of their collective labour, and rely on a combination of digital and analog devices and protocols to pool the outcomes of their respective tasks.
 
+Advanced computational systems have addressed many technical barriers, but data integration is much more than just a technical process; it also involves considerable collaborative labour to facilitate commensurability of research outcomes and to ensure that all parties effectively contribute to common goals.
 In this paper I draw clear associations between project and data management, and their mutual reliance on technological systems as means of maintaining control.
-More specifically, I examine the ways in which locally-circumscribed practices are re-framed as generic processes as part of attempts to streamline the dissemination of data, and how this permeates across project systems at various scales --- albeit unevenly across various agents within project collectives.
+As such, it draws attention to the series of collaborative commitments and broader social contexts from which we develop data management systems and infrastructures.
 
-By demonstrates how data sharing occurs _within_ projects, not merely without, the paper grounds data management as concrete mechanisms of control within relatively familiar work environments.
-As such, it draws attention to the series of collaborative commitments and broader social contexts from which we develop open research infrastructures.
+Specifically, the paper examines how locally-circumscribed practices are re-framed as generic processes as part of attempts to streamline the dissemination of data, and how this permeates across project systems at various scales --- albeit unevenly across various agents within project collectives.

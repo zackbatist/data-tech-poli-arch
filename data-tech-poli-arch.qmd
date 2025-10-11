@@ -48,6 +48,8 @@ crossref:
       latex-env: excerpt
 format:
   html:
+    grid:
+      margin-width: 500px
     include-in-header:
       - text: |
           <style>
@@ -61,6 +63,9 @@ format:
               display: none;
             }
             #quarto-document-content {
+              text-align: justify;
+            }
+            .abstract {
               text-align: justify;
             }
           </style>
@@ -90,11 +95,10 @@ filters:
 
 {{< include sections/00_abstract.qmd >}}
 {{< include sections/01_introduction.qmd >}}
-{{< include sections/02_background.qmd >}}
+<!-- {{< include sections/02_background.qmd >}} -->
 {{< include sections/03_methods-materials.qmd >}}
 {{< include sections/04_findings.qmd >}}
 {{< include sections/05_discussion.qmd >}}
-{{< include sections/06_conclusion.qmd >}}
 {{< include sections/10_references.qmd >}}
 {{< include sections/11_back-matter.qmd >}}
 {{< include sections/12_supplement.qmd >}}

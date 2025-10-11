@@ -1,33 +1,36 @@
 # Background
-Archaeological data are records that encode objects' characteristics, properties or features in ways that render meaningful aspects communicable among actors (including humans and non-humans) who share common points of reference.
-In other words, data identify, record and format information about objects or phenomena and their relevant properties, which enables knowledge about them to circulate and form the basis for extended avenues of knowledge production.
-Despite popular imaginations of data as exclusively rectangular spreadsheets, data may in fact comprise written records formatted according to various styles (recording sheets, spreadsheets, field notes), various forms of visual media (sketches, scale drawings, photographs, 3D models), or information collected through use of specialized sensing equipment designed to identify objects' physical, chemical or biomolecular properties (magnetometer, X-Ray Fluorescence [XRF] analyzers, tools and protocols for sequencing ancient DNA, etc) or spatial positions and relationships (theodolites, LiDAR, etc). Moreover, data are sometimes derived or recombined from published sources in ways that generate original value.
+Archaeological data are records that encode objects' characteristics, properties or features in ways that render meaningful aspects communicable among actors (including human and non-human actors) who share common points of reference.
+In effect, data identify, record and format information about objects or phenomena and their relevant properties, which enables knowledge about them to circulate and form the basis for extended avenues of knowledge production.
+In other words, they are the media through which local observations are transmitted across time, place and situated circumstance, often (but not always) with productive purposes in mind.
 
-Despite the varied contexts and circumstances in which data are produced, archaeologists tend to identify data as resulting from fieldwork, since this is typically where they first encounter archaeological objects and phenomena [@carver2010: 36].
-Moreover, since the act of collecting archaeological materials necessarily involves removing them from their archaeological contexts, fieldwork relies on recording systems that enable comprehensive description and association of various kinds of archaeological entities.
-These factors have contributed to fieldwork being a primary locus through which archaeologists explore the nature of archaeological understanding and meaning-making.
+It should be noted that this is a very permissive notion of data that goes beyond the popular imaginations of data as exclusively comprising rectangular spreadsheets.
+Under this framing, data also comprises written records formatted according to various styles (recording sheets, spreadsheets, field notes), various forms of visual media (sketches, scale drawings, photographs, 3D models), or information collected through use of specialized sensing equipment designed to identify objects' physical, chemical or biomolecular properties (magnetometer, X-Ray Fluorescence [XRF] analyzers, tools and protocols for sequencing ancient DNA, etc) or spatial positions and relationships (theodolites, LiDAR, etc).
 
-My main goal in this section is to emphasize the pragmatic means through which archaeologists produce data.
-I highlight prior theoretical work on the nature and value of archaeological data, especially in contexts of initial archaeological encounters, and then review work that critically examines how data acquisition is influenced by social context.
-Finally, I highlight potential epistemic conflicts between this pragmatic orientation in contexts of data acquisition and an alternative view concerned with maintaining stable chains of inference held in contexts of analysis, which is addressed in the following section.
+For me, data is more like a _how_ than a _what_.
 
----
+It is therefore helpful to frame data sharing as an act of discursive communication, whereby data are documentary records that enable research to be extended across time and place, and to be carried out in a collaborative manner.
+The media upon which data are inscribed (e.g. databases, registries, and online catalogues) enable direct experiences with objects and phenomena of interest to be shared and acted upon in alternative research contexts.
+Moreover, archaeologists rely on physical and informational infrastructures, and establish organizational practices, to normalize the information they produce and to enable these records to be accessed, understood, and put to practical use.
+For instance, zooarchaeologists working on the domestication of animals in Neolithic Anatolia need both to respect the original interpretations of contributors and to translate diverse datasets into a common "controlled vocabulary" in order to synthesize new findings [@arbuckle2014; @kansa2013].
+Thinking of archaeological research in this way, as a continuum of such distributed practices, draws out a greater appreciation for the ecologies of knowledge production involved in the creation and curation of archaeological data, as these examples demonstrate [@dallas2015].
 
-However, the popular imagination of archaeological data described above is useful for particular purposes, it generally, and falsely, treats data as entities devoid of social, contextual, and material basis.
-In fact, archaeological data are the products of decisions made within situated circumstances, by people holding their own experiences, wielding wielding tools bearing certain affordances and limitations, all directed by converging desires, norms and expectations.
+This way of thinking about research practice has led to greater attention to how archaeologists produce, maintain and use data.
+The field is moving beyond simply adopting new technology and is now critically examining the social and technical challenges of digital transformation.
+Workflows that underpin data sharing increasingly become the real object of inquiry, revealing the tension between the promise of aggregated open data and the lived realities of professional practice [@haciguzeller2021].
+This new wave of research focuses on the workflows that shape how data is created and shared, highlighting gaps between the promise of open data and the reality of professional practice.
+The present project aims to build further on this critical, practice-based reflection about archaeological data sharing.
 
-In this section I will go over prior work that situates archaeological data as the products of human action, and in relation to systemic pressures
+## Data and control
 
-## Theories of knowledge production and development
+### Connecting with broader theory
 All archaeological theory is concerned with archaeologists' roles in creating knowledge about the past
 
 Gardin and expert systems specifically focused on the interplay between immutable facts and mutable inferences
 
 Tie in with newer concerns with metadata and paradata, and the translation of archaeological data into inert published entities, digital repositories as natural resting places, data reuse as non-discursive form of information transmission
 
-Also Wylie cables and tacking
 
-## Archaeological data and digital practices / digital media
+### Digital practices / digital media
 use this section to draw attention to some critical work, grounded in empirical research
 
 - Archaeologists have always been producing data, and many kinds of data are completely disregarded from newer digitally-embedded conceptions of data
@@ -76,3 +79,19 @@ To expand on @haciguzeller2021's observations, structured data are representatio
 - Does it come from global institutions? Colonial enterprise? Local community involvement? Scientific objectivity?
 - Others, decades ago, have shown that these are all related (Foucault, Hodder, etc), but as Lucas pointed out, these discussions have been pushed aside
 - As digital tools and technologies have become more widespread and demystified in recenet years, archaeologists are beginning to realize that its decisions, situated within systemic factors that limit the range of possible actions, all the way down
+
+
+<!-- scrap
+Moreover, since the act of collecting archaeological materials necessarily involves removing them from their archaeological contexts, fieldwork relies on recording systems that enable comprehensive description and association of various kinds of archaeological entities.
+These factors have contributed to fieldwork being a primary locus through which archaeologists explore the nature of archaeological understanding and meaning-making. -->
+
+<!-- My main goal in this section is to emphasize the pragmatic means through which archaeologists produce data.
+I highlight prior theoretical work on the nature and value of archaeological data, especially in contexts of initial archaeological encounters, and then review work that critically examines how data acquisition is influenced by social context.
+Finally, I highlight potential epistemic conflicts between this pragmatic orientation in contexts of data acquisition and an alternative view concerned with maintaining stable chains of inference held in contexts of analysis, which is addressed in the following section.
+
+---
+
+However, the popular imagination of archaeological data described above is useful for particular purposes, it generally, and falsely, treats data as entities devoid of social, contextual, and material basis.
+In fact, archaeological data are the products of decisions made within situated circumstances, by people holding their own experiences, wielding wielding tools bearing certain affordances and limitations, all directed by converging desires, norms and expectations.
+
+In this section I will go over prior work that situates archaeological data as the products of human action, and in relation to systemic pressures -->
