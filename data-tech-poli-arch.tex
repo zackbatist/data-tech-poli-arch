@@ -1,0 +1,1055 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+]{article}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[top = 0.75in,bottom = 1in,left = 1in,right = 1in]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\usepackage{setspace}
+\onehalfspacing
+\setlength{\parskip}{20pt}
+\usepackage{orcidlink}
+\usepackage{marvosym}
+\makeatletter
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{plain}
+\@ifundefined{c@chapter}{\newfloat{excerpt}{h}{loexc}}{\newfloat{excerpt}{h}{loexc}[chapter]}
+\floatname{excerpt}{Excerpt}
+\newcommand*\listofexcerpts{\listof{excerpt}{List of Excerpts}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{marginnote}
+\reversemarginpar
+\newcommand{\paragraphnumber}[1]{\marginnote{\color{lightgray}\tiny{#1}}[0pt]}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{canadian}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage[english]{selnolig} % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Data management is people management: on abstraction of data and labour in archaeological projects},
+  pdfauthor={Zachary Batist},
+  pdflang={en-CA},
+  pdfkeywords={Information commons, collaborative commitments, divisions
+of labour},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Data management is people management: on abstraction of data and
+labour in archaeological projects}
+
+\author{
+      {Zachary
+Batist \orcidlink{0000-0003-0435-508X} \href{mailto:zachary.batist@mcgill.ca}{\Letter}} \\
+          McGill University
+     \\
+  }
+
+\date{October 16, 2025}
+\begin{document}
+\maketitle
+\begin{abstract}
+Archaeological research is inherently collaborative, in that it involves
+many people coming together to examine a material assemblage of mutual
+interest by implementing a variety of tools and methods in sequence and
+in tandem. Independent projects establish organizational structures and
+information systems to help coordinate labour and pool information
+derived thereof into communal data streams, which can then be applied
+toward the production and publication of analytical findings. However,
+these information commons are not egalitarian; project communities
+establish practical expectations for how people in different positions
+should engage with archaeological information based on their roles.
+Contributing to and extracting from the commons is therefore scaffolded
+by diverse yet converging commitments to a collective enterprise, which
+are instilled through participation in a community of practice.
+
+Through an abductive qualitative data analysis based on recorded
+observations, interviews, and documents collected from three cases, this
+paper highlights how digital systems designed to direct the flow of
+information do so via the coordination of labour and the strategic
+arrangement of human and object agency. Specifically, I highlight how
+the information systems that archaeologists rely on to generate records,
+internal reports, published papers and integrated datasets reify,
+reinforce, and sometimes challenge entrenched power structures and
+divisions of labour. For instance, I observe that each level of
+documentation effectively communicates local understanding to a broader
+collective by rendering prior work as series of formal processes
+performed by interchangable agents; recognition of prior creative agency
+therefore diminishes as narratives about the objects of interest are
+further developed. At the same time, latent awareness of the practicial
+circumstances, decisions and actions that contributed to records'
+creation enable them to be recontextualized, as needed. However, this
+ability to recontextualize data erodes at projects' boundaries, where
+familiarity with creative circumstances fades.
+
+By characterizing the documentary media that archaeologists use to
+capture, organize and share knowledge as tools that facilitate
+controlled communication, and which govern how certain people may
+contribute to and access collectively-maintained knowledge, this paper
+re-casts the formation of data commons as a social rather than a
+technical enterprise. In highlighting some social and relational aspects
+of data work that are often overlooked when developing local and global
+research infrastructures, the paper puts forward a theoretical framework
+that explains the awkwardness of using other people's data, and the
+underwhelming results of initiatives to integrate data in contexts of
+reuse.
+\end{abstract}
+
+
+\section{Introduction}\label{introduction}
+
+Archaeological\paragraphnumber{[1]} projects are inherently
+collaborative, in that they bring teams of people with a variety of
+unique outlooks and experiences to examine material assemblages of
+common interest. Archaeologists apply a multitude of tools and methods,
+in sequence and in tandem and across different kinds of work settings,
+to produce rich and heterogeneous data about their engagements with the
+archaeological record. They adhere to professional norms and
+expectations to organize the products of their collective labour, and
+rely on a combination of digital and analog devices and protocols to
+pool the outcomes of their respective tasks.
+
+Advanced\paragraphnumber{[2]} computational systems have addressed many
+technical barriers, but data integration is much more than just a
+technical process; it also involves considerable collaborative labour to
+facilitate commensurability of research outcomes and to ensure that all
+parties effectively contribute to common goals. In this paper I draw
+clear associations between project and data management, and their mutual
+reliance on technological systems as means of maintaining control. As
+such, it draws attention to the series of collaborative commitments and
+broader social contexts from which we develop data management systems
+and infrastructures.
+
+Specifically,\paragraphnumber{[3]} the paper examines how
+locally-circumscribed practices are re-framed as generic processes as
+part of attempts to streamline the dissemination of data, and how this
+permeates across project systems at various scales --- albeit unevenly
+across various agents within project collectives.
+
+\section{Methods and Data}\label{methods-and-data}
+
+This\paragraphnumber{[4]} paper articulates behaviours and attitudes of
+archaeologists who worked at two independent archaeological projects
+which serve as cases. {[}about the cases{]}
+
+It\paragraphnumber{[5]} is important to note that cases are not the
+subjects of inquiry, and instead represent discrete instances that share
+common reference to the overall research themes (Ragin 1992; Stake
+2006). So while the cases are certainly not representative of the whole
+archaeological discipline, they do enable me to reveal some
+underappreciated systemic concerns that underlie data management. As
+such, the findings are informed by the behaviours and attitudes
+expressed to me by those who agreed to participate, and by my own
+standpoint as a scholar of the culture and practice of science and of
+the media and infrastructures that support data sharing, integration and
+reuse.
+
+Through\paragraphnumber{[6]} abductive qualitative analysis of
+observations of archaeological practice, interviews with archaeologists
+as they worked, and of documents they created, I captured diverse
+experiences and outlooks that provide insight regarding how data
+management infrastructures are valued and used in a variety of contexts.
+
+The\paragraphnumber{[7]} findings presented here are derived from my
+dissertation (Batist 2023), which produced three other papers deriving
+from the same methods and data. See Batist and Roe (2024),
+(\textbf{batist2025a?}), (\textbf{batist2025b?}) for further
+methodological details.
+
+\section{Findings}\label{findings}
+
+Analysis\paragraphnumber{[8]} of archaeological materials and data is
+dependent on systems of control. To control the flow of materials and
+the structure of data, it is necessary to control people's behaviours.
+In other words, the epistemic value that a project produces is
+inherently dependent on the control that may be imposed on
+archaeologists behaviours. Here I document some ways in which projects
+scaffold archaeologists' behaviours through technical and administrative
+means.
+
+\subsection{Sampling}\label{sampling}
+
+In\paragraphnumber{[9]} the cases I observed, specialist work often
+involved specific sampling procedures that differed from, but also
+occurred alongside, standard fieldwork practices. Specialists either
+collected their own samples or instructed fieldworkers to collect
+samples on their behalf and in ways that corresponded to their needs.
+Trench supervisors were usually present to guide the specialist in their
+trench, to help identify the locations from which specimens would likely
+yield more useful results, and to be aware of changes to their work
+environments that the sampling procedure may have caused. For example,
+Marie, who was Case A's OSL specialist, was responsible for establishing
+absolute dates for various stratigraphic units at the site, and was very
+involved in the careful work of collecting samples from the
+trenches.\textsuperscript{\hyperref[A73]{{[}A73{]}}} OSL dating
+determines how long ago mineral grains were exposed to sunlight, and it
+is critical to avoid exposing specimens to light. Sampling therefore had
+to occur at night, and the involvement of trench supervisors was crucial
+for determining where to draw the sample under such cumbersome
+conditions.\textsuperscript{\hyperref[A96]{{[}A96{]}}} Moreover, it was
+common practice to place a dosimeter where the sample was taken in order
+to record background conditions that would have affected that specific
+location, thus allowing calibration of the dose. Trench supervisors were
+instructed to take care not to disturb these dosimeters as they
+continued to excavate, until they would be collected at a later
+time.\textsuperscript{\hyperref[A97]{{[}A97{]}}}
+
+In\paragraphnumber{[10]} some cases, as when a specialist could not be
+present during sample removal, it was deemed necessary to delegate
+sampling work to a fieldworker who received training in basic sampling
+procedures. This happened when a specialist had to leave the field
+before the end of an excavation season, and but had enough foresight to
+instruct a fieldworker to carry out the work on their
+behalf.\textsuperscript{\hyperref[A73]{{[}A73{]}}} In this situation,
+the fieldworker effectively worked in service of a specialist activity
+and had to consider the criteria that would be most conducive to
+effective specialist analysis.
+
+A\paragraphnumber{[11]} similar phenomenon was observed at Case B, where
+Chris was considered an expert in collecting spatial coordinates using
+the differential global positioning system (DGPS) that forms the basis
+of their geospatial analyses. Trench supervisors called upon Chris to
+collect geospatial information from various targeted locations, and he
+depended on their understanding of the trench and of the value of
+specific spots that warranted data
+collection.\textsuperscript{\hyperref[B17]{{[}B17{]}}} He also relied on
+trench assistants to help him by holding a portable DGPS ``rover''
+(which communicates with a spatially-calibrated base station located in
+a fixed position), and talk among them tended to be about ensuring the
+proper collection of a reliable sample of points (see
+\textbf{?@fig-DGPS}).\textsuperscript{\hyperref[B18]{{[}B18{]}}} As
+illustrated in Excerpt~\ref{exc-collecting-spatial-data}, Chris recorded
+the geospatial point at the position where Oliver, the trench assistant,
+placed the rover, while Liz, the trench supervisor, oversaw the process
+and identified what needed to be
+recorded.\textsuperscript{\hyperref[B18]{{[}B18{]}}}
+
+\begin{excerpt}
+
+\centering{
+
+\begin{quote}
+\textbf{Liz:} And then if you can just take one point there, and one
+point right in the middle, umm that's all we need.\\
+\textbf{Oliver:} Ok.\\
+\textbf{Liz:} And then you're free to start digging and I'll help you
+out in a minute.\\
+\textbf{. . .}\\
+\textbf{Chris:} So what are we doing?\\
+\textbf{Oliver:} We're taking points.\\
+\textbf{Liz:} Just one where you dug.\\
+\textbf{Oliver:} Here?\\
+\textbf{Liz:} Yep, yep. One in there, and then one over there is fine,
+somewhere in the middle.\\
+\textbf{. . .}\\
+\textbf{Chris:} It's excavation unit {[}redacted identifier{]}?\\
+\textbf{Liz:} Yeah. Closing.\\
+\textbf{Chris:} Alright.??
+\end{quote}
+
+}
+
+\caption{\label{exc-collecting-spatial-data}Communicating while
+collecting spatial data.}
+
+\end{excerpt}%
+
+\subsection{Finds processing}\label{finds-processing}
+
+Archaeological\paragraphnumber{[12]} projects uncover a lot of material
+throughout the course of an excavation or survey, which must be sorted
+and processed to facilitate subsequent analysis. Finds processing begins
+in the field, where objects are first recovered and identified as finds
+that will yield valuable insight into the lives of past people. At both
+Cases A and B, fieldworkers divided these finds into broad-level
+categories corresponding to materials, such as ceramic, bone and shell,
+separating them into bags and buckets labelled with the excavation unit
+in which they were found, as they emerged from the trenches (see
+\textbf{?@fig-sieve}: E and F) and \textbf{?@fig-sorting}. At the same
+time, they tossed stones that exhibit no anthropogenic qualities (see
+\textbf{?@fig-sieve}: D). They also used sieves to separate loose
+sediment from small objects, collecting those that they deem culturally
+meaningful, and discarded the rest (see \textbf{?@fig-sieve}: A, B, C
+and D).
+
+Sometimes,\paragraphnumber{[13]} fieldworkers set aside materials that
+they were unsure about and documented the findspot in more detail ---
+``just in case'' --- before proceeding with their
+work.\textsuperscript{\ref{A157}} This documentation was tentative, and
+depending on whether a specialist would later determine that the find
+was worth saving for analysis, may not have become part of the official
+archaeological record.\textsuperscript{\ref{A156}, \ref{A157}}
+
+It\paragraphnumber{[14]} is noteworthy that fieldworkers were expected
+to classify finds on the basis of characteristics commonly recognized as
+more natural, while study of their anthropogenic qualities was typically
+reserved for finds analysis.\textsuperscript{\ref{A68}} In effect, a
+distinction was made between fieldwork, which deals with
+\emph{materials}, and finds analysis, which deals with \emph{artefacts}
+and \emph{ecofacts}. Moreover, even when specialists worked in the
+field, they operated as fieldworkers; their actions were constrained by
+the practical circumstances of fieldwork and the position of fieldwork
+within a broader apparatus of archaeological knowledge production. In
+this sense, the division of labour was partly due to pragmatic concerns,
+namely the fact that fieldworkers were usually occupied with their own
+specific tasks that required mental concentration, especially when
+instructed to do this work quickly.
+
+After\paragraphnumber{[15]} hauling all the finds back to the dig house,
+they needed to be cleaned by brushing the finds with
+water.\textsuperscript{\ref{A69}, \ref{B9}} Trench assistants performed
+this task after they have returned from the field, remaining productive
+even during the late afternoons when it was too hot to perform strenuous
+outdoor labour.\textsuperscript{\ref{B45}} In my unrecorded observations
+I noticed that people talked about the day's work and their personal and
+collective experiences, and speculated about the things they recovered
+and which they were then revisiting in a secondary context. As
+non-experts, their amateur analyses remain unexplored, but they still
+felt an impetus to examine these objects and try to develop insights
+from these experiences.
+
+Cleaned\paragraphnumber{[16]} materials were then left out in the sun to
+dry before being brought to a space dedicated for finds analysis and
+storage.\textsuperscript{\ref{B46}} The materials were dumped on a broad
+table, and specialist's assistants quickly sorted through them. They
+discarded any non-anthropogenic materials collected in error, then
+counted and weighed all remaining artefacts, before performing further
+analysis based on their typological and technological
+characteristics.\textsuperscript{\ref{A158}}
+
+At\paragraphnumber{[17]} Case A, I observed how Jolene, a lithics
+specialist, went through and sorted the material on the table, sometimes
+mumbling her reasoning aloud.\textsuperscript{\ref{A161}} After she
+settled on her arrangement, she dictated her description of the
+assemblage as a whole, in a fragmented tone that insinuates strong
+intention behind each word, and Maude, her assistant, wrote down this
+speech.\textsuperscript{\ref{A161}} Maude then recorded the quantities
+of artefacts in each category, as laid out by Jolene, and entered this
+information into a spreadsheet.\textsuperscript{\ref{A161}} Whereas
+Jolene was the source of creative knowledge production, Maude was
+responsible for embedding these insights within the project's
+organizational apparatus.\textsuperscript{\ref{A162}}
+
+Maude\paragraphnumber{[18]} also maintained a checklist to track all
+aspects of work performed on the materials, including information about
+the materials' provenance, who processed the materials, when the work
+occurred, and detailed parameters that structured processing
+tasks.\textsuperscript{\ref{A160}} This checklist resembled the records
+maintained by the project's database manager to trace what records await
+integration into the database and to ensure that all information was
+properly recorded.\textsuperscript{\ref{A87}, \ref{A163}}. These records
+existed to track progress and verify the integrity of work. No aspect of
+finds processing involved maintaining a journal or recording substantial
+interpretations of the materials, which revealed a failure to recognize
+that any meaningful insights could arise during these stages of work.
+Finds processing was therefore positioned as a means to an end, that
+being the arrival of cleaned and sorted finds upon the specialists'
+desks, where meaningful archaeological knowledge would be
+produced.\textsuperscript{\ref{A129}, \ref{A69}, \ref{A41}, \ref{B9}}
+
+\subsection{Integrating and aligning
+perspectives}\label{integrating-and-aligning-perspectives}
+
+After\paragraphnumber{[19]} performing their work, specialists reported
+back to the project with their findings. This involved providing the
+project with documents that contained and explained the analytical
+results. These documents typically comprised electronic spreadsheets and
+typeset documents, but sometimes also included lab journals, paper
+recording sheets, source code, and digital images. These media varied in
+their functional roles and value.
+
+For\paragraphnumber{[20]} instance, the spreadsheets that archaeological
+specialists produce in the cases I examined were the formally organized
+results of systematic analysis. They were organized on a
+sample-by-sample basis, associated with discrete units from which each
+sample element was taken (see
+\textbf{?@fig-archaeometry-spreadsheets}).\textsuperscript{\hyperref[A6]{{[}A6{]}},~\hyperref[A98]{{[}A98{]}}}
+These records were analytical results in that they were the products of
+analytical processes, but they were also data in the sense that they
+were considered to be grounded and stable records of systematic
+observation that may serve as a sound basis for further investigation.
+
+Specialist\paragraphnumber{[21]} reports, on the other hand, were
+summaries of a specialist's findings. They described overall trends that
+specialists observed in their preliminary analysis of the findings,
+highlighted their potential significance, and proposed ways to
+ameliorate the results or relate them to other aspects of the
+project.\textsuperscript{\hyperref[B11]{{[}B11{]}}} In other words,
+specialist reports contextualized the analysis and related the findings
+to the project's general research objectives. They presented conclusions
+that aligned or conflicted with alternative perspectives, settled or
+provided greater confidence to particular claims, and suggested aspects
+of work that warranted further attention. They did these things in an
+embodied manner, and in ways that reflected the pragmatic situation of
+their work; they served to contextualize the data presented in
+spreadsheets, which lacked any such capability on their own.
+
+Specialist\paragraphnumber{[22]} datasets were integrated into projects'
+relational databases by importing the relevant records as their own sets
+of tables, with explicit links drawn between them and the database
+backbone, which reflected the organizational structure of archaeological
+entities encountered in the field (see
+\textbf{?@fig-archaeometry-spreadsheets}).\textsuperscript{\hyperref[A98]{{[}A98{]}}}
+For example, samples that were drawn from a particular excavation unit
+were typically listed in a specialist table, but were linked to an
+overarching index of all excavation
+units.\textsuperscript{\hyperref[A6]{{[}A6{]}}} Analytical results could
+therefore be retrieved for particular parts of a site, alongside
+findings derived from different kinds of analysis performed on material
+deriving from the same contexts.
+
+The\paragraphnumber{[23]} material that was physically distributed and
+sent out for specialized analysis was thus conceptually re-integrated in
+informational terms. Diverse kinds of material were rarely examined in
+close physical proximity outside of fieldwork, though the potential to
+integrate abstract measurements about them was highly
+valued.\textsuperscript{\hyperref[B19]{{[}B19{]}},~\hyperref[C17]{{[}C17{]}},~\hyperref[C18]{{[}C18{]}},~\hyperref[C19]{{[}C19{]}}}
+However, this actually rarely happened in ways that leveraged the
+computational potential of these efforts. Specialists provided their own
+preliminary analyses in written and oral reports, in which they examined
+the materials under their own
+purview.\textsuperscript{\hyperref[B1]{{[}B1{]}},~\hyperref[B11]{{[}B11{]}}}
+Analysis was therefore siloed, and findings deriving from these analyses
+were subsequently
+integrated.\textsuperscript{\hyperref[A99]{{[}A99{]}},~\hyperref[A89]{{[}A89{]}},~\hyperref[B12]{{[}B12{]}}}
+
+While\paragraphnumber{[24]} specialists' interests may have overlapped
+with those of other members of the project, directors preferred to have
+one specialist for each means of investigation. At the same time, some
+degree of overlap among specialists who examine the same kinds of
+materials from different methodological perspectives was expected and
+encouraged. For example, the geoarchaeologists at Case A shared a strong
+affinity based on their mutual work with geological materials, despite
+the fact that they specialized in different geological
+processes.\textsuperscript{\hyperref[A85]{{[}A85{]}},~\hyperref[A95]{{[}A95{]}}}
+This benefited the project immensely, since it allowed each specialist
+to reflect upon the limitations of their approach and to harmonize that
+approach with those of the other specialists.
+
+At\paragraphnumber{[25]} the same time, however, the value of these
+complementary perspectives has yet to be demonstrated when presenting
+findings to the research community. Much of the discussion among
+geoarchaeologists at Case A, for instance, concerned strategic planning,
+including planning where to excavate, prioritizing where to take
+samples, and considering the degree of confidence that should be placed
+in certain findings. In other words, these were process-oriented
+discussions that reflected on decision-making processes. This
+information was not effectively represented in the database and in
+reports, which were more meant to articulate research outputs in a clear
+and confident manner. Inputting analytical findings into a database was
+therefore a lossy process that failed to capture much of the pragmatic
+knowledge and critical reflection provided by individuals and
+collectives.
+
+\subsection{Informal consultation}\label{informal-consultation}
+
+Additional\paragraphnumber{[26]} interactions between archaeologists and
+external members of their research communities also occurred through
+consultation with key figures, whom projects called in to either provide
+informed insights as a prelude to broader dissemination of a project's
+findings or to provide expert opinions on how work should proceed.
+Consultants were specialists in their own right, but their involvement
+was usually limited to one-off interactions that precluded long-term
+commitment to the project.
+
+As\paragraphnumber{[27]} Case A, a consultant was called in to examine a
+peculiar and anomalous material configuration that confounded project
+participants. As illustrated in Excerpt~\ref{exc-consulting-dialogue},
+Basil asked Andreas, a micromorphology specialist, to perform a
+preliminary, \emph{ad-hoc} examination of the microstratigraphy in a
+trench that exhibited evidence of hearth
+activity:\textsuperscript{\hyperref[A118]{{[}A118{]}},~\hyperref[A119]{{[}A119{]}},~\hyperref[A120]{{[}A120{]}},~\hyperref[A121]{{[}A121{]}}}
+
+\begin{excerpt}
+
+\centering{
+
+\begin{quote}
+\textbf{Andreas:} And on this side, on this side, is the, the fire base,
+sand, sand right below the, the hearth. \dots This sand is de-calcified,
+which again implies kind of, {[}left on{]} the surface in order to
+de-calcify. And on this surface, the guys came and put fire. Actually
+the matrix of the black stuff is sand again. \dots So the whole thing is
+kind of in play but not in sequence. \dots Of course we don't see any
+more ashes because they have been dissolved away. Actually what you see
+under the microscope is just sand grains surrounded by {[}unclear{]}
+made of very fine charcoaled dust, dust charcoal. That's why you don't
+find, I guess, charcoal inside, probably {[}a{]} few bits.\\
+\textbf{Basil:} Yeah, it's nothing. Yeah it's a very very tiny amount.\\
+\textbf{Andreas:} Yeah, I mean okay, it's like putting a fire down on
+the sand. You know, the sand is something that moves, always, around.
+Even people when we're trampling it, you know animals, you know \dots.
+Sadly, nothing would survive, \dots so much not in a \dots but would end
+up in dust, something like that.\\
+\textbf{Alfred:} Oh well.\\
+\textbf{Andreas:} But still, it's {[}held up{]} in place, and made on
+the, on the material that is just below. So they are, let's say, kind of
+the same, umm, story.\\
+\textbf{Basil:} Excellent.\\
+\textbf{Alfred:} That's good. Yeah.\\
+\textbf{Andreas:} I mean you can date, \dots The accumulation of the
+sand below and the fireplaces on top, they might be about the same age,
+more or less. I mean, if you are lucky and you \dots you can separate
+these two events, it would be nice but I think it's, it wouldn't be
+very\ldots{}\\
+\textbf{Alfred:} {[} unclear, but something about carbonized remains
+{]}\\
+\textbf{Basil:} We have a few carbonized remains. And we, we just took
+another 167 litres of flotation so our, we have our archaeobotanist
+coming through next week.\\
+\textbf{Andreas:} Yeah, then of course. \dots It is, there's no doubt
+about it.\\
+\textbf{Alfred:} Yeah.\\
+\textbf{Andreas:} Actually yeah, ok I forgot. There's quite a few burnt
+bone inside but are reduced in the size of sand. Let's say less than a
+half a millimetre, but they are burnt. Again, because you know, they are
+so {[}can't hear because of the sieve nearby{]}, they've degraded in
+that small sizes.\\
+\textbf{Basil:} Well, that's the only bone we have from the site so
+far.\\
+\textbf{Andreas:} I can show you under the mic, I mean they are tiny
+like \dots sand grains. And they are burned too.\\
+\textbf{Basil:} I wonder if we could do anything further with that.\\
+\textbf{Andreas:} Other than dating, I don't think, what else? Yeah.
+Yeah, I think more or less, you can't do more.\\
+\textbf{Basil:} So what---\\
+\textbf{Andreas:} Ahh, I mean, ok, in theory, some more fancy
+biochemical analysis? I don't know, I don't know if these things have
+survived. But why not? There have been, lately, some umm biochemical
+analyses on these kinds of stuff.\textsuperscript{\ref{A121}}
+\end{quote}
+
+}
+
+\caption{\label{exc-consulting-dialogue}Andreas provides guidance on how
+to collect meaningful information.}
+
+\end{excerpt}%
+
+In\paragraphnumber{[28]} this exchange, Andreas remarked that there was
+enormous potential to apply more in-depth micromorphological and
+instrumental analyses in this particular trench. He provided guidance on
+how to expand excavation around this trench on the basis of his
+understanding of the geological processes at work on the site and how
+they would affect the archaeological traces of hearths, and he suggested
+new forms of analysis that the director had not yet considered. Each
+participant played a particular role here: Andreas provided his brief
+analysis as a visiting and non-committed specialist; Alfred, who was the
+project's dedicated micromorphology specialist, recalled specific
+aspects that can be leveraged to support his own investigations; and
+Basil used his authority as project director to decide that these ideas
+were worth pursuing in greater
+depth.\textsuperscript{\hyperref[A120]{{[}A120{]}},~\hyperref[A121]{{[}A121{]}}}
+
+Similarly,\paragraphnumber{[29]} since Case B did not employ a full-time
+zooarchaeologist, Chris (who was also one of the co-directors)
+occasionally sent pictures of faunal remains they recovered to a
+colleague who would quickly identify them. For example, I observed one
+instance when Chris was fairly confident that a long bone they found was
+a cow's femur but he wanted to verify that it was not a human bone,
+which would have called for very different excavation procedures and
+project management decisions.\textsuperscript{\hyperref[B31]{{[}B31{]}}}
+
+Additionally,\paragraphnumber{[30]} I observed that projects sometimes
+seek to leverage consultants' authority on a subject to bolster
+confidence in cases when their findings rested on shaky
+foundations.\textsuperscript{{[}A122{]},{[}A123{]}{[}A124{]}} This was
+exemplified by the way that Case A handled its anxieties regarding the
+extremely colluvial nature of the site. Colluviation complicates any
+effort to date stratigraphic units and had resulted in many artefacts
+having extremely weathered surfaces that make them more difficult to
+characterize. Despite his confidence in their claims due to his daily
+involvement examining these artefacts, and his acknowledgement that the
+stratigraphy is imperfect, Basil knew that he would have a hard time
+convincing others of the nature of the things that they found. He
+therefore involved Denise, a major figure in lithics analysis who was
+responsible for publishing the most definitive assemblages of the kind
+of materials recovered at Case A, to examine their materials, as
+articulated in
+Excerpt~\ref{exc-warrant-for-consultantation}:\textsuperscript{{[}A124{]},{[}A125{]}}
+
+\begin{excerpt}
+
+\centering{
+
+\begin{quote}
+\textbf{Basil:} \ldots{} for decades, there have been accepted means of
+scientifically representing the archaeological record, umm to act as
+evidential bases for your claims. It's understood, that you know, it's
+impractical for every single interested archaeologist to come to see
+your site, to see your material. You could be in Australia and the site
+could be in Peru, umm and so, without that tactile, immediate
+relationship with the evidence basis that somebody's uhh excavated,
+there are ways of representing it through photography and line
+illustration. Umm, that always used to seem to be enough, but it seems
+like again, it comes down to this contentious nature of our site. The
+fact that we are, we allegedly have such an early site where such early
+sites are not meant to be, I'm starting to discover that some of what
+used to be the accepted means of, accepted ehh evidential umm bases,
+don't seem to be good enough for everyone. And so it's been very
+important to have people like Denise come and see this stuff in the
+flesh. Yes, she's seen the drawing, yes, she's seen the photograph, but
+for her to see it first hand, handle it, pick it up, query it, umm look
+at, look at assemblages, as opposed to cherry picked illustrated pieces,
+has been fundamental to convince her that we really have what we say we
+have.{[}A124{]}
+\end{quote}
+
+}
+
+\caption{\label{exc-warrant-for-consultantation}Basil explains his
+rationale for inviting Denise to examine the archaeological material.}
+
+\end{excerpt}%
+
+At\paragraphnumber{[31]} the same time, Denise informed Basil about some
+of her concerns with the material, and in
+Excerpt~\ref{exc-result-of-consultation} Basil recalls how this
+constructive criticism provided him with an understanding of how to
+proceed to accommodate these
+issues.\textsuperscript{{[}A125{]},{[}A126{]}}
+
+\begin{excerpt}
+
+\centering{
+
+\begin{quote}
+\textbf{Basil:} So the superstar material that Lauren was excavating,
+that we thought was Levallois blade cores, she disagreed. She thinks the
+material is fabulous, she's never seen this material before in Greece,
+she thinks it's Aurignation and looks much more like what you would find
+in France. She's blown away. She's blown away by---\\
+\textbf{Zack:} But it's still Middle Pal?\\
+\textbf{Basil:} Very early Middle Pal. But, we had shown her our
+superstar pieces. This is where it---\\
+\textbf{Zack:} I was in the trench that first day when we, and I was
+like cores, wow, tons of them.\\
+\textbf{Basil:} I mean that stuff is--- but we had shown her some of our
+superstar pieces from the survey, like here's a Levallois point, classic
+thing. But she's like hmm, it's just one piece. Haha you know, it's just
+like, she's not exactly {[}unclear{]}, but she has very high
+standards.\\
+\textbf{Zack:} So is she sticking with, is she saying that Middle Pal
+was a thing though?\\
+\textbf{Basil:} She was like, so she was looking at these, these little
+bits and pieces, and like, well, the stuff, you know, we showed her a
+whole bunch of stuff, it's like, we think this is Levallois, she's like
+no, it's this. And then we show her some stuff from the survey and it's
+like, hmm it's one piece and it could be, but it's just one piece,
+that's not really enough. And then finally we showed her the material,
+Jolene showed her material from {[}the trench{]}, Alice's new trench,
+and she's like yes, this is Middle
+Palaeolithic.\textsuperscript{\ref{A125}}
+\end{quote}
+
+}
+
+\caption{\label{exc-result-of-consultation}Basil explains the feedback
+he received from Denise, and what this means for future work.}
+
+\end{excerpt}%
+
+From\paragraphnumber{[32]} these examples we see that members of the
+archaeological community who were not active project participants
+sometimes supplemented the input provided by specialist project
+participants. As people who were external to the project, they were not
+committed to following through on their advice; they instead relayed
+their interpretations to specialists who are already members of the
+project and who were capable of implementing their
+guidance.\textsuperscript{{[}A127{]},{[}A128{]}} Moreover, as outsiders,
+they were not forced to adhere to the systematic recording systems that
+scaffolded internal procedures, and the informal nature of their
+contributions was in fact a crucial aspect that imbued them with value.
+
+\section{Discussion and Conclusion}\label{discussion-and-conclusion}
+
+Projects\paragraphnumber{[33]} experience immense pressures to render
+observations in ways that are amenable to formal and functional
+analysis, which in turn mandate rigid and decisive data collection
+processes to instill confidence in the stability and evidentiary nature
+of archaeological data.\textsuperscript{\ref{A176}, \ref{A89}} As such,
+particular kind of analytic process comes to dictate the conduct of
+other aspects of work, and involves reducing the interpretive agency of
+actors involved in all aspects of the data's constitution and
+processing.
+
+This\paragraphnumber{[34]} results in prioritization of archaeological
+materials as formally structured and abstract entities, devoid of
+character in their own right and always perceived as specific instances
+of a more general class. The only person who can recognize a thing as
+meaningful is someone who is deemed capable of granting it meaning. This
+is exemplified by my observations of work performed by trench
+assistants, who essentially serve as unskilled labourers who are
+shuffled around a project to perform menial tasks that, almost
+exclusively, concern materials that have not yet been assigned
+archaeological character (\textbf{batist2025?}). Beyond operating as
+sensory instruments, fieldworkers serve others' creative efforts by
+cleaning artefacts and performing preliminary sorting tasks. Those
+involved in this type of work prepare materials for analysis that others
+will perform, namely specialists. Similarly, trench assistants move
+sediment and rocks out of a trench, but it is up to the supervisor, who
+is responsible for recording the significance of these materials, to
+make meaning out of them. Trench assistants are cast as mere sensors,
+whose identifications of a thing, if taken seriously at all, are based
+on the character of shapes and textures they encounter, and not on any
+underlying archaeological theory or model.
+
+Their\paragraphnumber{[35]} interchangeability, owing to the limited
+expectations made of them (simply responding to prompts), renders
+fieldworkers invisible and removes any potential for imagining data
+collection as discursive and situated. This supports the absorption of
+fieldworkers into distributed data-recording system, thereby reducing
+the impacts of their situated perspectives and presenting their work as
+a form of objective sensory understanding.
+
+At\paragraphnumber{[36]} the same time, interpretation is delegated to
+others who are not as present at the site, and whose distance from the
+archaeological encounter provides a kind of freedom to take the data at
+face value, rather than to grapple with their discursive origins. This
+contributes to a sense that so-called ``data-driven'' analysis generates
+new knowledge synthesized from a series of objective facts derived from
+generic, predictable, and protocol-driven sensing devices (Huggett
+2022). Archaeological information infrastructures are thus designed to
+enable the appropriation of direct observations by those with the means
+of extracting more meaningful value from them.
+
+Moreover,\paragraphnumber{[37]} the paper observed how there is greater
+flexibility for those higher up in the chain to explain the context of
+the work they perform. However, the advent of open data sharing,
+integration and reuse adds another layer of abstraction, whereby entire
+projects and the totality of the data they collect are rendered as
+generic instances of some greater class. The discomfort that project
+directors sense upon having their creative agency reduced is akin to
+that which was experienced during the advent of tighter control over
+fieldwork recording systems (as documented by Chadwick (1998) and Thorpe
+(2012)), and which we now take for granted.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+This\paragraphnumber{[38]} paper frames the technologies that
+archaeologists use to re-situate individual archaeologists in relation
+to project collectives as means through which managerial protocols are
+carried out. Specifically, it documents a few underappreciated aspects
+of archaeological projects' sociotechnical arrangements that should be
+accounted for more thoroughly:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Systems designed to direct the flow of information do so via the
+  coordination of labour, and the strategic arrangement of human and
+  object agency.
+\item
+  These systems are \emph{attempts} at control, which are actively
+  resisted by those who work under them, and passively resisted by the
+  wild nature of the things that that they attempt to tame.
+\item
+  Informal and socially-mediated forms of scholarly communication are
+  de-prioritized and excluded from data streams ascribed with greater
+  scholarly legitimacy, despite the fact that this information is
+  crucial for developing a sense of mutual understanding that underpins
+  comprehension of formal datasets.
+\item
+  Boundaries, whether they restrict membership within a collective,
+  delimit a project's scope, or limit the time frame under which a
+  project operates, have practical positive value, and are not just
+  arbitrary impediments.
+\item
+  Information systems and the institutional structures that support them
+  tend to reinforce and reify existing power structures and divisions of
+  labour, including implicit rules that govern ownership and control
+  over research materials and that designate who may benefit from their
+  use.
+\end{enumerate}
+
+\section{References}\label{references}
+
+\phantomsection\label{refs}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-batist2023a}
+Batist, Zachary. 2023. {``Archaeological Data Work as Continuous and
+Collaborative Practice.''} PhD thesis, Toronto: University of Toronto.
+\url{https://hdl.handle.net/1807/130306}.
+
+\bibitem[\citeproctext]{ref-batist2024}
+Batist, Zachary, and Joe Roe. 2024. {``Open {Archaeology}, {Open
+Source}? {Collaborative} Practices in an Emerging Community of
+Archaeological Software Engineers.''} \emph{Internet Archaeology}, no.
+67 (July). \url{https://doi.org/10.11141/ia.67.13}.
+
+\bibitem[\citeproctext]{ref-chadwick1998}
+Chadwick, Adrian. 1998. {``Archaeology at the Edge of Chaos: Further
+Towards Reflexive Excavation Methodologies.''} \emph{Assemblage}
+3:97--117.
+
+\bibitem[\citeproctext]{ref-huggett2022}
+Huggett, Jeremy. 2022. {``Is {Less More}? {Slow Data} and {Datafication}
+in {Archaeology}.''} In \emph{Critical {Archaeology} in the {Digital
+Age}: {Proceedings} of the 12th {IEMA Visiting Scholar}'s {Conference}},
+edited by Kevin Garstki, 97--110. Los Angeles, CA: Cotsen Institute of
+Archaeology Press.
+\url{https://escholarship.org/uc/item/0vh9t9jq\#page=112}.
+
+\bibitem[\citeproctext]{ref-ragin1992}
+Ragin, Charles C. 1992. {``Casing and the Process of Social Research.''}
+In \emph{What Is a {Case}? {Exploring} the {Foundations} of {Social
+Inquiry}}, edited by Charles C. Ragin and Howard S. Becker, 217--26.
+Cambridge University Press New York.
+
+\bibitem[\citeproctext]{ref-stake2006}
+Stake, Robert E. 2006. \emph{Multiple Case Study Analysis}. New York:
+Guilford Press.
+
+\bibitem[\citeproctext]{ref-thorpe2012}
+Thorpe, Reuben. 2012. {``Often {Fun}, {Usually Messy}: {Fieldwork},
+{Recording} and {Higher Orders} of {Things}.''} In \emph{Reconsidering
+{Archaeological Fieldwork}: {Exploring On-Site Relationships Between
+Theory} and {Practice}}, edited by Hannah Cobb, Harris Harris Oliver J.
+T., Cara Jones, and Philip Richardson, 31--52. Springer, Boston, MA.
+\url{https://doi.org/10.1007/978-1-4614-2338-6_3}.
+
+\end{CSLReferences}
+
+\subsection{Acknowledgments}\label{acknowledgments}
+
+I\paragraphnumber{[39]} extend warm thanks to Costis Dallas, Matt Ratto,
+Ted Banning, Jeremy Huggett and Ed Swenson for supervising my work and
+providing critical feedback as I conducted my doctoral research, which
+this paper is based upon. I am also very grateful to the anonymous
+reviewers for their constructive evaluation. Of course, this work would
+not have been possible without the anonymous research participants who
+allowed me to observe and interview them as they worked, and to
+articulate their actions and outlooks.
+
+\subsection{Funding}\label{funding}
+
+This\paragraphnumber{[40]} work is derived from the author's doctoral
+dissertation, \emph{Archaeological data work as continuous and
+collaborative practice} (Batist 2023), which was supported by the
+Canadian Social Sciences and Humanities Research Council Doctoral
+Fellowship (Award ID: 752-2019-2233).
+
+\subsection{Competing Interests}\label{competing-interests}
+
+The\paragraphnumber{[41]} author states no conflicts of interest.
+
+\subsection{Author Contributions}\label{author-contributions}
+
+Zachary\paragraphnumber{[42]} Batist is the sole author of this work. He
+defined the scope of the study and identified suitable cases for
+inclusion, collected and processed all data, performed analysis,
+interpreted the findings, created all the figures, and wrote the paper.
+
+\subsection{Informed Consent}\label{informed-consent}
+
+Informed\paragraphnumber{[43]} consent has been obtained from all
+individuals included in this study, in compliance with the University of
+Toronto's Social Sciences, Humanities, and Education Research Ethics
+Board, Protocol 34526.
+
+\subsection{Data Availability
+Statement}\label{data-availability-statement}
+
+The\paragraphnumber{[44]} data generated and analyzed during the current
+study are included in this published article's supplementary files.
+
+\subsection{Author Bios}\label{author-bios}
+
+Zachary\paragraphnumber{[45]} Batist obtained his PhD from the
+University of Toronto's Faculty of Information. His research explores
+the collaborative commitments inherent throughout archaeological
+practice, especially relating to data management and the constitution of
+information commons. He currently works as a Postdoctoral Researcher at
+the Department of Epidemiology, Biostatistics and Occupational Health in
+the School of Public and Global Health at McGill University, where he
+investigates the collaborative, technical and administrative structures
+that scaffold data harmonization in epidemiological research.
+
+\subsection{Figure Captions}\label{figure-captions}
+
+\section{Supplementary Materials}\label{supplementary-materials}
+
+
+
+
+\end{document}

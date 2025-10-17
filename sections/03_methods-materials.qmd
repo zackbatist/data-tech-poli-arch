@@ -1,2 +1,61 @@
-# Methods and Materials
-I applied an abductive qualitative data analysis approach based on recorded observations, interviews, and documents collected from three cases, including two independent archaeological projects and one regional data sharing consortium directed by targeted research objectives.
+# Methods and Data
+The findings presented here are derived from my dissertation [@batist2023a], which produced three other papers deriving from the same methods and data.
+As such, there is significant overlap with the work presented in Batist [-@batist2024a; -@batist2025; -@batist2025a] where further methodological details and provided.
+
+## Approach
+This study is informed by a science and technology studies (STS) tradition, which views science as cultural practice shaped by social interactions.
+Specifically, it explores how researchers collaborate and share information, looking at how they contribute to and use a shared pool of knowledge.
+I focus on how participation in specialized disciplinary communities of practice instills norms and expectations that govern how actors may contribute to or access these information commons, and how this mutual understanding is accessed, expressed and reproduced.
+
+This aligns with the situated cognition framework, which examines the improvised and context-specific nature of human activities, including scientific research [@knorrcetina2001; @suchman2007].
+Situated cognition helps us analyze how people talk about their work, defining what their community considers acceptable or unacceptable practices.
+It also helps explain how cultural or community-based values influence their decisions and actions.
+Based on this framework, the study sees archaeology as a collective effort to understand the past, which relies on systems comprising both technical and social mechanisms that carry information from different stages of research.
+The technical elements are the means through which information becomes encoded onto information objects so that they may form the basis for further inference, whereas the social elements constitute a series of norms or expectations that facilitate the delegation of roles and responsibilities among agents who contribute their time, effort and accumulated knowledge to communal goals.
+
+## Cases
+This paper articulates some systemic relations that scaffold archaeologists' actions and attitudes at two independent archaeological projects, which serve as cases.
+The cases are not the subjects of inquiry, and instead represent discrete instances that share common reference to the overall research themes [@stake2006].
+So while the cases are certainly not representative of the whole archaeological discipline, they do enable me to reveal some underappreciated systemic concerns that underlie data management.
+As such, the findings are informed by the behaviours and attitudes expressed to me by those who agreed to participate, and by my own standpoint as a scholar of the culture and practice of science and of the media and infrastructures that support data sharing, integration and reuse.
+
+Both cases were research projects located in southern Europe and directed by professors affiliated with North American universities.
+I contributed to Case A for several years as a database manager, which provided me a privileged outlook on the systems set up to integrate and draw value from data.
+My involvement as a participant observer occurred over three years, from 2017 to 2019, and involved visiting the project during its summer field seasons to observe archaeological practices and to interview selected participants.
+I also held interviews throughout the "off season".
+My continual and longer-term participation at Case A afforded greater understanding of the intricate social relations that developed over time, and enabled me to examine how certain methods and attitudes evolved over successive field seasons.
+This helped me account for how knowledge emerged from activities distributed across time, place and circumstance.
+Case B is generally regarded as being technologically innovative and has paved the way for application of novel digital tools and technologies into daily fieldwork routines (especially photogrammetry and advanced spatial recording systems).
+I visited this project for ten days during its 2019 summer fieldwork season, and my visit focused on the challenges that emerge from the use of advanced information systems, including how participants attempt to resolve those problems.
+My work at Case B was more intensive, and presented me with a fresh alternative to what I observed in Case A, which follows more traditional data management procedures.
+
+In both cases, the data I collected largely pertains to fieldwork recording practices, processing and analysis of finds, records management, interdisciplinary collaboration, decisions regarding writing and publication of findings, and discussions of how data and findings are presented, evaluated and revised among broader research communities.
+They each illustrate of the pragmatic and multifaceted ways in which participants reason and work their way through the rather mundane activities that archaeologists commonly undertake in similar research contexts.
+
+Commercial archaeology is absent from this study's scope, despite the fact that it accounts for the vast majority of archaeological work conducted throughout North America and Europe.
+My own lack of knowledge about commercial archaeology contributed to my decision to exclude it from this study.
+However, @thorpe2012 and @zorzin2015 have done similar work in this domain and have arrived at complementary conclusions.
+
+## Data Collection
+I assembled a rich and heterogeneous dataset comprising recorded observations of research practices, embedded interviews with archaeologists while they worked, retrospective interviews in non-work settings, and documents produced and used by project participants.
+
+Observations were usually video-recorded and documented what people actually do, which may differ from what they say or think they do.
+The main focus of observations was on how people used information tools and interfaces, to account for how the specific context of an activity influences its implementation, and to document how researchers use unconventional solutions or "hacks" to solve problems [@goodwin2010].
+Embedded interviews were conversational inquiries conducted while participants were actively working.
+This helps me understand how and why people make decisions in real-time, considering the immediate pressures and circumstances of their work.
+Unlike simply observing their actions, these interviews captured the practical perspectives held by the researchers [@flick1997].
+Retrospective interviews were longer discussions held outside participants' work environments.
+They provided greater understanding of the broader contexts of work by exploring aspects that were not easily observed, such as project planning, publishing, and collaboration [@fontana2000].
+They also provided insight into how researchers saw themselves and their roles within the larger academic community.
+I examined documents including recording sheets, photographs, labels, databases, datasets and reports to gain insight into the norms or expectations concerning the presentation of legitimate forms of knowledge.
+I emphasized how people interacted with these media and ascribed value to them.
+
+I also wrote extensive field notes that remarked on key moments from observations and interview sessions, descriptions of unrecorded activities and conversations, and reflexive journal entries.
+
+## Data Analysis
+Through abductive qualitative analysis of observations of archaeological practice, interviews with archaeologists as they worked, and of documents they created, I captured diverse experiences and outlooks that provide insight regarding how data management infrastructures are valued and used in a variety of contexts.
+This involved coding segments of interview transcripts and observational records and performing systematic writing and conceptual modelling exercises directly alongside the data [@charmaz2014].
+This allowed me to build theories based on empirical evidence that reflected the informants' diverse experiences.
+
+By listening to participants' views concerning the systems with which they engaged and explanations as to why they acted in the ways that they did, I uncovered some underlying assumptions that shaped their perspectives and actions.
+Specifically, I was able to articulate systemic factors that scaffolded participants' actions, attitudes, and experiences as they contributed to collective operations.

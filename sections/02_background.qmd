@@ -1,5 +1,7 @@
 # Background
-Archaeological data are records that encode objects' characteristics, properties or features in ways that render meaningful aspects communicable among actors (including human and non-human actors) who share common points of reference.
+To be written...
+
+<!-- Archaeological data are records that encode objects' characteristics, properties or features in ways that render meaningful aspects communicable among actors (including human and non-human actors) who share common points of reference.
 In effect, data identify, record and format information about objects or phenomena and their relevant properties, which enables knowledge about them to circulate and form the basis for extended avenues of knowledge production.
 In other words, they are the media through which local observations are transmitted across time, place and situated circumstance, often (but not always) with productive purposes in mind.
 
@@ -78,7 +80,7 @@ To expand on @haciguzeller2021's observations, structured data are representatio
 - Central to this is a concern with the authoritativeness of archaeological knowedge
 - Does it come from global institutions? Colonial enterprise? Local community involvement? Scientific objectivity?
 - Others, decades ago, have shown that these are all related (Foucault, Hodder, etc), but as Lucas pointed out, these discussions have been pushed aside
-- As digital tools and technologies have become more widespread and demystified in recenet years, archaeologists are beginning to realize that its decisions, situated within systemic factors that limit the range of possible actions, all the way down
+- As digital tools and technologies have become more widespread and demystified in recenet years, archaeologists are beginning to realize that its decisions, situated within systemic factors that limit the range of possible actions, all the way down -->
 
 
 <!-- scrap

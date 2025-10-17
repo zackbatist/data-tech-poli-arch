@@ -23,11 +23,7 @@ Informed consent has been obtained from all individuals included in this study, 
 ## Data Availability Statement {.appendix}
 The data generated and analyzed during the current study are included in this published article's supplementary files.
 
-## Author Bios {.appendix}
+## Author Bio {.appendix}
 Zachary Batist obtained his PhD from the University of Toronto's Faculty of Information.
 His research explores the collaborative commitments inherent throughout archaeological practice, especially relating to data management and the constitution of information commons.
 He currently works as a Postdoctoral Researcher at the Department of Epidemiology, Biostatistics and Occupational Health in the School of Public and Global Health at McGill University, where he investigates the collaborative, technical and administrative structures that scaffold data harmonization in epidemiological research.
-
-## Figure Captions {.appendix}
-
-

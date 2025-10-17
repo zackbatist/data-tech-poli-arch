@@ -29,7 +29,6 @@ keywords:
 funding: |
   This work is derived from the author's doctoral dissertation, _Archaeological data work as continuous and collaborative practice_ [@batist2023a], which was supported by the Canadian Social Sciences and Humanities Research Council Doctoral Fellowship (Award ID: 752-2019-2233).
 citation:
-  title: xxx
   container-title: xxx
   volume: xxx
   doi: xxx
@@ -52,7 +51,7 @@ format:
       margin-width: 500px
     include-in-header:
       - text: |
-          <style>
+          <style type="text/css">
             .exc {
               background-color: rgb(247, 247, 247);
               &.quarto-figure-center>figure>div {
@@ -88,6 +87,8 @@ format:
         \usepackage{marvosym}
     template-partials:
       - assets/title.tex
+format-links:
+  - pdf
 filters:
   - abstract-section
   - count-para.lua
@@ -95,10 +96,10 @@ filters:
 
 {{< include sections/00_abstract.qmd >}}
 {{< include sections/01_introduction.qmd >}}
-<!-- {{< include sections/02_background.qmd >}} -->
+{{< include sections/02_background.qmd >}}
 {{< include sections/03_methods-materials.qmd >}}
 {{< include sections/04_findings.qmd >}}
 {{< include sections/05_discussion.qmd >}}
+{{< include sections/12_supplement.qmd >}}
 {{< include sections/10_references.qmd >}}
 {{< include sections/11_back-matter.qmd >}}
-{{< include sections/12_supplement.qmd >}}
