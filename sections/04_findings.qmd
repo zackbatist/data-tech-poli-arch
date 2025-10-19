@@ -23,7 +23,7 @@ Trench supervisors called upon Chris to collect geospatial information from vari
 He also relied on trench assistants to help him by holding a portable DGPS "rover" (which communicates with a spatially-calibrated base station located in a fixed position), and talk among them tended to be about ensuring the proper collection of a reliable sample of points (see @fig-DGPS).^[B2](#sec-B2)^
 As illustrated in @exc-collecting-spatial-data, Chris recorded the geospatial point at the position where Oliver, the trench assistant, placed the rover, while Liz, the trench supervisor, oversaw the process and identified what needed to be recorded.^[B2](#sec-B2)^
 
-![Recording DGPS points. The DGPS specialist records the geospatial point at the position where the trench assistant places the rover, while the trench supervisor oversees the process and identifies what needs to be recorded.](../figures/DGPS.png){#fig-DGPS}
+![Recording DGPS points. The DGPS specialist records the geospatial point at the position where the trench assistant places the rover, while the trench supervisor oversees the process and identifies what needs to be recorded.](figures/dgps.png){#fig-DGPS width="100%"}
 
 ::: {#exc-collecting-spatial-data .exc}
 > **Liz:** And then if you can just take one point there, and one point right in the middle, umm that’s all we need.\
@@ -51,9 +51,9 @@ At both Cases A and B, fieldworkers divided these finds into broad-level categor
 At the same time, they tossed stones that exhibit no anthropogenic qualities (see @fig-sieve: D).
 They also used sieves to separate loose sediment from small objects, collecting those that they deem culturally meaningful, and discarded the rest (see @fig-sieve: A, B, C and D).
 
-![Sorting archaeological objects into bags based on their physical material properties.](../figures/sorting.png){#fig-sorting}
+![Sorting archaeological objects into bags based on their physical material properties.](figures/sorting.png){#fig-sorting width="100%"}
 
-![Preliminary sorting of archaeological materials in the field. **A:** Placing unsorted material into the sieve; **B:** Using the sieve to separate loose sediment from larger objects; **C:** Sorting through the larger objects, and keeping the anthropogenic objects in the bucket nearby; **D:** Dumping the non-anthropogenic material into the spoil heap; **E:** Creating a bag and a tag, which indicates the kind of material contained in the bag ("lithics" is shorthand for chipped stone made from chert in this case), as well as information about the excavation unit and context of discovery (i.e. date, excavators' initials); **F:** Placing the artefacts in the bag.](../figures/sieve.png){#fig-sieve}
+![Preliminary sorting of archaeological materials in the field. **A:** Placing unsorted material into the sieve; **B:** Using the sieve to separate loose sediment from larger objects; **C:** Sorting through the larger objects, and keeping the anthropogenic objects in the bucket nearby; **D:** Dumping the non-anthropogenic material into the spoil heap; **E:** Creating a bag and a tag, which indicates the kind of material contained in the bag ("lithics" is shorthand for chipped stone made from chert in this case), as well as information about the excavation unit and context of discovery (i.e. date, excavators' initials); **F:** Placing the artefacts in the bag.](figures/sieve.png){#fig-sieve width="100%"}
 
 Sometimes, fieldworkers set aside materials that they were unsure about and documented the findspot in more detail --- "just in case" --- before proceeding with their work.^[A4](#sec-A4)^
 This documentation was tentative, and depending on whether a specialist would later determine that the find was worth saving for analysis, may not have become part of the official archaeological record.^[A4](#sec-A4),[A5](#sec-A5)^
@@ -94,7 +94,7 @@ For instance, the spreadsheets that archaeological specialists produce in the ca
 They were organized on a sample-by-sample basis, associated with discrete units from which each sample element was taken (see @fig-archaeometry-spreadsheets).^[A16](#sec-A16),[A17](#sec-A17)^
 These records were analytical results in that they were the products of analytical processes, but they were also data in the sense that they were considered to be grounded and stable records of systematic observation that may serve as a sound basis for further investigation.
 
-![Screenshots of spreadsheets maintained by archaeological specialists. A depicts a spreadsheet maintained by Marie, Case A’s OSL specialist. B depicts a spreadsheet maintained by Dorothy, Case A’s archaeobotanist.](../figures/archaeometry-spreadsheets.png){#fig-archaeometry-spreadsheets}
+![Screenshots of spreadsheets maintained by archaeological specialists. A depicts a spreadsheet maintained by Marie, Case A’s OSL specialist. B depicts a spreadsheet maintained by Dorothy, Case A’s archaeobotanist.](figures/archaeometry-spreadsheets.png){#fig-archaeometry-spreadsheets width="100%"}
 
 Specialist reports, on the other hand, were summaries of a specialist's findings.
 They described overall trends that specialists observed in their preliminary analysis of the findings, highlighted their potential significance, and proposed ways to ameliorate the results or relate them to other aspects of the project.^[B6](#sec-B6)^

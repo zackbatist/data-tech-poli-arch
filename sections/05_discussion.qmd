@@ -1,31 +1,21 @@
-# Discussion and Conclusion
-Projects experience immense pressures to render observations in ways that are amenable to formal and functional analysis, which in turn mandate rigid and decisive data collection processes to instill confidence in the stability and evidentiary nature of archaeological data.\textsuperscript{\ref{A176}, \ref{A89}}
-As such, particular kind of analytic process comes to dictate the conduct of other aspects of work, and involves reducing the interpretive agency of actors involved in all aspects of the data's constitution and processing.
+# Discussion
+Projects experience immense pressures to render observations in ways that are amenable to formal and functional analysis, which in turn mandate rigid and decisive data collection processes to instill confidence in the stability and evidentiary nature of archaeological data.
+As such, particular kinds of analytic processes comes to dictate the conduct of other aspects of work, which involve reducing the interpretive agency of actors involved in all aspects of the data's constitution and processing.
 
 This results in prioritization of archaeological materials as formally structured and abstract entities, devoid of character in their own right and always perceived as specific instances of a more general class.
-The only person who can recognize a thing as meaningful is someone who is deemed capable of granting it meaning.
-This is exemplified by my observations of work performed by trench assistants, who essentially serve as unskilled labourers who are shuffled around a project to perform menial tasks that, almost exclusively, concern materials that have not yet been assigned archaeological character [@batist2025].
+This is exemplified by my observations of work performed by trench assistants, who essentially serve as unskilled labourers who are shuffled around a project to perform menial tasks that, almost exclusively, concern materials that have not yet been assigned archaeological character [see also @batist2025].
 Beyond operating as sensory instruments, fieldworkers serve others' creative efforts by cleaning artefacts and performing preliminary sorting tasks.
 Those involved in this type of work prepare materials for analysis that others will perform, namely specialists.
 Similarly, trench assistants move sediment and rocks out of a trench, but it is up to the supervisor, who is responsible for recording the significance of these materials, to make meaning out of them.
 Trench assistants are cast as mere sensors, whose identifications of a thing, if taken seriously at all, are based on the character of shapes and textures they encounter, and not on any underlying archaeological theory or model.
-
 Their interchangeability, owing to the limited expectations made of them (simply responding to prompts), renders fieldworkers invisible and removes any potential for imagining data collection as discursive and situated.
 This supports the absorption of fieldworkers into distributed data-recording system, thereby reducing the impacts of their situated perspectives and presenting their work as a form of objective sensory understanding.
 
-At the same time, interpretation is delegated to others who are not as present at the site, and whose distance from the archaeological encounter provides a kind of freedom to take the data at face value, rather than to grapple with their discursive origins.
+At the same time, interpretation is delegated to people who are not as present at the site.
+Their distance from the archaeological encounter provides them with freedom to take the data at face value, rather than to grapple with their discursive origins.
 This contributes to a sense that so-called "data-driven" analysis generates new knowledge synthesized from a series of objective facts derived from generic, predictable, and protocol-driven sensing devices [@huggett2022].
 Archaeological information infrastructures are thus designed to enable the appropriation of direct observations by those with the means of extracting more meaningful value from them.
 
-Moreover, the paper observed how there is greater flexibility for those higher up in the chain to explain the context of the work they perform. However, the advent of open data sharing, integration and reuse adds another layer of abstraction, whereby entire projects and the totality of the data they collect are rendered as generic instances of some greater class. The discomfort that project directors sense upon having their creative agency reduced is akin to that which was experienced during the advent of tighter control over fieldwork recording systems (as documented by @chadwick1998 and @thorpe2012), and which we now take for granted.
+Additionally, I observed how there is greater flexibility for those higher up in the chain to explain the context of the work they perform. However, the advent of open data sharing, integration and reuse adds another layer of abstraction, whereby entire projects and the totality of the data they collect are rendered as generic instances of some greater class. The discomfort that project directors sense upon having their creative agency reduced is akin to that which was experienced during the advent of tighter control over fieldwork recording systems [as documented by @chadwick1998; @thorpe2012], and which we now take for granted.
 
----
-
-This paper frames the technologies that archaeologists use to re-situate individual archaeologists in relation to project collectives as means through which managerial protocols are carried out.
-Specifically, it documents a few underappreciated aspects of archaeological projects' sociotechnical arrangements that should be accounted for more thoroughly:
-
-1. Systems designed to direct the flow of information do so via the coordination of labour, and the strategic arrangement of human and object agency.
-2. These systems are _attempts_ at control, which are actively resisted by those who work under them, and passively resisted by the wild nature of the things that that they attempt to tame.
-3. Informal and socially-mediated forms of scholarly communication are de-prioritized and excluded from data streams ascribed with greater scholarly legitimacy, despite the fact that this information is crucial for developing a sense of mutual understanding that underpins comprehension of formal datasets.
-4. Boundaries, whether they restrict membership within a collective, delimit a project's scope, or limit the time frame under which a project operates, have practical positive value, and are not just arbitrary impediments.
-5. Information systems and the institutional structures that support them tend to reinforce and reify existing power structures and divisions of labour, including implicit rules that govern ownership and control over research materials and that designate who may benefit from their use.
+[[Still very incomplete. Need to draw in the various other observations. Also need to more generously frame this as a systemic concern and present this as a role-based issue that's not really related to people's core identities.]]{.mark}

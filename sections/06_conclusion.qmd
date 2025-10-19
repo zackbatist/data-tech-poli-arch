@@ -1,0 +1,15 @@
+# Conclusion
+This paper frames the technologies that archaeologists use to re-situate individual archaeologists in relation to project collectives as means through which managerial protocols are carried out.
+Specifically, it documents a few underappreciated aspects of archaeological projects' sociotechnical arrangements that should be accounted for more thoroughly:
+
+Systems designed to direct the flow of information do so via the coordination of labour, and the strategic arrangement of human and object agency.
+
+These systems are _attempts_ at control, which are actively resisted by those who work under them, and passively resisted by the wild nature of the things that that they attempt to tame.
+
+Informal and socially-mediated forms of scholarly communication are de-prioritized and excluded from data streams ascribed with greater scholarly legitimacy, despite the fact that this information is crucial for developing a sense of mutual understanding that underpins comprehension of formal datasets.
+
+Boundaries, whether they restrict membership within a collective, delimit a project's scope, or limit the time frame under which a project operates, have practical positive value, and are not just arbitrary impediments.
+
+Information systems and the institutional structures that support them tend to reinforce and reify existing power structures and divisions of labour, including implicit rules that govern ownership and control over research materials and that designate who may benefit from their use.
+
+[[Still very incomplete. Need to expand on each of the above points.]]{.mark}
