@@ -1,0 +1,25 @@
+.title {
+  font-size: 48px !important;
+}
+
+.quarto-title-author-name {
+  font-size: 36px;
+}
+
+.date {
+  font-size: 14px;
+}
+
+.quarto-title-affiliation {
+  font-size: 12px;
+  padding-top: 20%;
+}
+
+.references {
+  display: none;
+}
+
+.description {
+  font-size: 16px;
+}
+

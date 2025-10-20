@@ -101,14 +101,24 @@ format:
     template-partials:
       - assets/title.tex
   revealjs:
+    slides: true
     output-file: slides
     embed-resources: true
-    # theme: moon
+    theme: black
     slide-number: c/t
-    title: TITLE
-    # footer: |
-    #   <a href="https://zackbatist.info/data-tech-poli-arch/">zackbatist.info/data-tech-poli-arch</a>
-format-links:
+    title: "Data Management is People Management:"
+    subtitle: On Abstraction of Data and Labor in Archaeological Projects
+    description: <a href="https://archaeo.social/@zackbatist">zackbatist@archaeo.social</a>
+    date: 2025-12-03
+    date-format: long
+    toc-depth: 1
+    toc-title: Overview
+    footer: |
+      <a href="https://zackbatist.info/data-tech-poli-arch/">zackbatist.info/data-tech-poli-arch</a>
+    template-partials:
+      - assets/title-slide.html
+    css: assets/slides-styles.css
+format-links: 
   - pdf
   - format: revealjs
     text: Slides
@@ -138,7 +148,7 @@ A refined, peer-reviewed version will be published in the workshop proceedings.\
 
 :::
 
-:::: {.content-hidden when-format="html" when-format="pdf"}
+::: {.content-hidden unless-meta="slides"}
 
 {{< include sections/99_slides.qmd >}}
 
