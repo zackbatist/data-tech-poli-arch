@@ -6,20 +6,35 @@
   font-size: 36px;
 }
 
+/* .quarto-title-author-mastodon {
+  font-size: 36px;
+} */
+
 .date {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .quarto-title-affiliation {
   font-size: 12px;
-  padding-top: 20%;
 }
 
 .references {
   display: none;
 }
 
-.description {
-  font-size: 16px;
+.center-xy {
+          margin: 0;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          -ms-transform: translateY(-50%), translateX(-50%);
+          transform: translateY(-50%), translateX(-50%);
+        }
+
+.grey {
+  color: grey;
 }
 
+.small-text {
+  font-size: 30px;
+}
