@@ -38,3 +38,8 @@
 .small-text {
   font-size: 30px;
 }
+
+
+.nobull {
+  list-style-type: none;
+}

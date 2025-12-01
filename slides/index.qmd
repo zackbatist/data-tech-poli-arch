@@ -21,205 +21,383 @@ format:
 
 ---
 
-# Background
-::: {.notes}
+## About me
 
-- So when I talk about data, we should be clear about what we mean.
-- This is true as researchers, as curators, and as scholars of scientific practice.
-- So before I go further, I'll briefly discuss the notion of data and disentangle its multiple meanings.
+::: {.fragment .small-text}
+**Primary research interests**
+
+- How do "open" infrastructures and policies impact research practice?
+- Tensions between institutional and community-driven aspects of research
+
+:::
+
+::: {.fragment .small-text}
+**Also...**
+
+- **open-archaeo.info:** list of open source archaeological software and resources
+- **diamond.open-archaeo.info:** list of diamond open access archaeology journals
+- **archaeo.social:** Mastodon server and alternative social media collective
+- **Digital archaeology maintain-a-thon (Jan. 2026):** a month-long online venue for archaeologists to document, maintain, and re-visit older code and data, together
+
+:::
+
+::: {.notes}
+- I'd like to start by briefly introducing myself.
+- Although I have a background in archaeology, I'm probably more accurately described as a scholar of scientific practice, with a deep focus on archaeology specifically.
+- My primary research interests are concerned with how open infrastructures and policies impact research practice, and the tensions between institutional and community-driven aspects of research.
+- In other words, I'm interested in how we set up systems to scaffold the flow of information, and how those systems operate in practical and collaborative research environments.
 
 []()
 
+- This bleeds into other aspects of my work, including how archaeologists apply open source software development practices in their work, and I developed open-archaeo as a curated list of free software and resources created by and for archaeologists.
+- I lead work on a similar resource for diamond open access archaeology journals, and I co-founded and co-moderate the archaeo.social mastodon instance and social media collective, which is a great replacement for twitter and bluesky.
+- I'm also very proud of my work coordinating an upcoming month-long maintainathon, which will serve as a venue for developing common practices for maintaining older code and data, as a community.
+
+:::
+
+## Notions of Data
+
+::: {.fragment}
+- [**Descriptive**]{.underline}  
+[The observable sets of characteristics, properties or features]{.small-text}
+
+:::
+
+
+::: {.fragment}
+
+- [**Explanatory**]{.underline}  
+  [The evidential basis upon which inferred claims are either verified or refuted]{.small-text}
+
+:::
+
+
+::: {.fragment}
+
+- [**Communicative**]{.underline} ^⭐️^  
+  [- Means of transmitting observations from one set of circumstances to another]{.small-text}\
+  [- Acknowledge the material circumstances under which data were collected, and presents them as outcomes of decisions and actions]{.small-text}
+
+:::
+
+::: {.notes}
+- So, before I go further, I'll briefly discuss the notion of data and disentangle its multiple meanings.
 - It turns out, that when researchers say the word "data", they mean a few different things.
-- So I've identified three notions of data that are often conveyed:
-
-:::
-
-## Notions of data
-1. Descriptive accounts of observed phenomenon
-    - [e.g. data describes objects]{.small-text}
-<hr>
-1. Evidence that forms the basis of a claim
-    - [e.g. data grounds interpretations in reality]{.small-text}
-<hr>
-1. Means of communicating observations from one set of circumstances to another
-    - [e.g. data are published, integrated, analyzed or visualized]{.small-text}
-
-
-::: {.notes}
-
-- The first constitutes the observable sets of characteristics, properties or features pertaining to objects of interest
-- The data is going to follow a data model that delimits what's relevant, and it will always paint an incomplete picture.
-- For instance, this does not capture that Spencer always wears a bowtie collar, or that the unnamed feral tortie loves playing in the autumn leaves.
 
 []()
 
-- The second notion presents data as the evidential basis upon which inferred claims are either verified or refuted
+- One way they tend to think about data is as descriptive accounts of observed phenomenon.
+- So, consistent and precise records about objects or phenomena, used to document the state of a thing through a series of relevant properties.
+- In this context, data is going to follow a data model that delimits what's relevant, and it will always paint an incomplete picture.
 
 []()
 
-- And finally (and most interesting, in my opinion), the third notion presents data as records made about objects of interest, which are inscribed upon some medium, and can be consulted, accessed or used as stand-ins for the objects that they have been constructed to represent.
+- The second notion of data presents them as evidence that forms the basis for a claim.
+- In an analytical context, data are always fixed and stable, and precede the analysis.
+- In other words, data grounds interpretations in reality.
 
-- In simpler terms, as means of communicating observations from one set of circumstances to another.
-- This latter aspect of data tends to acknowledge the material circumstances under which data were collected, and therefore presents the data as outcomes of decisions and actions, rather than reflections of stable knowledge.
-- This can be imagined as someone documenting their data collection protocols, the rationales behind those plans, and also the ways in which their actions deviated from their planned courses of action.
+[]()
+
+- The third notion of data, which is arguably the most important in the context of this workshop, presents data as means of communicating observations from one set of circumstances to another.
+- So, the records made about objects of interest, which are inscribed upon some medium, and can be consulted, accessed or used as stand-ins for the objects that they have been constructed to represent
+- This perspective tends to acknowledge the material circumstances under which data were collected, and therefore presents the data as outcomes of decisions and actions, rather than reflections of stable knowledge.
+- Moreover, this third notion of data is especially useful for enabling us to think about data as an outcome of collective effort.
+- Therefore, data are cast as outcomes of social and collaborative interactions, and it is possible to investigate the "rules" that govern who may contribute to and extract from these commons, and in what ways.
+
+[]()
+
+- To be clear, these are not mutually exclusive definitions.
+- Data are and can be all of these things at the same time, and people even refer all these aspects of data in the same breath.
+- Pulling these apart enables us to articulate what people value about data in different contexts.
+
+[]()
+
+- This paper will basically accomplish this through a series of vignettes which demonstrate how technical and organizational structures work in tandem to structure the constitution of archaeological data.
 
 :::
 
-## Implications
+## Data Collection
 
-- Data are products of human decisions and actions
-- Data are situated within organizational structures that scaffold coordinated action
+::: {.fragment .small-text}
+- Observational Records
+- Embedded Interviews
+- Retrospective Interviews
+- Document Analysis
 
-# Methodology
-## Approach
-- Science and technology studies
-  - Conceptualizes research as a social and collaborative enterprise
-  - Emphasizes lived experience over system design perspective
-- Case study
-  - Articulates key factors shaping how archaeologists curate collective data streams
-  - Prompts deeper thought on how we structure our work
+\
 
-## Cases
-- [**Case A:**]{.underline} Long-term intervention (2016-2019), greater familiarity with actors and relationships
-- [**Case B:**]{.underline} More intensive 10 day intervention (2019)
+![](images/Picture1.png){.absolute top=0 left=600 width="500"}
+
+:::
+
+::: {.fragment .small-text}
+- Conducted over four years, from 2017 – 2020
+- On site and in museum and dig house settings
+- Mostly during summer fieldwork, some interviews held off-season
+- Participants' identities kept confidential
+- Three cases (only two accounted for here)
+
+:::
 
 ::: {.notes}
-- Research projects directed by professors affiliated with North American universities
+
+- This is based on my doctoral dissertation, which entailed analysis of observational and interview-based data of archaeological research practice to articulate the collaborative commitments through which archaeologists form and communicate an understanding of the past.
+- I collected data over four years from 2017 to 2020, mostly during summer fieldwork seasons, and pertaining to three cases.
+- Only two of those cases will be covered in the scope of this paper.
+
+[]()
+
+- The identities of each case and the research participants are confidential, to comply with my ethics protocol.
+- However, I can tell you some key information about them.
+- Both are research projects based in southern European directed by foreign professors from North America.
+- They organized their teams following a common model, with a director who coordinates the project, various specialists whom the director recruited for their expertise in the interpretation of finds, a number of trench supervisors who lead excavation and coordinate data collection, and excavators who are usually less experienced students who operate under the guidance of their assigned trench supervisors.
+- Both projects relied extensively on advanced digital methods, but Case B was well-known as a digital innovator.
 
 :::
-
-## Data
-- Observations
-  - Examines what researchers do in practice rather than what they report or assume they do
-
-- Interviews
-  - Embedded inquiries as participants work, to explain the rationale behind their actions
-  - Retrospective interviews concerning general attitudes and reflections
-
-## Data
-
-- Documents
-  - Records created as work unfolded
-  - Bear traces of their meaningfulness within a broader system of knowledge creation
-
-- Field notes
-  - Unrecorded observations and conversations
-  - My own reflections
 
 ---
 
-
 ![opar](images/opar.png){.absolute top=0 left=-100 width=65%}
 ![pci](images/pci.png){.absolute top=250 left=-100 width=65%}
-![aap](images/aap.png){.absolute top=150 left=600 width=50%}
+![aap](images/aap.png){.absolute top=0 left=600 width=50%}
 
-::: {.notes}
-Just for some context, this paper derives from my doctoral dissertation, which I defended in August 2023.
-I've published three other related papers drawing from the same rich dataset.
-
+::: {data-id="preprint" style="background: #2780e3; border-color: #ffffff; width: 525px; height: 320px; position: absolute; top: 260px; left: 600px"}
+[zackbatist.info/data-tech-poli-arch]{.small-text style="text-align: center; position: absolute; top: 150px; padding-left: 45px"}
 :::
-
-## Analysis
-:::: {.columns .small-text}
-
-::: {.column width="65%"}
-::: {.fragment}
-- Coding interview transcripts
-  - Enables me to develop theory about social actions
-:::
-
-::: {.fragment}
-- Writing analytic memos
-  - To synthesize broader concepts, themes and theories based on the encoded data
-:::
-
-::: {.fragment}
-- Informed by broader theoretical frameworks
-  - About scientific practice, research infrastructure, collaborative experiences, information commons
-:::
-
-::: {.fragment}
-- Theory is therefore "grounded" in the data
-:::
-:::
-
-::: {.column width="35%"}
-![Codes applied to an interview transcript from my prior research.](images/coding.png)
-:::
-
-::::
-
-::: {.footer}
-:::
-
-
-# Findings
 
 ::: {.notes}
 
-- To reiterate, this paper documents some ways in which projects scaffold archaeologists’ behaviours through technical and administrative means.
-- It accomplishes this by identifying different kinds of agency that drive and carry out common archaeological tasks, and ascertains how these relationships are embedded within or affirmed by data management systems.
+- I should also note that this paper overlaps with my other published work, which appeared in Open Archaeology and Peer Community in Archaeology, and which is in press at Advances in Archaeological Practice.
+- And, by the way, the slides and pre-print from this talk will also be available at that URL.
 
 :::
 
-## Finds processing
-I'll start with the example of finds processing.
+## Finds Processing
 
-Archaeological projects uncover a lot of varied material, which must be sorted and processed to facilitate subsequent analysis.
+![sorting](../figures/sorting.png){.absolute top=100 left=-100 width=60%}
+![sieve](../figures/sieve.png){.absolute top=100 left=550 width=55%}
 
-In the cases I observed, finds processing began in the field, where objects were either kept aside or discarded into the spoil heap.
+::: {.notes}
 
-At both cases, fieldworkers divided these finds into broad-level categories corresponding to materials, such as ceramic, bone and shell, separating them into bags and buckets labelled with the excavation unit in which they were found, as they emerged from the trenches (see Figure 3: E and F) and Figure 2.
-At the same time, they tossed stones that exhibit no anthropogenic qualities (see Figure 3: D).
-They also used sieves to separate loose sediment from small objects, collecting those that they deem culturally meaningful, and discarded the rest (see Figure 3: A, B, C and D).
+- So, as we're all aware, archaeological projects uncover a lot of material, which must be sorted and processed to facilitate subsequent analysis.
+- In the cases I observed, finds processing began in the field, where objects were either kept aside or discarded into the spoil heap.
+- At both cases, fieldworkers divided these finds into broad-level categories corresponding to materials, such as ceramic, bone and shell, separating them into bags and buckets labelled with the excavation unit in which they were found, as they emerged from the trenches.
+- At the same time, they tossed stones that exhibit no anthropogenic qualities.
+- They also used sieves to separate loose sediment from small objects, collecting those that they deem culturally meaningful, and discarded the rest.
 
-Excavators were usually able to detect what was worth keeping by eye, but operating sieve is an activity that does this task in isolation.
+[]()
 
-Additionally, there's the task of tagging and bagging the materials set aside during excavation.
-In my observations, it was almost always the job of trench supervisors to write on or otherwise dictate these tags and bags, to render the haphazard bucketing into a more concrete and lasting official record.
-This is not an injustice, but rather a testament to their familiarity with the flow of materials owing to their embedding within a broader site-wide system of knowledge production that trench assistants do not (yet) have access to.
+- In my observations, it was almost always the job of trench supervisors to write on or otherwise dictate these tags and bags, to render the haphazard bucketing into a more concrete and lasting official record.
+- This is not an injustice, but rather a manifestation of their responsibility to ensure that the material is properly embedding within a broader site-wide system of knowledge production that trench assistants do not (yet) have access to.
 
-At the same time, as fieldworkers, supervisors lacked access to other forms of specialized knowledge.
-Fieldworkers were expected to classify finds on the basis of characteristics commonly recognized as more natural, while study of their anthropogenic qualities was typically reserved for finds analysis.
+[]()
 
-In effect, a distinction was made between fieldwork, which deals with materials, and finds analysis, which deals with artefacts and ecofacts.
+- Additionally, after hauling all the finds back to the dig house, excavators were responsible for cleaning and brushing the finds with water.
+- Throughout this activity, excavators talked about the day's work and their personal and collective experiences, and speculated about the things they recovered and which they were then revisiting in a secondary context.
+- As non-experts, their relatively amateur analyses remain unexplored, but they still felt an impetus to examine these objects and try to develop insights from these experiences.
+- Cleaned materials were then left out in the sun to dry before being brought to a space dedicated for finds analysis and storage.
+- The materials were dumped on a broad table, and specialist's assistants quickly sorted through them.
+- They discarded any non-anthropogenic materials collected in error, then counted and weighed all remaining artefacts, before performing further analysis based on their typological and technological characteristics
 
-Moreover, even when specialists worked in the field, they operated as fieldworkers; their actions were constrained by the practical circumstances of fieldwork and the position of fieldwork within a broader apparatus of archaeological knowledge production.
+- In these situations, supervisors were responsible for instructing assistants regarding how to process materials according to a series of rules.
+- Assistants were encouraged to act as mere sensing devices, as tools exhibiting an air of objectivity.
+- No aspect of finds processing involved maintaining a journal or recording substantial interpretations of the materials, which revealed a failure to recognize that any meaningful insights could arise during these stages of work.
+- It is also noteworthy that assistants were expected to classify finds on the basis of characteristics commonly recognized as more natural, while study of their anthropogenic qualities was typically reserved for finds analysis.
+- In effect, a distinction was made between this grunt work, which deals with materials, and specialized work, which deals with artefacts and ecofacts.
+- Finds processing was therefore positioned as a means to an end, that being the arrival of cleaned and sorted finds upon the specialists' desks, where meaningful archaeological knowledge would be produced.
 
-In this sense, the division of labour was partly due to pragmatic concerns, namely the fact that fieldworkers were usually occupied with their own specific tasks that required mental concentration, especially when instructed to do this work quickly.
-
-So it's not about identify, but about pragmatic position within a system of knowledge production.
-
-## Consultants
-
-Another set of examples is concerned with being bound by the systems that enforce systematic modes of knowledge production.
-
-All specialists are encouraged to do their work in a systematic manner.
-They do this by embedding the materials within the domains they represent.
-They therefore liaise their specialized knowledge to the project and their project's materials to the specialist domain.
-
-
-At the same time, some projects call in consultants to help make sense of the materials _without holding them accountable to the project's structured guidelines_.
-
-![consultants](images/consultants.excalidraw.png)
-
-
-This is apparent in the example of Andreas...
-
-
-And in the example of Denise...
+:::
 
 ## Sampling
-- Tends to occur in service of some specialist domain.
-- When a fieldworker is asked to help collect samples, they tend to do so as instruments of some other creative force.
 
+![](../figures/DGPS.png){.absolute top=100 left=-50 height=85%}
+![](images/Screenshot%202025-11-27%20at%2012.18.40%E2%80%AFPM.png){.absolute top=200 left=475 width=60%}
 
-# Discussion
-- The constitution of archaeological data is as much a social phenomenon as it is a technical one.
-- Positional within the system dictates how one may contribute.
-- The project's boundaries are demarcated by the information systems they established to scaffold and structure the data it is mandated to collect and curate.
-- Consultants may be called in to help guide how projects should tweak their processes and information management systems, but they themselves have no role in actually working within those systems.
-- It is also notable that they consult with directors and leaders of independent leaders of specialist domains, i.e, those with greater creative agency.
-- In other words, they advise the creative agents regarding how they should tweak their designed workflows.
+::: {.notes}
+- Let's take another example:
+- Here, Chris, Liz and Oliver are recording geospatial points using a DGPS, and each person contributes to the collective action in a unique way that corresponds with their position in the project.
 
+[]()
+
+- Chris is an expert in operating a GIS and is the one who introduced the DGPS to the project.
+- He is a fieldworkers too, but this work is being done in service of the database that he primarily maintains.
+
+[]()
+
+- Liz is the supervisor for that particular trench, and is more aware of what has been uncovered than any other member of the project.
+- She therefore coordinates with Chris to determine exactly where the points should be taken from.
+
+[]()
+
+- And Oliver is a trench assistant who simply holds the DGPS receiver.
+- He is responsive to the others, and is instructed to hold the receiver as straight and as solidly as possible.
+- He operates as an extension of the data collection apparatus, in service of the GIS database.
+
+[]()
+
+- We see here a cooperative interaction between Chris who drives the data collection, Liz who provides input based on her familiarity with the trench, and Oliver who is operationalized as a mechanism of the database apparatus.
+- Each has their role in ensuring balance between context-laden and seemingly-objective representations of the trench.
+
+:::
+
+## Finds Analysis
+
+![](images/vlcsnap-2025-12-01-10h57m30s755.png)
+
+::: {.notes}
+
+- A similar delegation of labour is also apparent in the context of finds analysis.
+
+[]()
+
+- I already mentioned how after cleaning the finds, they were dumped on a table and any false positives were discarded.
+- Following that procedure, I observed how Jolene, the lithics specialist, went through and sorted the remaining material, sometimes mumbling her reasoning aloud.
+- She physically grouped objects, following a general pattern for each excavation unit: cores at the top left corner, blades at the top right, and the extremely high volume of flakes occupying the main space in front of her.
+
+[]()
+
+- After she settled on her arrangement, she dictated her description of the assemblage as a whole, in a fragmented tone that insinuates strong intention behind each word.
+- Meanwhile, her assistant, Maude, wrote down this speech.
+- Afterward, Maude recorded the quantities of artefacts in each category, as laid out by Jolene, and entered this information into a spreadsheet.
+- Sometimes, Jolene would create a new category on the fly, and Maude would push back by asking whether they should slot it under an existing label, and those conversations usually ran on for a while, addressing the broader history of these classifications.
+
+[]()
+
+- Whereas Jolene was the source of creative knowledge production, Maude was responsible for embedding these insights within the project's organizational apparatus, which often contradicted Jolene's creative control.
+
+[]()
+
+- Maude also maintained a checklist to track all aspects of work performed on the materials, including information about the materials' provenance, who processed the materials, when the work occurred, and detailed parameters that structured processing tasks.
+- This checklist resembled the records maintained by the project's database manager to trace what records await integration into the database and to ensure that all information was properly recorded.
+- These records existed to track progress and verify the integrity of work.
+
+[]()
+
+- We see here another tension between the allure of concrete representations and disciplinary creative.
+- Note that the power dynamic is between database and domain knowledge, not between supervisor and assistant.
+
+:::
+
+## Informal Consultation
+
+![](images/consultants.svg)
+
+::: {.notes}
+
+- As the project moved forward, there was some trepidation regarding the confidence of these readings.
+- The site produced some incredible finds that challenged dominant narratives, though the sediments were extremely colluvial.
+- Additionally, even though an experienced analyst could recognize the actual character of the finds, they were very chemically weathered, which made it very difficult to photographically capture their features.
+- Sharing illustrations was also deemed inappropriate because of a perception that they were too interpretive and lacked objective legitimacy.
+
+[]()
+
+- The problem they faced was that the media that archaeologists typically use to communicate their findings was unsuitable in this specific case.
+- To resolve this issue, they decided to call in a well respected third party to examine the material for herself, to show her the challenging contexts from which the materials were obtained, and to receive feedback on how to proceed.
+- In other words, they wanted to encourage a more direct engagement with the materials and reveal the unique circumstances that made the data the way that they are.
+
+[]()
+
+- In effect, they relied on a consultant as a proxy to (a) get a sense of what others might think of their still-unpublished material, and (b) help communicate the extenuating circumstances that made the material difficult to present through conventional media.
+
+[]()
+
+- And to be clear, none of this was improper.
+- It was all above-board, and the team made a significant effort to instill an expectation of independent review throughout the consultant's visit.
+
+[]()
+
+- What's interesting about this is that in-house specialists are bound by the systems that enforce systematic modes of knowledge production.
+- After all, they must produce a spreadsheet, at the end of the day.
+
+[]()
+
+- However, consultants are not bound by the project's data management system.
+- They can drop in, look at the material, and leave without recording any of their observations, while retaining a deep understanding of the archaeological material.
+- In other words, they are able to grant some legitimacy to the project's findings, without a mandate to scaffold their observations according to a formal data scheme.
+
+:::
+
+## Discussion
+
+![](images/triangle.svg)
+
+::: {.notes}
+
+- Throughout all of these examples, there were tensions between what the database expects, and recognition that the database is a limited window on the things it is intended to capture.
+- This is evident in the ways in which people were recruited to represent either the database or the things to be recorded by it.
+
+[]()
+
+- For example, in the situation of finds processing, trench supervisors were responsible for ensuring that the materials were channelled into discrete buckets, in accordance with the broader pipeline in which excavation is situated.
+- However, when taking spatial points, these same trench supervisors represented the local context, defending the integrity of what they uncovered from an apparatus that does not really differentiate between local features without being guided by someone who knows the trench.
+
+[]()
+
+- Turning back to finds analysis, the lithics specialist relied on her extensive training to systematically classify the materials, while her assistant served as the database's enforcer.
+- For both of them, the database was an immutable entity that they were forced to conform to.
+- However, when the consultant was called in, they were free to make changes to the schema.
+- And it was then up to the primary lithics specialist to update the data model with those new considerations, and to re-formalize them into a new authoritative data structure.
+
+[]()
+
+- Both accurate representations and clean data have great value, but these outcomes are achieved by hyper-focusing on specific outcomes and by increasing our awareness of our interventions, which are opposed forces.
+- So the challenge is: how do we get both valuable outcomes --- accurate _**and**_ clean representations --- while mitigating against the means through which we achieve either of them.
+
+[]()
+
+- I've always been amazed by the sense that "somehow, this works".
+- Somehow, we are able to achieve some balanced perspective.
+
+[]()
+
+- And what I came to realize is that framing this as a technical problem is a dead-end.
+- The ways people actually communicate, take on specific roles in relation to the data structure, as representatives of the here-and-now or of the projected outcomes, is what makes this work.
+- And we're always made to embody each of these perspectives, in various situations.
+- As a director doing directorial tasks, you have to think about how the work will be represented to various stakeholders, but as soon as he enters the trench, he is thinking only "is this a bone, or a stone?"
+
+[]()
+
+- And we all have that excavation experience, we've all seen how the sausage is made, we all know that things are not as clean as they appear on the page or the screen.
+- We carry that knowledge as we do analysis based on structured data, and we re-introduce context as we write up our findings.
+
+[]()
+
+- This is not the case for data scientists, who tend to intervene with little understanding of how data came to be.
+- In other words, data scientists' obtain power through their ability to take data at face value, _**and**_ for that to be considered a valuable quality.
+
+[]()
+
+- When we make our data openly accessible, we are handing off our ability to communicate the limits surrounding data, and to ensure that others listen.
+
+[]()
+
+- When archaeologists do reuse data, it tends to occur in-house, by people who are already very involved in the data's formation.
+- Or, when data reuse occurs in a distant environment, analysts tend to request additional information that is not in the official documentation.
+- Excavation journals, for instance, are extremely sought after in contexts of data reuse, if reuse is being led by an archaeologist.
+- However, if it is being led by a data scientist, they just want the schema and nothing else that may complicate their view.
+
+[]()
+
+- Perhaps I'm admonishing data scientists a bit too much here, but this is just to reiterate the fact that they are not accounted for in the ways we organize our work.
+- We may have people who deal with data, but we call them archaeologists, they are part of our community of practice and have obtained an archaeological sensibility through fieldwork experience.
+
+[]()
+
+- This sensibility enables us to understand when it's possible to bend the rules, when we need to account for context, when we need to be more structured.
+- This understanding, which is embedded in our social and collaborative relations, rather than in any technical apparatus, is what makes it work, somehow!
+
+:::
+
+## Thank you!
+
+::: {.notes}
+- So, I guess I'll end by reiterating that all archaeological data are objects of anthropogenic origin, and carry traces of the decisions and actions that informed their creation.
+- Also, because data are products of creative work, they should be treated as entities that communicate meaning between contexts of creation and reuse.
+- You can't force an artist to explain his painting for all gallery visitors until the end of time, and people should be free to obtain their own meanings from a work of art.
+- So as we move forward with developing open data platforms, we should be aware of these concerns about creativity and control over the long-run, and whether we should --- or even can --- accomplish effective data reuse without any social or collaborative component.
+
+[]()
+
+- Thank you!
+
+:::
