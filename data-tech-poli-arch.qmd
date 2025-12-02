@@ -105,7 +105,7 @@ format:
   #   embed-resources: true
   #   toc: false
   #   title: "Data Management is People Management:"
-  #   subtitlte: On Abstraction of Data and Labor in Archaeological Projects
+  #   # subtitle: On Abstraction of Data and Labor in Archaeological Projects
   #   theme: black
   #   slide-number: c/t
   #   template-partials:
