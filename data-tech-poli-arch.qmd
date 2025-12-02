@@ -1,7 +1,6 @@
 ---
-title: |
-  Data Management is People Management:\
-  On Abstraction of Data and Labor in Archaeological Projects
+title: "Data Management is People Management:"
+subtitle: On Abstraction of Data and Labor in Archaeological Projects
 author:
   - name: Zachary Batist
     id: zb
@@ -34,9 +33,6 @@ citation:
   container-title: TBD
   doi: TBD
   url: https://zackbatist.info/data-tech-poli-arch
-toc: true
-toc-depth: 2
-toc-expand: 2
 number-sections: false
 code-fold: true
 code-copy: true
@@ -62,6 +58,9 @@ format:
     grid:
       margin-width: 500px
       body-width: 950px
+    toc: true
+    toc-depth: 2
+    toc-expand: 2
     include-in-header:
       - text: |
           <style type="text/css">
@@ -100,28 +99,22 @@ format:
         \usepackage{marvosym}
     template-partials:
       - assets/title.tex
-  revealjs:
-    slides: true
-    output-file: slides
-    embed-resources: true
-    theme: black
-    slide-number: c/t
-    title: "Data Management is People Management:"
-    subtitle: On Abstraction of Data and Labor in Archaeological Projects
-    description: <a href="https://archaeo.social/@zackbatist">zackbatist@archaeo.social</a>
-    date: 2025-12-03
-    date-format: long
-    toc-depth: 1
-    toc-title: Overview
-    footer: |
-      <a href="https://zackbatist.info/data-tech-poli-arch/">zackbatist.info/data-tech-poli-arch</a>
-    template-partials:
-      - assets/title-slide.html
-    css: assets/slides-styles.css
+  # revealjs:
+  #   slides: true
+  #   output-file: slides
+  #   embed-resources: true
+  #   toc: false
+  #   title: "Data Management is People Management:"
+  #   subtitlte: On Abstraction of Data and Labor in Archaeological Projects
+  #   theme: black
+  #   slide-number: c/t
+  #   template-partials:
+  #     - assets/title-slide.html
+  #   css: assets/slides-styles.css
 format-links: 
   - pdf
-  - format: revealjs
-    text: Slides
+  - text: Slides
+    href: slides.html
     icon: easel
 
 ---
@@ -146,11 +139,11 @@ A refined, peer-reviewed version will be published in the workshop proceedings.\
 {{< include sections/10_references.qmd >}}
 {{< include sections/11_back-matter.qmd >}}
 
-:::
+::::
 
-::: {.content-hidden unless-meta="slides"}
+<!-- ::: {.content-hidden unless-meta="slides"}
 
-{{< include sections/99_slides.qmd >}}
+{{< include slides.qmd >}}
 
-:::
+::: -->
 
