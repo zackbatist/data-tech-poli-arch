@@ -1,18 +1,3 @@
----
-format:
-  revealjs:
-    slides: true
-    output-file: slides
-    embed-resources: true
-    title: "Data Management is People Management:"
-    subtitle: On Abstraction of Data and Labor in Archaeological Projects
-    theme: black
-    slide-number: c/t
-    template-partials:
-      - assets/title-slide.html
-    css: assets/slides-styles.css
----
-
 ## About me
 
 ::: {.fragment .small-text}
@@ -118,7 +103,7 @@ format:
 
 \
 
-![](figures/observing.png){.absolute top=0 left=600 width="500"}
+![](slides/images/observing.png){.absolute top=0 left=600 width="500"}
 
 :::
 
@@ -149,10 +134,10 @@ format:
 
 ---
 
-![opar](figures/opar.png){.absolute top=0 left=-100 width=65%}
-![pci](figures/pci.png){.absolute top=250 left=-100 width=65%}
-![aap](figures/aap.png){.absolute top=0 left=600 width=50%}
-![preprint](figures/preprint.png){.absolute top=250 left=600 width=50%}
+![opar](slides/images/opar.png){.absolute top=0 left=-100 width=65%}
+![pci](slides/images/pci.png){.absolute top=250 left=-100 width=65%}
+![aap](slides/images/aap.png){.absolute top=0 left=600 width=50%}
+![preprint](slides/images/preprint.png){.absolute top=250 left=600 width=50%}
 
 ::: {.notes}
 
@@ -200,7 +185,7 @@ format:
 ## Sampling
 
 ![](figures/DGPS.png){.absolute top=100 left=-50 height=85%}
-![](figures/dgps-transcript.png){.absolute top=200 left=475 width=60%}
+![](slides/images/dgps-transcript.png){.absolute top=200 left=475 width=60%}
 
 ::: {.notes}
 - Let's take another example:
@@ -231,7 +216,7 @@ format:
 
 ## Finds Analysis
 
-![](figures/finds-analysis.png)
+![](slides/images/finds-analysis.png)
 
 ::: {.notes}
 
@@ -269,7 +254,7 @@ format:
 
 ## Informal Consultation
 
-![](figures/consultants.svg)
+![](slides/images/consultants.svg)
 
 ::: {.notes}
 
@@ -308,7 +293,7 @@ format:
 
 ## Discussion
 
-![](figures/triangle.svg)
+![](slides/images/triangle.svg)
 
 ::: {.notes}
 

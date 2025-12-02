@@ -99,22 +99,22 @@ format:
         \usepackage{marvosym}
     template-partials:
       - assets/title.tex
-  # revealjs:
-  #   slides: true
-  #   output-file: slides
-  #   embed-resources: true
-  #   toc: false
-  #   title: "Data Management is People Management:"
-  #   # subtitle: On Abstraction of Data and Labor in Archaeological Projects
-  #   theme: black
-  #   slide-number: c/t
-  #   template-partials:
-  #     - assets/title-slide.html
-  #   css: assets/slides-styles.css
+  revealjs:
+    slides: true
+    output-file: slides
+    embed-resources: true
+    toc: false
+    # title: "Data Management is People Management:"
+    # subtitle: On Abstraction of Data and Labor in Archaeological Projects
+    theme: black
+    slide-number: c/t
+    template-partials:
+      - slides/title-slide.html
+    css: slides/slides-styles.css
 format-links: 
   - pdf
-  - text: Slides
-    href: slides.html
+  - format: revealjs
+    text: Slides
     icon: easel
 
 ---
@@ -141,9 +141,9 @@ A refined, peer-reviewed version will be published in the workshop proceedings.\
 
 ::::
 
-<!-- ::: {.content-hidden unless-meta="slides"}
+::: {.content-hidden unless-meta="slides"}
 
-{{< include slides.qmd >}}
+{{< include slides/slides.qmd >}}
 
-::: -->
+:::
 
