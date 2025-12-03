@@ -1,0 +1,39 @@
+---
+description: Notes from before / during the workshop.
+date: last-modified
+---
+
+## Reflections on my own paper
+
+::: {.callout-note}
+I wrote this section to get around some writer's block.
+I felt very trapped by my abstract submission, so this was a way to reconcile what I wanted to say with what I had already committed.
+I think these were originally created in an untracked file on November 25.
+:::
+
+The paper should adapt to be more about the re-framing archaeological data management as commons-managament.
+Which occurs both within and among projects.
+Internally, there is structure to dictate who and how people can contribute and extract.
+And externally there is pressure to ensure that the findings are presented in a way that is amenable to being properly read and understood.
+
+The database helps structure these relationships, gives them solid substance by assigning roles, relationships, and commitments.
+Sometimes, these scaffolds truly shape how archaeologists relate with each other (application of database logic in sampling and finds processing, relational tables mapping onto specialist domains, lack of substantive communication among specialists), and sometimes archaeologists find ways around them (through consultants who are not accountable to the project and its systems of control).
+
+The goal is to reveal the intertwined nature of data management and people management.
+And that by rendering relationships as mere technical processes, we codify relatively fixed collaborative commitments.
+However, even still, archaeologists and the character of archaeological data (which can not fit any mold) resist these codified relationships.
+But who gets to break these molds? Who gets to claim context-dependency?
+
+Increasingly, even project directors (previously kings of their own projects) are subsumed as generic data points.
+Refer in agreement with Catapoti's paper regarding the extractive element of open data.
+I observed in some of my work how fieldworkers struck a bargain with project directors, to offload their creative agency to those who have a bigger picture perspective.
+Now project directors are asked to do the same thing in service of data science.
+The rules of the commons are shifting yet again, as we redefine who can contribute and in what ways, as either generic process or as creative agent.
+
+There is some hope: promoting purposeful, collaborative data sharing, driven by pre-existing collaborative relationships.
+People who re-use data truly want to connect in a collaborative sense, and the systems we have set up are insufficient to handle that need.
+But there are some great success stories in purposeful and community-driven data sharing initiatives that warrant further exploration.
+
+
+
+
