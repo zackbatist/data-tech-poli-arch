@@ -34,6 +34,52 @@ There is some hope: promoting purposeful, collaborative data sharing, driven by 
 People who re-use data truly want to connect in a collaborative sense, and the systems we have set up are insufficient to handle that need.
 But there are some great success stories in purposeful and community-driven data sharing initiatives that warrant further exploration.
 
+---
 
+Zafeiriadis' initial presentation was a great overview of the intention of the workshop, and threaded together the very diverse set of papers.
+Additionally, he brought up Joe Roe's 2019 blog post concerning how we define or draw boundaries around digital / computational archaeology.
 
+---
 
+Catapoti & Vavouranakis
+
+Brief historical overview of the post-processual theory landscape, and its evolution.
+Acknowledgement that these things did not really change day-to-day practice all that much.
+As this was occurring, a big division emerged between theory and empirical practice.
+Highlighted how much of the work in digital archaeology is acknowledgement of how we do digital archaeology, rather than its actual application.
+
+Includes typologies as a form of block-boxing.
+
+Notion of the "glass box", borrowed from Huggett.
+Opening spaces for multivocal interpretation.
+
+Draws attention to a crisis of archaeological identity.
+Are we managers and custodians of technical systems?
+How do we re-assert the centrality of archaeological inquiry into our workflows?
+
+Discussion really focused on black boxes, etc, and whether data has agency
+Stobiecka asked about whether there's value in other disciplinary perspectives, raises digital memory studies as influential in her own work.
+
+---
+
+Indgjerd & Uleberg
+
+Promoting the benefits of properly cleaning and archiving data.
+The emergence of small, purposeful uses of AI.
+Intra-project data-sharing, involving getting data from prior excavations available for current/ongoing fieldwork.
+
+---
+
+Foka
+
+Mentioned her new book in Cambridge Core Elements book on critical takes on AI, "AI and Image".
+Also mentioned Digital reparatory approaches to ai, in response to discussion about digital colonialism by Stobiecka.
+
+---
+
+Kalaycı
+
+Which archaeological tasks are (seemingly) repetitive?
+About automation, and whether things could be automated, and what that would entail.
+Discussion was very in-depth, concerning what it means to have agency, to be embodied, to create or be embedded in a system of control.
+Not really in those words, but in my own conceptual framing, at least.
