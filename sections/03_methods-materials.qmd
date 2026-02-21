@@ -1,17 +1,9 @@
 # Methods and Data
-The findings presented here are derived from my dissertation [@batist2023a], which produced three other papers deriving from the same methods and data.
-As such, there is significant overlap with the work presented in Batist [-@batist2024a; -@batist2025; -@batist2025a] where further methodological details and provided.
+The findings presented here are derived from the author's dissertation [@batist2023a], which produced three other papers deriving from the same project.
+As such, this work's methods and data overlap with the material presented in Batist [-@batist2024a; -@batist2025; -@batist2025a] where further methodological details and provided.
 
-## Approach
-This study is informed by a science and technology studies (STS) tradition, which views science as cultural practice shaped by social interactions.
-Specifically, it explores how researchers collaborate and share information, looking at how they contribute to and use a shared pool of knowledge.
-I focus on how participation in specialized disciplinary communities of practice instills norms and expectations that govern how actors may contribute to or access these information commons, and how this mutual understanding is accessed, expressed and reproduced.
-
-This aligns with the situated cognition framework, which examines the improvised and context-specific nature of human activities, including scientific research [@knorrcetina2001; @suchman2007].
-Situated cognition helps us analyze how people talk about their work, defining what their community considers acceptable or unacceptable practices.
-It also helps explain how cultural or community-based values influence their decisions and actions.
-Based on this framework, the study sees archaeology as a collective effort to understand the past, which relies on systems comprising both technical and social mechanisms that carry information from different stages of research.
-The technical elements are the means through which information becomes encoded onto information objects so that they may form the basis for further inference, whereas the social elements constitute a series of norms or expectations that facilitate the delegation of roles and responsibilities among agents who contribute their time, effort and accumulated knowledge to communal goals.
+This paper addresses how researchers collaborate and share information, looking at how they contribute to and use shared pools of knowledge.
+It specifically focuses on how participation in specialized disciplinary communities of practice instills norms and expectations that govern how actors may contribute to or access these information commons, and how this mutual understanding is accessed, expressed and reproduced.
 
 ## Cases
 This paper articulates some systemic relations that scaffold archaeologists' actions and attitudes at two independent archaeological projects, which serve as cases.

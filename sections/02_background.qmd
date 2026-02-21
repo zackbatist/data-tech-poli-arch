@@ -1,20 +1,9 @@
 # Background
-[[To be written...]]{.mark}
-
-<!-- Archaeological data are records that encode objects' characteristics, properties or features in ways that render meaningful aspects communicable among actors (including human and non-human actors) who share common points of reference.
+Archaeological data are records that encode objects' characteristics, properties or features in ways that render meaningful aspects communicable among actors (including human and non-human actors) who share common points of reference.
 In effect, data identify, record and format information about objects or phenomena and their relevant properties, which enables knowledge about them to circulate and form the basis for extended avenues of knowledge production.
-In other words, they are the media through which local observations are transmitted across time, place and situated circumstance, often (but not always) with productive purposes in mind.
-
-It should be noted that this is a very permissive notion of data that goes beyond the popular imaginations of data as exclusively comprising rectangular spreadsheets.
-Under this framing, data also comprises written records formatted according to various styles (recording sheets, spreadsheets, field notes), various forms of visual media (sketches, scale drawings, photographs, 3D models), or information collected through use of specialized sensing equipment designed to identify objects' physical, chemical or biomolecular properties (magnetometer, X-Ray Fluorescence [XRF] analyzers, tools and protocols for sequencing ancient DNA, etc) or spatial positions and relationships (theodolites, LiDAR, etc).
-
-For me, data is more like a _how_ than a _what_.
-
 It is therefore helpful to frame data sharing as an act of discursive communication, whereby data are documentary records that enable research to be extended across time and place, and to be carried out in a collaborative manner.
 The media upon which data are inscribed (e.g. databases, registries, and online catalogues) enable direct experiences with objects and phenomena of interest to be shared and acted upon in alternative research contexts.
-Moreover, archaeologists rely on physical and informational infrastructures, and establish organizational practices, to normalize the information they produce and to enable these records to be accessed, understood, and put to practical use.
-For instance, zooarchaeologists working on the domestication of animals in Neolithic Anatolia need both to respect the original interpretations of contributors and to translate diverse datasets into a common "controlled vocabulary" in order to synthesize new findings [@arbuckle2014; @kansa2013].
-Thinking of archaeological research in this way, as a continuum of such distributed practices, draws out a greater appreciation for the ecologies of knowledge production involved in the creation and curation of archaeological data, as these examples demonstrate [@dallas2015].
+Thinking of research in this way draws out a greater appreciation for the ecologies of knowledge involved in the creation and curation of archaeological data, and of tensions between the promise of aggregated open data and the lived realities of professional practice (Batist 2024; Hacıgüzeller et al. 2021).
 
 This way of thinking about research practice has led to greater attention to how archaeologists produce, maintain and use data.
 The field is moving beyond simply adopting new technology and is now critically examining the social and technical challenges of digital transformation.
@@ -22,23 +11,25 @@ Workflows that underpin data sharing increasingly become the real object of inqu
 This new wave of research focuses on the workflows that shape how data is created and shared, highlighting gaps between the promise of open data and the reality of professional practice.
 The present project aims to build further on this critical, practice-based reflection about archaeological data sharing.
 
-## Data and control
+## Data and Control
+- Distribution and centralization
+  - Eddisford and Morgan on anarchic recording strategies (with reference to Star 1993), work that leverages Latour/ANT, as an entry point.
+  - Paternalistic attitude to recording, as observed by Yarrow (students), Mickel (neocolonial) and Thorpe (commercial sector).
+  - Latour has always been paternalistic because it dismisses or downplays the situated experiences, sense of curiosity, or other non-rational experiences in favour of a hidden orchestrator of a scientific system and environment.
+  - Recognizing the struggle to conform to such structures is key to understanding (a) where they fail to meet the needs of the people who actually implement them and (b) recognizing that tighter control is not always productive and that instead it may be a good idea to let go the reigns and trust people to do the work that is meaningful to them.
+    - Failures to integrate inconsistent data is only a problem if you prioritize the need to have clean and centralized data structures, which ultimately benefits some parties (i.e. project directors and data analysts) more than others (those with local or under-represented perspectives).
+    - Caveat that of course there is value in centralized and tidy data, but that there is value in alternate perspectives too.
+    - Thankfully, archaeology is an (a) imprecise and (b) participatory/big tent science, and it may be possible to strike a middle ground.
+    - For instance, the internalized denial of standards (literally eyerolls whenever it's mentioned at conferences) is a boon to decentralized, locally-favoured means of collecting data, and yet people still try to make their local data fit alongside the rest of the research community (through either explicit semantic reference, i.e. LOD, or through textual references, notes of personal communication, recognition of academic pedigree and reputation, and other forms of casual signalling (_my_ laptop has dirt on it AND has r package hexagon stickers on it, therefore I'm both a field guy AND I take data seriously!!))
 
-### Connecting with broader theory
-All archaeological theory is concerned with archaeologists' roles in creating knowledge about the past
+<!-- All archaeological theory is concerned with archaeologists' roles in creating knowledge about the past
 
-Gardin and expert systems specifically focused on the interplay between immutable facts and mutable inferences
+Gardin and expert systems specifically focused on the interplay between immutable facts and mutable inferences -->
 
-Tie in with newer concerns with metadata and paradata, and the translation of archaeological data into inert published entities, digital repositories as natural resting places, data reuse as non-discursive form of information transmission
-
-
-### Digital practices / digital media
-use this section to draw attention to some critical work, grounded in empirical research
-
-- Archaeologists have always been producing data, and many kinds of data are completely disregarded from newer digitally-embedded conceptions of data
-- Haciguzeller data dominance
-- Morgan and Wright, Batist et al on the different pathways, affordances and limitations of digital and analog comparisons, especially when it comes to recreating the discipline in pedagogical a pedagogical sense (people learn the digital as extension of the analog base)
-- lead in to the current study which highlights systemic features and implications of archaeological data management
+<!-- - Archaeologists have always been producing data, and many kinds of data are completely disregarded from newer digitally-embedded conceptions of data -->
+<!-- - Haciguzeller data dominance -->
+<!-- - Morgan and Wright, Batist et al on the different pathways, affordances and limitations of digital and analog comparisons, especially when it comes to recreating the discipline in pedagogical a pedagogical sense (people learn the digital as extension of the analog base) -->
+<!-- - lead in to the current study which highlights systemic features and implications of archaeological data management -->
 
 This work is based on critical observations of actual research practices and careful dissection and comparison of attitudes held by individuals occupying different roles and performing various activities.
 This enables me to account for the systemic implications of collaborative research practices, which impact different people in different ways, and that archaeologists may struggle to identify or articulate.
@@ -51,6 +42,9 @@ My work therefore emphasizes the agency of human drivers since they are the ones
 
 By highlighting how pragmatic actions are conducted in relation to broader discursive frameworks, I consider scholarly practices in terms of potential, certainty and desire from the perspectives of practitioners themselves.
 This is made possible by my consideration of data as discursive media that connects distributed actions experienced by people operating in disparate work environments.
+
+Tie in with newer concerns with metadata and paradata, and the translation of archaeological data into inert published entities, digital repositories as natural resting places, data reuse as non-discursive form of information transmission
+
 
 ---
 
@@ -80,7 +74,7 @@ To expand on @haciguzeller2021's observations, structured data are representatio
 - Central to this is a concern with the authoritativeness of archaeological knowedge
 - Does it come from global institutions? Colonial enterprise? Local community involvement? Scientific objectivity?
 - Others, decades ago, have shown that these are all related (Foucault, Hodder, etc), but as Lucas pointed out, these discussions have been pushed aside
-- As digital tools and technologies have become more widespread and demystified in recenet years, archaeologists are beginning to realize that its decisions, situated within systemic factors that limit the range of possible actions, all the way down -->
+- As digital tools and technologies have become more widespread and demystified in recenet years, archaeologists are beginning to realize that its decisions, situated within systemic factors that limit the range of possible actions, all the way down
 
 
 <!-- scrap

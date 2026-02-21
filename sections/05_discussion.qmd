@@ -19,3 +19,58 @@ Archaeological information infrastructures are thus designed to enable the appro
 Additionally, I observed how there is greater flexibility for those higher up in the chain to explain the context of the work they perform. However, the advent of open data sharing, integration and reuse adds another layer of abstraction, whereby entire projects and the totality of the data they collect are rendered as generic instances of some greater class. The discomfort that project directors sense upon having their creative agency reduced is akin to that which was experienced during the advent of tighter control over fieldwork recording systems [as documented by @chadwick1998; @thorpe2012], and which we now take for granted.
 
 [[Still very incomplete. Need to draw in the various other observations. Also need to more generously frame this as a systemic concern and present this as a role-based issue that's not really related to people's core identities.]]{.mark}
+
+---
+
+Throughout all of these examples, there were tensions between what the database expects, and recognition that the database is a limited window on the things it is intended to capture.
+This is evident in the ways in which people were recruited to represent either the database or the things to be recorded by it.
+
+For example, in the situation of finds processing, trench supervisors were responsible for ensuring that the materials were channelled into discrete buckets, in accordance with the broader pipeline in which excavation is situated.
+However, when taking spatial points, these same trench supervisors represented the local context, defending the integrity of what they uncovered from an apparatus that does not really differentiate between local features without being guided by someone who knows the trench.
+
+Turning back to finds analysis, the lithics specialist relied on her extensive training to systematically classify the materials, while her assistant served as the database’s enforcer.
+For both of them, the database was an immutable entity that they were forced to conform to.
+However, when the consultant was called in, they were free to make changes to the schema.
+And it was then up to the primary lithics specialist to update the data model with those new considerations, and to re-formalize them into a new authoritative data structure.
+
+Both accurate representations and clean data have great value, but these outcomes are achieved by hyper-focusing on specific outcomes and by increasing our awareness of our interventions, which are opposed forces.
+So the challenge is: how do we get both valuable outcomes — accurate and clean representations — while mitigating against the means through which we achieve either of them.
+
+I’ve always been amazed by the sense that “somehow, this works”.
+Somehow, we are able to achieve some balanced perspective.
+
+And what I came to realize is that framing this as a technical problem is a dead-end.
+The ways people actually communicate, take on specific roles in relation to the data structure, as representatives of the here-and-now or of the projected outcomes, is what makes this work.
+And we’re always made to embody each of these perspectives, in various situations.
+As a director doing directorial tasks, you have to think about how the work will be represented to various stakeholders, but as soon as he enters the trench, he is thinking only “is this a bone, or a stone?”
+
+And we all have that excavation experience, we’ve all seen how the sausage is made, we all know that things are not as clean as they appear on the page or the screen.
+We carry that knowledge as we do analysis based on structured data, and we re-introduce context as we write up our findings.
+
+This is not the case for data scientists, who tend to intervene with little understanding of how data came to be.
+In other words, data scientists’ obtain power through their ability to take data at face value, and for that to be considered a valuable quality.
+
+When we make our data openly accessible, we are handing off our ability to communicate the limits surrounding data, and to ensure that others listen.
+
+When archaeologists do reuse data, it tends to occur in-house, by people who are already very involved in the data’s formation.
+Or, when data reuse occurs in a distant environment, analysts tend to request additional information that is not in the official documentation.
+Excavation journals, for instance, are extremely sought after in contexts of data reuse, if reuse is being led by an archaeologist.
+However, if it is being led by a data scientist, they just want the schema and nothing else that may complicate their view.
+
+Perhaps I’m admonishing data scientists a bit too much here, but this is just to reiterate the fact that they are not accounted for in the ways we organize our work.
+We may have people who deal with data, but we call them archaeologists, they are part of our community of practice and have obtained an archaeological sensibility through fieldwork experience.
+
+This sensibility enables us to understand when it’s possible to bend the rules, when we need to account for context, when we need to be more structured.
+This understanding, which is embedded in our social and collaborative relations, rather than in any technical apparatus, is what makes it work, somehow!
+
+---
+
+
+So, I guess I’ll end by reiterating that all archaeological data are objects of anthropogenic origin, and carry traces of the decisions and actions that informed their creation.
+Also, because data are products of creative work, they should be treated as entities that communicate meaning between contexts of creation and reuse.
+You can’t force an artist to explain his painting for all gallery visitors until the end of time, and people should be free to obtain their own meanings from a work of art.
+So as we move forward with developing open data platforms, we should be aware of these concerns about creativity and control over the long-run, and whether we should — or even can — accomplish effective data reuse without any social or collaborative component.
+
+![](figures/triangle.svg){#fig-triangle width="100%"}
+
+
