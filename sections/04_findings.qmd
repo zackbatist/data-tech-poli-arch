@@ -5,70 +5,74 @@ In other words, the epistemic value that a project produces is inherently depend
 Here I document some ways in which projects scaffold archaeologists' behaviours through technical and administrative means.
 
 ## Finds processing
-Archaeological projects uncover a lot of material throughout the course of an excavation or survey, which must be sorted and processed to facilitate subsequent analysis.
-Finds processing begins in the field, where objects are first recovered and identified as finds that will yield valuable insight into the lives of past people.
-At both Cases A and B, fieldworkers divided these finds into broad-level categories corresponding to materials, such as ceramic, bone and shell, separating them into bags and buckets labelled with the excavation unit in which they were found, as they emerged from the trenches (see @fig-sieve: E and F) and @fig-sorting.
-At the same time, they tossed stones that exhibit no anthropogenic qualities (see @fig-sieve: D).
-They also used sieves to separate loose sediment from small objects, collecting those that they deem culturally meaningful, and discarded the rest (see @fig-sieve: A, B, C and D).
-Sometimes, fieldworkers set aside materials that they were unsure about and documented the findspot in more detail --- "just in case" --- before proceeding with their work.^[A4](#sec-A4)^
-This documentation was tentative, and depending on whether a specialist would later determine that the find was worth saving for analysis, may not have become part of the official archaeological record.^[A4](#sec-A4),[A5](#sec-A5)^
+Both cases adhered to a relatively common hierarchical organization structure in fieldwork settings (see figure x).
+The project director designated a field director who oversaw all fieldwork, and a series of trench supervisors, who were usually graduate students or experienced fieldworkers, led and coordinated data collection in specific trenches or areas of a site.
+Trench assistants, who were usually less experienced students or local labourers, operated under the guidance of their assigned supervisors.
+Some specialists, including conservators, photographers, and those responsible for collecting spatial data, also worked in field settings.
+
+The projects that served as cases uncovered a lot of material, which had to be sorted and processed to facilitate subsequent analysis.
+Finds processing began in the field, where objects were first recovered and identified as meaningful sources of archaeological insight.
+At both cases, fieldworkers separated objects into bags and buckets labelled with the excavation unit in which they were found, and according to their material properties (i.e., ceramic, bone and shell) (see @fig-sieve: E and F) and @fig-sorting.
+Trench supervisors were almost always responsible for writing on or otherwise dictating the tags and bags, which systematized the bucketing process according to a concrete and lasting official record.
+Supervisors were also responsible for instructing assistants regarding how to process materials and separate them out.
 
 ![Sorting archaeological objects into bags based on their physical material properties.](figures/sorting.png){#fig-sorting width="100%"}
 
+Additionally, fieldworkers tossed away stones or debris that exhibited no anthropogenic qualities; they also often used sieves to separate loose sediment from small objects, collecting those that they deemed culturally meaningful, while discarding the rest (see @fig-sieve).
+Sometimes, fieldworkers set aside materials that they were unsure about, while documenting the findspot in more detail --- "just in case" --- before proceeding with their work.^[A4](#sec-A4)^
+This documentation was tentative, but may have become more permanent parts of the official record if a specialist later determined that those finds were worth saving for analysis.^[A4](#sec-A4),[A5](#sec-A5)^
+
 ![Preliminary sorting of archaeological materials in the field. **A:** Placing unsorted material into the sieve; **B:** Using the sieve to separate loose sediment from larger objects; **C:** Sorting through the larger objects, and keeping the anthropogenic objects in the bucket nearby; **D:** Dumping the non-anthropogenic material into the spoil heap; **E:** Creating a bag and a tag, which indicates the kind of material contained in the bag ("lithics" is shorthand for chipped stone made from chert in this case), as well as information about the excavation unit and context of discovery (i.e. date, excavators' initials); **F:** Placing the artefacts in the bag.](figures/sieve.png){#fig-sieve width="100%"}
 
-After hauling all the finds back to the dig house, they needed to be cleaned by brushing the finds with water.^[A7](#sec-A7),[B3](#sec-B3)^
-Trench assistants performed this task after they have returned from the field, remaining productive even during the late afternoons when it was too hot to perform strenuous outdoor labour.^[B4](#sec-B4)^
-In my unrecorded observations I noticed that people talked about the day's work and their personal and collective experiences, and speculated about the things they recovered and which they were then revisiting in a secondary context.
-As non-experts, their amateur analyses remain unexplored, but they still felt an impetus to examine these objects and try to develop insights from these experiences.
-Cleaned materials were then left out in the sun to dry before being brought to a space dedicated for finds analysis and storage.^[B5](#sec-B5)^
+At the end of each day in the field, fieldworkers hauled all the finds back to the dig house so they could be cleaned.^[A7](#sec-A7),[B3](#sec-B3)^
+Trench assistants spent around an hour or two scrubbing the finds with water,remaining productive even during the late afternoons when it was too hot to perform strenuous outdoor labour.^[B4](#sec-B4)^
+Meanwhile, trench supervisors would do the "paperwork", which involved transcribing rough shorthand into proper notes and copying handwritten observations into the database.
 
-In all these observations, it was almost always the job of trench supervisors to write on or otherwise dictate these tags and bags, to render the haphazard bucketing into a more concrete and lasting official record.
-Moreover, supervisors were responsible for instructing assistants regarding how to process materials according to a series of rules.
+In my unrecorded observations of finds cleaning, I noticed that people talked about the day's work and their personal and collective experiences, while speculating about the things they recovered and which they were then revisiting in a secondary context.
+They sometimes even remembered specific finds, and if they were working in a sensitive or interesting context, some fieldworkers would spend a bit more time examining the material that they recovered themselves.
+Even though they were non-experts and their relatively amateurish analyses remained unexplored, fieldworkers still felt an impetus to examine these objects and try to develop insights from these experiences.
+
 No aspect of finds processing involved maintaining a journal or recording substantial interpretations of the materials, which revealed a failure to recognize that any meaningful insights could arise during these stages of work.
 It is also noteworthy that fieldworkers were expected to classify finds on the basis of characteristics commonly recognized as more natural, while study of their anthropogenic qualities was typically reserved for finds analysis.^[A6](#sec-A6)^
-
 In effect, a distinction was made between fieldwork, which deals with _materials_, and finds analysis, which deals with _artefacts_ and _ecofacts_.
+
 Moreover, even when specialists worked in the field, they operated as fieldworkers; their actions were constrained by the practical circumstances of fieldwork and the position of fieldwork within a broader apparatus of archaeological knowledge production.
 In this sense, the division of labour was partly due to pragmatic concerns, namely the fact that fieldworkers were usually occupied with their own specific tasks that required mental concentration, especially when instructed to do this work quickly.
 
-Finds processing was therefore positioned as a means to an end, that being the arrival of cleaned and sorted finds upon the specialists’ desks, where meaningful archaeological knowledge would be produced.
-Assistants were encouraged to act as mere sensing devices, as tools exhibiting an air of objectivity.
-However, this should not be considered an injustice, but rather a manifestation of their responsibility to ensure that the material is properly embedding within a broader site-wide system of knowledge production that trench assistants do not (yet) have access to.
+Finds processing was therefore positioned as a means to an end --- the end being the arrival of cleaned and sorted finds upon the specialists' desks, where meaningful archaeological knowledge would be produced.^[A7](#sec-A7),[A14](#sec-A14),[A15](#sec-A15),[B3](#sec-B3)^
+Trench assistants were encouraged to act as mere sensing devices, as tools exhibiting an air of objectivity.^[See @batist2025a, where this is addressed in greater depth.]
+This distribution of labour ensured that the recovered materials were properly embedded within a broader site-wide system of archaeological knowledge production, which trench assistants were not (yet) fully aware of.
 
 ## Finds analysis
-Similar tendencies were also observed as materials shifted to contexts of finds analysis.
-Once dry, the materials were dumped on a broad table, and specialist's assistants quickly sorted through them.
-They discarded any non-anthropogenic materials collected in error, then counted and weighed all remaining artefacts, before performing further analysis based on their typological and technological characteristics.^[A8](#sec-A8)^
+Similar tendencies were observed as materials shifted to contexts of finds analysis.
+After cleaned materials were left out to dry in the sun, they were brought to a space dedicated for finds analysis and storage --- usually a museum annex or workspace.^[B5](#sec-B5)^
+The dried materials were dumped onto a broad table, and specialist's assistants quickly sorted through them.
+They discarded any remaining non-anthropogenic materials collected in error, and counted and weighed all remaining artefacts.
+Then, more in-depth analysis could be performed based on the finds' typological and technological characteristics.^[A8](#sec-A8)^
 
 At Case A, I observed how Jolene, a lithics specialist, went through and sorted the material on the table, sometimes mumbling her reasoning aloud.^[A9](#sec-A9)^
 She physically grouped objects, following a general pattern for each excavation unit: cores at the top left corner, blades at the top right, and the extremely high volume of flakes occupying the main space in front of her.
-After she settled on her arrangement, she dictated her description of the assemblage as a whole, in a fragmented tone that insinuates strong intention behind each word, and Maude, her assistant, wrote down this speech.^[A9](#sec-A9)^
+After she settled on her arrangement, she dictated her description of the assemblage as a whole, in a fragmented tone that insinuated strong intention behind each word, and Maude, her assistant, wrote down this speech.^[A9](#sec-A9)^
 Maude then recorded the quantities of artefacts in each category, as laid out by Jolene, and entered this information into a spreadsheet.^[A9](#sec-A9)^
-Sometimes, Jolene would create a new category on the fly, and Maude would push back by asking whether they should slot it under an existing label, and those conversations usually ran on for a while, addressing the broader history of these classifications.
-Whereas Jolene was the source of creative knowledge production, Maude was responsible for embedding these insights within the project's organizational apparatus.^[A10](#sec-A10)^
-
-![xxxx](figures/finds-analysis.png){#fig-sorting width="100%"}
-
+Sometimes, Jolene would create a new category on the fly, and Maude would push back by asking whether they should slot it under an existing label; those conversations usually ran on for a while, addressing the broader history of different classification schemes.
 Maude also maintained a checklist to track all aspects of work performed on the materials, including information about the materials' provenance, who processed the materials, when the work occurred, and detailed parameters that structured processing tasks.^[A11](#sec-A11)^
-This checklist resembled the records maintained by the project's database manager to trace what records await integration into the database and to ensure that all information was properly recorded.^[A12](#sec-A12),[A13](#sec-A13)^
-These records existed to track progress and verify the integrity of work.
+This checklist resembled the records maintained by the project's database manager to track progress and verify the integrity of work.^[A12](#sec-A12),[A13](#sec-A13)^
+In effect, Jolene was primarily responsible for creative knowledge production and for contextualizing the work in relation to a broader community of practice, whereas Maude was responsible for pragmatically embedding these insights within the project's organizational apparatus.^[A10](#sec-A10)^
 
-No aspect of finds processing involved maintaining a journal or recording substantial interpretations of the materials, which revealed a failure to recognize that any meaningful insights could arise during these stages of work.
-Finds processing was therefore positioned as a means to an end, that being the arrival of cleaned and sorted finds upon the specialists' desks, where meaningful archaeological knowledge would be produced.^[A7](#sec-A7),[A14](#sec-A14),[A15](#sec-A15),[B3](#sec-B3)^
+![Finds analysis in the museum workspace. Jolene (front left) examines the material spread out on the table, while Maude (back left) records her observations in a spreadsheet. The author (back right) takes observational notes, and the project director (front right) does independent work to the side.](figures/finds-analysis.png){#fig-sorting width="100%"}
 
-We see here another tension between the allure of concrete representations and disciplinary creative.
-Note that the power dynamic is between database and domain knowledge, not between supervisor and assistant.
+A tension is evident here between the allure of concrete representations and disciplinary creativity, which parallels the distribution of creative labour in contexts of finds processing.
+However in this situation, the assistant is the one responsible for using formal protocols to "reign in" her superior.
+The power dynamic is therefore not as clear-cut as a hierarchical chain of command, and instead represents a discrepancy between vast landscapes of domain knowledge and the limits imposed by formal data structures.
 
 ## Integrating and aligning perspectives
 After performing their work, specialists reported back to the project with their findings.
-This involved providing the project with documents that contained and explained the analytical results.
-These documents typically comprised electronic spreadsheets and typeset documents, but sometimes also included lab journals, paper recording sheets, source code, and digital images.
+This involved providing the project with spreadsheets and typeset documents, and sometimes also lab journals, paper recording sheets, source code, and digital images.
 
 Findings recorded in spreadsheets comprised formally organized results of systematic analysis.
 They were organized on a sample-by-sample basis, associated with discrete units from which each sample element was taken.^[A16](#sec-A16),[A17](#sec-A17)^
-Specialist reports, on the other hand, were summaries of a specialist's findings.
-They described overall trends that specialists observed in their preliminary analysis of the findings, highlighted their potential significance, and proposed ways to ameliorate the results or relate them to other aspects of the project.^[B6](#sec-B6)^
+Specialist reports, on the other hand, were typeset documents containing summaries of specialists' findings.
+They described overall trends that specialists observed in their preliminary analysis of the findings, highlighted their potential significance, and proposed ways to extend the work or relate the findings to other aspects of the project.^[B6](#sec-B6)^
 As such, specialist reports supplemented the spreadsheets by contextualizing the data presented in spreadsheets.
 
 Specialists' spreadsheets were integrated into projects' relational databases by importing the relevant records as their own sets of tables, with explicit links drawn between them and the database backbone, which reflected the organizational structure of archaeological entities encountered in the field.^[A17](#sec-A17)^
@@ -78,10 +82,9 @@ The material that was physically distributed and sent out for specialized analys
 Diverse kinds of material were rarely examined in close physical proximity outside of fieldwork, though the potential to integrate abstract measurements about them was highly valued.^[B7](#sec-B7)^
 However, this actually rarely happened in ways that leveraged the computational potential of these efforts.
 Specialists provided their own preliminary analyses in written and oral reports, in which they examined the materials under their own purview.^[B6](#sec-B6),[B8](#sec-B8)^
-
 Analysis was therefore siloed, and findings deriving from these analyses were subsequently integrated.^[A18](#sec-A18),[A19](#sec-A19),[B9](#sec-B9)^
 
-While specialists' interests may have overlapped with those of other members of the project, directors preferred to have one specialist for each means of investigation.
+While specialists' interests may have overlapped with those of other members of the project, directors preferred to have one specialist for each means of investigation.[[cite]]{.mark}
 At the same time, some degree of overlap among specialists who examine the same kinds of materials from different methodological perspectives was expected and encouraged.
 For example, the geoarchaeologists at Case A shared a strong affinity based on their mutual work with geological materials, despite the fact that they specialized in different geological processes.^[A20](#sec-A20),[A21](#sec-A21)^
 This benefited the project immensely, since it allowed each specialist to reflect upon the limitations of their approach and to harmonize that approach with those of the other specialists.
@@ -92,12 +95,13 @@ Inputting analytical findings into a database was therefore a lossy process that
 
 ## Informal consultation
 As the project moved forward, I observed how Case A leverage consultants' authority on a subject to help contextualize the findings during dissemination.^[A26](#sec-A26),[A27](#sec-A27),[A28](#sec-A28)^
-The archaeological site that formed the basis for Case A was extremely colluvial, which complicated any effort to date stratigraphic units and had resulted in many artefacts having extremely weathered surfaces that make them more difficult to characterize.
-Even though an experienced analyst could recognize the actual character of the finds, they were very chemically weathered, which made it very difficult to photographically capture their features.
+The archaeological site that formed the basis for Case A was extremely colluvial, which complicated any effort to date stratigraphic units.
+This also contributed to many artefacts having extremely weathered surfaces, which made them more difficult to characterize based on their physical properties, though an experienced analyst could manage.
+Additionally, the extreme amount of weathering made it very difficult to photographically capture artefacts' physical features, which made it difficult to convince others regarding the validity of specialists' identifications.
 Sharing illustrations was also deemed inappropriate because of a perception that they were too interpretive and lacked objective legitimacy.
 
-Despite his confidence in their claims due to his daily involvement examining these artefacts, and his acknowledgement that the stratigraphy is imperfect, Basil knew that he would have a hard time convincing others of the nature of the things that they found.
-He therefore involved Denise, a major figure in lithics analysis who was responsible for publishing the most definitive assemblages of the kind of materials recovered at Case A, to examine their materials, as articulated in @exc-warrant-for-consultation:
+Despite the director's confidence in his project's claims, and his acknowledgement that the stratigraphy was imperfect, Basil knew that he would have a hard time convincing others of the nature of the things that they found.
+He therefore invited Denise, a major figure in lithics analysis who was responsible for publishing the most definitive assemblages of the kind of materials recovered at Case A, to examine their materials. The rationale behind this decision is articulated in @exc-warrant-for-consultation:
 
 ::: {#exc-warrant-for-consultation .exc}
 > **Basil:** ... for decades, there have been accepted means of scientifically representing the archaeological record, umm to act as evidential bases for your claims. It's understood, that you know, it's impractical for every single interested archaeologist to come to see your site, to see your material. You could be in Australia and the site could be in Peru, umm and so, without that tactile, immediate relationship with the evidence basis that somebody's uhh excavated, there are ways of representing it through photography and line illustration. Umm, that always used to seem to be enough, but it seems like again, it comes down to this contentious nature of our site. The fact that we are, we allegedly have such an early site where such early sites are not meant to be, I'm starting to discover that some of what used to be the accepted means of, accepted ehh evidential umm bases, don't seem to be good enough for everyone. And so it's been very important to have people like Denise come and see this stuff in the flesh. Yes, she's seen the drawing, yes, she's seen the photograph, but for her to see it first hand, handle it, pick it up, query it, umm look at, look at assemblages, as opposed to cherry picked illustrated pieces, has been fundamental to convince her that we really have what we say we have.
@@ -106,7 +110,7 @@ He therefore involved Denise, a major figure in lithics analysis who was respons
 Basil explains his rationale for inviting Denise to examine the archaeological material.
 :::
 
-At the same time, Denise informed Basil about some of her concerns with the material, and in @exc-result-of-consultation Basil recalls how this constructive criticism provided him with an understanding of how to proceed to accommodate these issues.^[A29](#sec-A29),[A30](#sec-A30)^
+While Denise was happy to lend her expert eye, she also informed Basil about some of her concerns with the material. In @exc-result-of-consultation, Basil recalled how Denise's constructive criticism provided him with an understanding of how to proceed to accommodate these issues.^[A29](#sec-A29),[A30](#sec-A30)^
 
 ::: {#exc-result-of-consultation .exc}
 > **Basil:** So the superstar material that Lauren was excavating, that we thought was Levallois blade cores, she disagreed. She thinks the material is fabulous, she's never seen this material before in Greece, she thinks it's Aurignation and looks much more like what you would find in France. She's blown away. She's blown away by---\
@@ -122,10 +126,12 @@ Basil explains the feedback he received from Denise, and what this means for fut
 :::
 
 From these examples we see that members of the archaeological community who were not active project participants sometimes supplemented the input provided by specialist project participants.
-As people who were external to the project, they were not committed to following through on their advice; they instead relayed their interpretations to specialists who are already members of the project and who were capable of implementing their guidance.^[A31](#sec-A31),[A32](#sec-A32)^
+As people who were external to the project, they were not committed to following through on their advice; they instead relayed their interpretations to specialists who were already members of the project and who were capable of implementing their guidance.^[A31](#sec-A31),[A32](#sec-A32)^
 Moreover, as outsiders, they were not forced to adhere to the systematic recording systems that scaffolded internal procedures, and the informal nature of their contributions was in fact a crucial aspect that imbued them with value.
 
-![](figures/consultants.svg){#fig-consultants-diagram width="100%"}
+![Diagram depicting the relationships between domain specialists who work for an archaeological project and consultants who are brought in to advise.](figures/consultants.svg){#fig-consultants-diagram width="100%"}
+
+
 
 <!-- As Case A, a consultant was called in to examine a peculiar and anomalous material configuration that confounded project participants.
 As illustrated in @exc-consulting-dialogue, Basil asked Andreas, a micromorphology specialist, to perform a preliminary, _ad-hoc_ examination of the microstratigraphy in a trench that exhibited evidence of hearth activity:^[A22](#sec-A22),[A23](#sec-A23),[A24](#sec-A24),[A25](#sec-A25)^ -->
