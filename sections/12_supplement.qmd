@@ -232,6 +232,9 @@ Basil is standing still and observing conversation between Alfred and Andreas. D
 ##### A32 {#sec-A32}
 **Basil:** But like in terms of the visitor thing, to go back to that, umm, yes, you, having visitors is partly profile raising for the site, community engagement and community creation and networking, uhh we also brought Denise over in part because we wanted to impress her, but also we wanted her critical input and we were kind of, you know, Jolene and I can't publish all of this. We weren't necessarily looking for her to come in to publish with us, because she's a very strong character and I think she might overwhelm us, but we were sort of hoping to maybe get suggestions from her as to who else we could bring in, say like a postdoc or a—
 
+##### A33 {#sec-A33}
+**Basil:** And then there are those more sort of umm conflict management I guess, which is where you have, and usually this tends to correlate with relatively junior scholars, who don't have the security of a job or act more insecure in terms of like their progress, their knowledge and whatever, where it's like we have, I mean basically, you know, to a large extent we're all working, most of us are working with stone tools, and a whole bunch of others are working with soils, so it almost boils down, most of the archaeology, to two components. And yet we have more than two people working on them, which means that we have people who are ideally complementary in the information they're pooling for the project, but I'm also very aware of the fact that while people are inputting to the project, they kind of need their own datasets, there needs to be a bit of a boundary marking in terms of this is ultimately mine, and I will be publishing this. Or at the very least, I will be publishing this as the first author, with this person. So, and I've experienced a lot of that at [a prior project], and so it, for when you have these little flare ups, it's not something that, none of this surprises me. As to how one deals with it, I've never been in that position to actually have to mediate these sort of things. So I've learned, probably, to be more clear up front in terms of this is my expectation of you, what's your expectation, this is yours, this is common, you know–
+
 ## Case B
 ##### B1 {#sec-B1}
 **Logan:** (from a distance) Hey, Chris! We're ready for pictures and points, uhh to close out both those units.\
@@ -315,3 +318,21 @@ In the warehouse now, with Liz, Vanessa, Chris and Lisa. Liz, Vanessa and Chris 
 
 ##### B10 {#sec-B10}
 Yesterday also saw the initiation of excavation of a pit by the east baulk. It was initially explained to me as possibly being a rubbish pit due to the fact that it is situated around another small east-west wall midway through the north-south wall. As it was being excavated, a bunch of large pottery fragments were recovered, as well as a large long bone, which was of particular concern due to the possibility of it being human. Some speculation was made regarding what animals it might belong to, but no experienced zooarchaeologist was present who could give a definitive interpretation. Chris took some photos with a scale bar and sent them to a colleague who might be able to offer his input from afar. He took the photos using his smart phone, and presumably emailed them to his colleague. I guess we might hear back at some point later today, due to the time zone difference, and his colleague's presumed location in the United States (this being an American-led project). I just overheard Chris talking with his students about the pit, and it seems that the notion of its specialness is beginning to wear off. Its location underlying the wall, however, might still be a loose thread that will need to be explained. Yesterday it was Liz who seemed most perplexed by this aspect of the pit, due to the fact that it does not conform to typical robber pits.
+
+##### B13 {#sec-B13}
+**Zack:** Are any there potential areas that will, like that you think you may, that you might, that you may have a big role in be producing?
+**Liz:** Sort of like spearhead?
+**Zack:** Yeah.
+**Liz:** It's both the blessing and curse of having directors that are really talented, in that they take control in a lot of these things.
+**Zack:** I guess it's also, like you're doing some things that are very similar to what other people do in that area.
+**Zack:** Right. Yeah. So my skill set overlaps almost 100 percent with Rufus's, except for my technological abilities are less. Haha, so there's, you know, my, I'm sort of like a redundant person.
+**Zack:** Well, I wouldn't go that far.
+**Zack:** Well, you know what I mean. So I think, or what I guess what I hope to sort of spearhead in the future is processing and querying data once it's in the database. That's my goal in the future, in a way that maybe the directors are less interested in doing. And I think that's because my own dissertation is all about querying datasets from across sites and figuring out patterns. And so I want to do that here.
+
+##### B16 {#sec-B16}
+**Zack:** I noticed there's lots of people overlapping.
+**Rufus:** Yeah, that's on purpose. Yup. I mean we have a site that can make a unique contribution to the Hellenistic period and our understanding of it, and it's better to have ten brains to do that than one. Umm–
+**Zack:** Do you find there's more agreement or disagreement because of it?
+**Rufus:** I find that there's more agreement. I mean the, I'm a laid back guy. Uhh we have no room for drama on the project, or you know, competitiveness or conflict or whatever, I shut it down immediately, every single time.
+**Zack:** Yeah, I noticed that this is a very calm project.
+**Rufus:** And that's, that's [unclear]. Yeah, it's better for– it's just way better for peer co– there's a pretty big cognitive process here. You're creating data that didn't exist before. You're making interpretations to create more knowledge that wasn't there before. And uhh it's better to do that in an environment where people are enjoying being around each other. Umm that people have certain views towards something that you have and whether those views are for or against it, either way that's a good thing. Umm and so those are the values that we extend in the project. Collaborative environment.
