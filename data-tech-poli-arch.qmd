@@ -111,6 +111,9 @@ format:
     template-partials:
       - slides/title-slide.html
     css: slides/slides-styles.css
+  docx:
+    reference-doc: logistics/guidelines/custom-reference-doc.docx
+    csl: assets/chicago-notes-bibliography-17th-edition.csl
 format-links: 
   - pdf
   - format: revealjs
@@ -120,12 +123,14 @@ format-links:
 ---
 
 :::: {.content-hidden when-format="revealjs"}
+::: {.content-hidden when-format="docx"}
 ::: {.callout-note}
 This is a draft of a paper to be presented at the 2nd Annual Workshop in the [Exploring the Layers of Digital Archaeological Practice Series](https://www.uib.no/en/nia/177998/digital-archaeology-workshop-series-2024%E2%80%932027), whose theme this year is [Data and Technology Politics in Archaeology](https://www.uib.no/en/nia/179128/data-and-technology-politics-archaeology).
 The workshop will be hosted at the Norwegian Institute at Athens from December 3-4, 2025.
 A refined, peer-reviewed version will be published in the workshop proceedings.\
 
 [This content is also available at [zackbatist.info/data-tech-poli-arch](https://zackbatist.info/data-tech-poli-arch/) for a better reading experience.]{.content-visible when-format="pdf"}
+:::
 :::
 
 {{< include sections/00_abstract.qmd >}}
