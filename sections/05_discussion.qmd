@@ -1,76 +1,30 @@
 # Discussion
-Projects experience immense pressures to render observations in ways that are amenable to formal and functional analysis, which in turn mandate rigid and decisive data collection processes to instill confidence in the stability and evidentiary nature of archaeological data.
-As such, particular kinds of analytic processes comes to dictate the conduct of other aspects of work, which involve reducing the interpretive agency of actors involved in all aspects of the data's constitution and processing.
+Throughout all of these observations there is a clear tension between the need to present information using formal data structures and their failure to fully capture archaeological understanding.
+On one end, archaeologists are pressed to fulfill their scientific mandate by ensuring that the outcomes of their effort are and appears to be decisive, consistent and stable --- qualities that instill confidence in the evidentiary character of data.
+At the same time, archaeologists struggle to make their data fit a standard mold.
+This tension produces an "epistemic anxiety" whereby archaeologists recognize --- and fail to reconcile --- discrepancies between their commitments to formal scientific standards and their intuitive understanding of the limits of this approach to knowledge-building [@huggett2022].
 
-This results in prioritization of archaeological materials as formally structured and abstract entities, devoid of character in their own right and always perceived as specific instances of a more general class.
-This is exemplified by my observations of work performed by trench assistants, who essentially serve as unskilled labourers who are shuffled around a project to perform menial tasks that, almost exclusively, concern materials that have not yet been assigned archaeological character [see also @batist2025].
-Beyond operating as sensory instruments, fieldworkers serve others' creative efforts by cleaning artefacts and performing preliminary sorting tasks.
-Those involved in this type of work prepare materials for analysis that others will perform, namely specialists.
-Similarly, trench assistants move sediment and rocks out of a trench, but it is up to the supervisor, who is responsible for recording the significance of these materials, to make meaning out of them.
-Trench assistants are cast as mere sensors, whose identifications of a thing, if taken seriously at all, are based on the character of shapes and textures they encounter, and not on any underlying archaeological theory or model.
-Their interchangeability, owing to the limited expectations made of them (simply responding to prompts), renders fieldworkers invisible and removes any potential for imagining data collection as discursive and situated.
-This supports the absorption of fieldworkers into distributed data-recording system, thereby reducing the impacts of their situated perspectives and presenting their work as a form of objective sensory understanding.
+To escape this anxiety, archaeologists have established workflows that offload decision-making to people who are not immediately present at the site of archaeological encounters [@batist2025; @batist2025a].
+By re-casting archaeological encounters as a series of programmatic operations and decision-trees, database managers and project managers claim creative agency over how to represent archaeological objects.
+This removes the burden of decision from the moment of the archaeological encounter, and re-casts those who record what they see, feel, smell and hear as devices that simply match their sensory experience to predefined criteria provided to them.
+Put another way, workflows downplay interpretive potential at locus of the archaeological encounter by forcing adherence to a series of pre-digested decisions and by presenting anything other than the outcomes of those decisions as unnecessary addenda to the true or official archaeological record [@batist2024a].
 
-At the same time, interpretation is delegated to people who are not as present at the site.
-Their distance from the archaeological encounter provides them with freedom to take the data at face value, rather than to grapple with their discursive origins.
-This contributes to a sense that so-called "data-driven" analysis generates new knowledge synthesized from a series of objective facts derived from generic, predictable, and protocol-driven sensing devices [@huggett2022].
-Archaeological information infrastructures are thus designed to enable the appropriation of direct observations by those with the means of extracting more meaningful value from them.
+However, while workflows are ways of coping with the epistemic anxiety, the tension that produces it is an ever-present aspect of archaeological (and scientific) research.
+In fact, the workflows are constantly being tested and resisted for two reasons. First, archaeological objects and phenomena are "wild" in the sense that they were not made for the benefit of archaeological understanding. And second, the eclectic, improvised, opportunistic and nimble nature of archaeological knowledge production resists any urge to impose standards; this inability to fully control archaeological practice is not due to intentional acts of rebellion, but is rather born out of necessity to respond to the slippery and inconsistent character of archaeological encounters.
 
-Additionally, I observed how there is greater flexibility for those higher up in the chain to explain the context of the work they perform. However, the advent of open data sharing, integration and reuse adds another layer of abstraction, whereby entire projects and the totality of the data they collect are rendered as generic instances of some greater class. The discomfort that project directors sense upon having their creative agency reduced is akin to that which was experienced during the advent of tighter control over fieldwork recording systems [as documented by @chadwick1998; @thorpe2012], and which we now take for granted.
-
-[[Still very incomplete. Need to draw in the various other observations. Also need to more generously frame this as a systemic concern and present this as a role-based issue that's not really related to people's core identities.]]{.mark}
-
----
-
-Throughout all of these examples, there were tensions between what the database expects, and recognition that the database is a limited window on the things it is intended to capture.
-This is evident in the ways in which people were recruited to represent either the database or the things to be recorded by it.
+This paper noted how the persistent challenges to archaeological workflows, specifically through relationships between people occupying different roles and the formal data management system.
+Specifically, I noted how members of archaeological projects were recruited to either represent the interests of the database or the of the things to be recorded by it.
 
 For example, in the situation of finds processing, trench supervisors were responsible for ensuring that the materials were channelled into discrete buckets, in accordance with the broader pipeline in which excavation is situated.
-However, when taking spatial points, these same trench supervisors represented the local context, defending the integrity of what they uncovered from an apparatus that does not really differentiate between local features without being guided by someone who knows the trench.
+[Something about cleaning.]{.mark}
 
-Turning back to finds analysis, the lithics specialist relied on her extensive training to systematically classify the materials, while her assistant served as the database’s enforcer.
+Then, when analyzing the finds, the lithics specialist relied on her extensive training to systematically classify the materials, while her assistant served as the database's enforcer.
 For both of them, the database was an immutable entity that they were forced to conform to.
 However, when the consultant was called in, they were free to make changes to the schema.
 And it was then up to the primary lithics specialist to update the data model with those new considerations, and to re-formalize them into a new authoritative data structure.
 
-Both accurate representations and clean data have great value, but these outcomes are achieved by hyper-focusing on specific outcomes and by increasing our awareness of our interventions, which are opposed forces.
-So the challenge is: how do we get both valuable outcomes — accurate and clean representations — while mitigating against the means through which we achieve either of them.
-
-I’ve always been amazed by the sense that “somehow, this works”.
-Somehow, we are able to achieve some balanced perspective.
-
-And what I came to realize is that framing this as a technical problem is a dead-end.
-The ways people actually communicate, take on specific roles in relation to the data structure, as representatives of the here-and-now or of the projected outcomes, is what makes this work.
-And we’re always made to embody each of these perspectives, in various situations.
-As a director doing directorial tasks, you have to think about how the work will be represented to various stakeholders, but as soon as he enters the trench, he is thinking only “is this a bone, or a stone?”
-
-And we all have that excavation experience, we’ve all seen how the sausage is made, we all know that things are not as clean as they appear on the page or the screen.
-We carry that knowledge as we do analysis based on structured data, and we re-introduce context as we write up our findings.
-
-This is not the case for data scientists, who tend to intervene with little understanding of how data came to be.
-In other words, data scientists’ obtain power through their ability to take data at face value, and for that to be considered a valuable quality.
-
-When we make our data openly accessible, we are handing off our ability to communicate the limits surrounding data, and to ensure that others listen.
-
-When archaeologists do reuse data, it tends to occur in-house, by people who are already very involved in the data’s formation.
-Or, when data reuse occurs in a distant environment, analysts tend to request additional information that is not in the official documentation.
-Excavation journals, for instance, are extremely sought after in contexts of data reuse, if reuse is being led by an archaeologist.
-However, if it is being led by a data scientist, they just want the schema and nothing else that may complicate their view.
-
-Perhaps I’m admonishing data scientists a bit too much here, but this is just to reiterate the fact that they are not accounted for in the ways we organize our work.
-We may have people who deal with data, but we call them archaeologists, they are part of our community of practice and have obtained an archaeological sensibility through fieldwork experience.
-
-This sensibility enables us to understand when it’s possible to bend the rules, when we need to account for context, when we need to be more structured.
-This understanding, which is embedded in our social and collaborative relations, rather than in any technical apparatus, is what makes it work, somehow!
-
----
-
-
-So, I guess I’ll end by reiterating that all archaeological data are objects of anthropogenic origin, and carry traces of the decisions and actions that informed their creation.
-Also, because data are products of creative work, they should be treated as entities that communicate meaning between contexts of creation and reuse.
-You can’t force an artist to explain his painting for all gallery visitors until the end of time, and people should be free to obtain their own meanings from a work of art.
-So as we move forward with developing open data platforms, we should be aware of these concerns about creativity and control over the long-run, and whether we should — or even can — accomplish effective data reuse without any social or collaborative component.
-
-![](figures/triangle.svg){#fig-triangle width="100%"}
-
-
+The amazing thing is that despite these challenges and tensions, archaeologists were still able to generate meaningful insights about the past.
+They accomplished this by developing ways to easily navigate between tight and loose control; on the one hand, confident representations of archaeological encounters are deemed especially valuable for producing scientific outputs, but this is tempered by a common understanding that that approach is a limited window upon which we may view the past.
+This flexibility to think of both the potential productive outcomes and limitations of different forms of engagement enables us to understand when it's possible to bend the rules, when we need to account for context, when we need to be more structured.^[It is notable that data scientists prefer to work with little understanding of how data came to be. Their power derives from their ability to take data at face value, and for that to be considered a valuable quality. Archaeologists also have people who deal with data, but we call them archaeologists since they are part of our community of practice and have obtained this archaeological sensibility through fieldwork and other embodied experiences.]
+Moreover, the capability to actually enact this flexibility derives from social and communications strategies, rather than purely technical solutions.
+This understanding, which is embedded in our social and collaborative relations, rather than in any technical apparatus, is what makes it all work, somehow!
