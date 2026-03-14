@@ -129,7 +129,7 @@ From these examples we see that members of the archaeological community who were
 As people who were external to the project, they were not committed to following through on their advice; they instead relayed their interpretations to specialists who were already members of the project and who were capable of implementing their guidance.^[A31](#sec-A31),[A32](#sec-A32)^
 Moreover, as outsiders, they were not forced to adhere to the systematic recording systems that scaffolded internal procedures, and the informal nature of their contributions was in fact a crucial aspect that imbued them with value.
 
-![Diagram depicting the relationships between domain specialists who work for an archaeological project and consultants who are brought in to advise.](figures/consultants.svg){#fig-consultants-diagram width="100%"}
+![Diagram depicting the relationships between domain specialists who work for an archaeological project and consultants who are brought in to advise.](figures/consultants.png){#fig-consultants-diagram width="100%"}
 
 
 
