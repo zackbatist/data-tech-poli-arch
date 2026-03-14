@@ -9,9 +9,12 @@ website:
   sidebar: false
   navbar: false
 
+format:
+  html:
+    output-file: "index.html"
+
 project-metadata:
   website:
-    index-page: data-tech-poli-arch.qmd
     format-links: 
       - pdf
       - text: Slides
