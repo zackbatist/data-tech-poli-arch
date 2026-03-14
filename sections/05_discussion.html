@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>discussion – Data Management is People Management</title>
+<title>discussion</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -67,6 +87,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+ 
+<!-- CSS added by lua-filter 'count-para' -->
+<style>
+.paragraph-number { 
+  float: left;
+  margin-left: -5em;
+  width: 4.5em;
+  text-align: right;
+  color: grey;
+  font-size: x-small;
+  padding-top: 5px;
+}
+</style>
+    
 
 
 </head>
@@ -87,19 +121,33 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="discussion" class="level1">
 <h1>Discussion</h1>
-<p>Throughout all of these observations there is a clear tension between the need to present information using formal data structures and their failure to fully capture archaeological understanding. On one end, archaeologists are pressed to fulfill their scientific mandate by ensuring that the outcomes of their effort are and appears to be decisive, consistent and stable — qualities that instill confidence in the evidentiary character of data. At the same time, archaeologists struggle to make their data fit a standard mold. This tension produces an “epistemic anxiety” whereby archaeologists recognize — and fail to reconcile — discrepancies between their commitments to formal scientific standards and their intuitive understanding of the limits of this approach to knowledge-building <span class="citation" data-cites="huggett2022">[@huggett2022]</span>.</p>
-<p>To escape this anxiety, archaeologists have established workflows that offload decision-making to people who are not immediately present at the site of archaeological encounters <span class="citation" data-cites="batist2025 batist2025a">[@batist2025; @batist2025a]</span>. By re-casting archaeological encounters as a series of programmatic operations and decision-trees, database managers and project managers claim creative agency over how to represent archaeological objects. This removes the burden of decision from the moment of the archaeological encounter, and re-casts those who record what they see, feel, smell and hear as devices that simply match their sensory experience to predefined criteria provided to them. Put another way, workflows downplay interpretive potential at locus of the archaeological encounter by forcing adherence to a series of pre-digested decisions and by presenting anything other than the outcomes of those decisions as unnecessary addenda to the true or official archaeological record <span class="citation" data-cites="batist2024a">[@batist2024a]</span>.</p>
-<p>However, while workflows are ways of coping with the epistemic anxiety, the tension that produces it is an ever-present aspect of archaeological (and scientific) research. In fact, the workflows are constantly being tested and resisted for two reasons. First, archaeological objects and phenomena are “wild” in the sense that they were not made for the benefit of archaeological understanding. And second, the eclectic, improvised, opportunistic and nimble nature of archaeological knowledge production resists any urge to impose standards; this inability to fully control archaeological practice is not due to intentional acts of rebellion, but is rather born out of necessity to respond to the slippery and inconsistent character of archaeological encounters.</p>
-<p>This paper noted how the persistent challenges to archaeological workflows, specifically through relationships between people occupying different roles and the formal data management system. Specifically, I noted how members of archaeological projects were recruited to either represent the interests of the database or the of the things to be recorded by it.</p>
-<p>For example, in the situation of finds processing, trench supervisors were responsible for ensuring that the materials were channelled into discrete buckets, in accordance with the broader pipeline in which excavation is situated. <mark>Something about cleaning.</mark></p>
-<p>Then, when analyzing the finds, the lithics specialist relied on her extensive training to systematically classify the materials, while her assistant served as the database’s enforcer. For both of them, the database was an immutable entity that they were forced to conform to. However, when the consultant was called in, they were free to make changes to the schema. And it was then up to the primary lithics specialist to update the data model with those new considerations, and to re-formalize them into a new authoritative data structure.</p>
-<p>The amazing thing is that despite these challenges and tensions, archaeologists were still able to generate meaningful insights about the past. They accomplished this by developing ways to easily navigate between tight and loose control; on the one hand, confident representations of archaeological encounters are deemed especially valuable for producing scientific outputs, but this is tempered by a common understanding that that approach is a limited window upon which we may view the past. This flexibility to think of both the potential productive outcomes and limitations of different forms of engagement enables us to understand when it’s possible to bend the rules, when we need to account for context, when we need to be more structured.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> Moreover, the capability to actually enact this flexibility derives from social and communications strategies, rather than purely technical solutions. This understanding, which is embedded in our social and collaborative relations, rather than in any technical apparatus, is what makes it all work, somehow!</p>
+<p><span id="1" class="paragraph-number">[1]</span> Throughout all of these observations there is a clear tension between the need to present information using formal data structures and their failure to fully capture archaeological understanding. On one end, archaeologists are pressed to fulfill their scientific mandate by ensuring that the outcomes of their effort are and appears to be decisive, consistent and stable — qualities that instill confidence in the evidentiary character of data. At the same time, archaeologists struggle to make their data fit a standard mold. This tension produces an “epistemic anxiety” whereby archaeologists recognize — and fail to reconcile — discrepancies between their commitments to formal scientific standards and their intuitive understanding of the limits of this approach to knowledge-building <span class="citation" data-cites="huggett2022">(<a href="#ref-huggett2022" role="doc-biblioref">Huggett 2022</a>)</span>.</p>
+<p><span id="2" class="paragraph-number">[2]</span> To escape this anxiety, archaeologists have established workflows that offload decision-making to people who are not immediately present at the site of archaeological encounters <span class="citation" data-cites="batist2025 batist2025a">(<a href="#ref-batist2025" role="doc-biblioref">Batist 2025b</a>, <a href="#ref-batist2025a" role="doc-biblioref">2025a</a>)</span>. By re-casting archaeological encounters as a series of programmatic operations and decision-trees, database managers and project managers claim creative agency over how to represent archaeological objects. This removes the burden of decision from the moment of the archaeological encounter, and re-casts those who record what they see, feel, smell and hear as devices that simply match their sensory experience to predefined criteria provided to them. Put another way, workflows downplay interpretive potential at locus of the archaeological encounter by forcing adherence to a series of pre-digested decisions and by presenting anything other than the outcomes of those decisions as unnecessary addenda to the true or official archaeological record <span class="citation" data-cites="batist2024a">(<a href="#ref-batist2024a" role="doc-biblioref">Batist 2024</a>)</span>.</p>
+<p><span id="3" class="paragraph-number">[3]</span> However, while workflows are ways of coping with the epistemic anxiety, the tension that produces it is an ever-present aspect of archaeological (and scientific) research. In fact, the workflows are constantly being tested and resisted for two reasons. First, archaeological objects and phenomena are “wild” in the sense that they were not made for the benefit of archaeological understanding. And second, the eclectic, improvised, opportunistic and nimble nature of archaeological knowledge production resists any urge to impose standards; this inability to fully control archaeological practice is not due to intentional acts of rebellion, but is rather born out of necessity to respond to the slippery and inconsistent character of archaeological encounters.</p>
+<p><span id="4" class="paragraph-number">[4]</span> This paper noted how the persistent challenges to archaeological workflows, specifically through relationships between people occupying different roles and the formal data management system. Specifically, I noted how members of archaeological projects were recruited to either represent the interests of the database or the of the things to be recorded by it.</p>
+<p><span id="5" class="paragraph-number">[5]</span> For example, in the situation of finds processing, trench supervisors were responsible for ensuring that the materials were channelled into discrete buckets, in accordance with the broader pipeline in which excavation is situated. <mark>Something about cleaning.</mark></p>
+<p><span id="6" class="paragraph-number">[6]</span> Then, when analyzing the finds, the lithics specialist relied on her extensive training to systematically classify the materials, while her assistant served as the database’s enforcer. For both of them, the database was an immutable entity that they were forced to conform to. However, when the consultant was called in, they were free to make changes to the schema. And it was then up to the primary lithics specialist to update the data model with those new considerations, and to re-formalize them into a new authoritative data structure.</p>
+<p><span id="7" class="paragraph-number">[7]</span> The amazing thing is that despite these challenges and tensions, archaeologists were still able to generate meaningful insights about the past. They accomplished this by developing ways to easily navigate between tight and loose control; on the one hand, confident representations of archaeological encounters are deemed especially valuable for producing scientific outputs, but this is tempered by a common understanding that that approach is a limited window upon which we may view the past. This flexibility to think of both the potential productive outcomes and limitations of different forms of engagement enables us to understand when it’s possible to bend the rules, when we need to account for context, when we need to be more structured.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> Moreover, the capability to actually enact this flexibility derives from social and communications strategies, rather than purely technical solutions. This understanding, which is embedded in our social and collaborative relations, rather than in any technical apparatus, is what makes it all work, somehow!</p>
+
 
 
 </section>
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-batist2024a" class="csl-entry" role="listitem">
+Batist, Zachary. 2024. <span>“On the Value of Informal Communication in Archaeological Data Work.”</span> <em>Open Archaeology</em> 10 (1): 20240014. <a href="https://doi.org/10.1515/opar-2024-0014">https://doi.org/10.1515/opar-2024-0014</a>.
+</div>
+<div id="ref-batist2025a" class="csl-entry" role="listitem">
+———. 2025a. <span>“Balancing Situated and Objective Representations in Archaeological Fieldwork.”</span> <em>Advances in Archaeological Practice</em> 13 (4): 514–27. <a href="https://doi.org/10.1017/aap.2025.10101">https://doi.org/10.1017/aap.2025.10101</a>.
+</div>
+<div id="ref-batist2025" class="csl-entry" role="listitem">
+———. 2025b. <span>“Locating Creative Agency in Archaeological Data Work.”</span> August 9, 2025. <a href="https://doi.org/10.17613/8EQY4-N1M82">https://doi.org/10.17613/8EQY4-N1M82</a>.
+</div>
+<div id="ref-huggett2022" class="csl-entry" role="listitem">
+Huggett, Jeremy. 2022. <span>“Is Less More? Slow Data and Datafication in Archaeology.”</span> In <em>Critical Archaeology in the Digital Age: Proceedings of the 12th IEMA Visiting Scholar’s Conference</em>, edited by Kevin Garstki, 97–110. Los Angeles, CA: Cotsen Institute of Archaeology Press. <a href="https://escholarship.org/uc/item/0vh9t9jq#page=112">https://escholarship.org/uc/item/0vh9t9jq#page=112</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>It is notable that data scientists prefer to work with little understanding of how data came to be. Their power derives from their ability to take data at face value, and for that to be considered a valuable quality. Archaeologists also have people who deal with data, but we call them archaeologists since they are part of our community of practice and have obtained this archaeological sensibility through fieldwork and other embodied experiences.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>background – Data Management is People Management</title>
+<title>background</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -67,6 +87,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+ 
+<!-- CSS added by lua-filter 'count-para' -->
+<style>
+.paragraph-number { 
+  float: left;
+  margin-left: -5em;
+  width: 4.5em;
+  text-align: right;
+  color: grey;
+  font-size: x-small;
+  padding-top: 5px;
+}
+</style>
+    
 
 
 </head>
@@ -87,16 +121,57 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="background" class="level1">
 <h1>Background</h1>
-<p>Archaeological data are records that encode objects’ characteristics, properties or features in ways that render meaningful aspects communicable among actors (including human and non-human actors) who share common points of reference. In effect, data identify, record and format information about objects or phenomena and their relevant properties, which enables knowledge about them to circulate and form the basis for extended avenues of knowledge production. It is therefore helpful to frame data sharing as an act of discursive communication, whereby data are documentary records that enable research to be extended across time and place, and to be carried out in a collaborative manner. The media upon which data are inscribed (e.g.&nbsp;databases, registries, and online catalogues) enable direct experiences with objects and phenomena of interest to be shared and acted upon in alternative research contexts. Thinking of research in this way draws out a greater appreciation for the ecologies of knowledge involved in the creation and curation of archaeological data, and of tensions between the promise of aggregated open data and the lived realities of professional practice <span class="citation" data-cites="batist2023a">[@batist2023a]</span>.</p>
-<p>This has produced a flood of research over the past decade that critically examines archaeological information systems in terms of how they shape archaeological attitudes and practices. Although there is a long history of reflexive research on the social and collaborative nature of archaeological data, and there are too many scattered instances of such work being applied to examine specific areas of archaeological practice, a few prior works stand out as particularly relevant in the context of the present study. <span class="citation" data-cites="haciguzeller2021">@haciguzeller2021</span> looked at the dominance of structured data and highlighted certain myths regarding what structured data is generally thought to afford, which complements <span class="citation" data-cites="huggett2022a">@huggett2022a</span> who articulated some means through our imaginaries of data as concrete and objective representations are manifested. These perspectives align with a theoretical framework offered by <span class="citation" data-cites="dallas2015 dallas2016">[@dallas2015; @dallas2016]</span>, who sought to re-frame all epistemic tasks as series of pragmatic dialectic exchanges, whereby work is informed by internalized anticipation of future extensions of the task’s outcomes and reconciliation of the prior decisions that shaped circumstances under which the task is being undertaken.</p>
-<p>This prompts reconsideration of the mechanisms through which institutions seek to control these epistemic acts that occur throughout the field. <span class="citation" data-cites="eddisford2019">@eddisford2019</span> draw from <span class="citation" data-cites="star1993">@star1993</span> who examined the means through which recording sheets are applied to control the means through which data are collected in field-based research. This relates to research by <span class="citation" data-cites="yarrow2008">@yarrow2008</span>, <span class="citation" data-cites="mickel2021">@mickel2021</span> and <span class="citation" data-cites="thorpe2012">@thorpe2012</span> who identified paternalistic attitudes concerning documentation practices in pedagogical, neocolonial and commercial contexts, respectively. <span class="citation" data-cites="batist2021">@batist2021</span> extended this line of inquiry by noting how the use of digital systems are often used in a way that reduces crafty and creative applications; as such, the tools impose an order on research practice, leading the archaeologists to manage their projects and educate their students in ways that fulfill the tools’ needs.</p>
-<p>This relates to concerns with the translation of data into resources that support extended applications, beyond the scope of the project teams that captured them. The open archaeological data movement is propelled by a promise that the vast wealth of archaeological knowledge will serve as a resource to investigate large-scale phenomena that could not be fully understood on a project-by-project basis <span class="citation" data-cites="kintigh2014">[@kintigh2014]</span>. However, this totalizing vision of data, which is driven by a popularly held view of science as the collective pursuit of a unified and unambiguous understanding of nature, neglects to account for the great deal of work that archaeologists do to make data work for new purposes <span class="citation" data-cites="batist2024b">[@batist2024b]</span>.</p>
-<p>Making integrated data <em>useful</em> entails reconciling differences between disparate datasets and between each dataset and the new objectives that they were never originally meant to address. Of course there is great potential value in having access to centralized and tidy data, but the effort must be driven by specific and bounded objectives. Archaeologists implicitly understand this, which is evident by the exasperated eye-rolls among readers and conference audiences in response to proposals to formulate global standards, but they still try to make their local data fit alongside the rest of the research community. Sometimes this relies on technical standards (either via the semantic web or formal metadata and paradata), but usually it takes the form of less formal means, such as through textual references, notes of personal communication, recognition of academic pedigree and reputation, and other forms of casual signalling. This is facilitated by the imprecise, participatory and “big tent” character of archaeology, which encourages dialogical and context-laden communication to enact collaborative extensions of work beyond a project’s initial scope.</p>
+<p><span id="1" class="paragraph-number">[1]</span> Archaeological data are records that encode objects’ characteristics, properties or features in ways that render meaningful aspects communicable among actors (including human and non-human actors) who share common points of reference. In effect, data identify, record and format information about objects or phenomena and their relevant properties, which enables knowledge about them to circulate and form the basis for extended avenues of knowledge production. It is therefore helpful to frame data sharing as an act of discursive communication, whereby data are documentary records that enable research to be extended across time and place, and to be carried out in a collaborative manner. The media upon which data are inscribed (e.g.&nbsp;databases, registries, and online catalogues) enable direct experiences with objects and phenomena of interest to be shared and acted upon in alternative research contexts. Thinking of research in this way draws out a greater appreciation for the ecologies of knowledge involved in the creation and curation of archaeological data, and of tensions between the promise of aggregated open data and the lived realities of professional practice <span class="citation" data-cites="batist2023a">(<a href="#ref-batist2023a" role="doc-biblioref">Batist 2023</a>)</span>.</p>
+<p><span id="2" class="paragraph-number">[2]</span> This has produced a flood of research over the past decade that critically examines archaeological information systems in terms of how they shape archaeological attitudes and practices. Although there is a long history of reflexive research on the social and collaborative nature of archaeological data, and there are too many scattered instances of such work being applied to examine specific areas of archaeological practice, a few prior works stand out as particularly relevant in the context of the present study. <span class="citation" data-cites="haciguzeller2021">Hacıgüzeller, Taylor, and Perry (<a href="#ref-haciguzeller2021" role="doc-biblioref">2021</a>)</span> looked at the dominance of structured data and highlighted certain myths regarding what structured data is generally thought to afford, which complements <span class="citation" data-cites="huggett2022a">Huggett (<a href="#ref-huggett2022a" role="doc-biblioref">2022</a>)</span> who articulated some means through our imaginaries of data as concrete and objective representations are manifested. These perspectives align with a theoretical framework offered by <span class="citation" data-cites="dallas2015 dallas2016">(<a href="#ref-dallas2015" role="doc-biblioref">Dallas 2015</a>, <a href="#ref-dallas2016" role="doc-biblioref">2016</a>)</span>, who sought to re-frame all epistemic tasks as series of pragmatic dialectic exchanges, whereby work is informed by internalized anticipation of future extensions of the task’s outcomes and reconciliation of the prior decisions that shaped circumstances under which the task is being undertaken.</p>
+<p><span id="3" class="paragraph-number">[3]</span> This prompts reconsideration of the mechanisms through which institutions seek to control these epistemic acts that occur throughout the field. <span class="citation" data-cites="eddisford2019">Eddisford and Morgan (<a href="#ref-eddisford2019" role="doc-biblioref">2019</a>)</span> draw from <span class="citation" data-cites="star1993">Star (<a href="#ref-star1993" role="doc-biblioref">1993</a>)</span> who examined the means through which recording sheets are applied to control the means through which data are collected in field-based research. This relates to research by <span class="citation" data-cites="yarrow2008">Yarrow (<a href="#ref-yarrow2008" role="doc-biblioref">2008</a>)</span>, <span class="citation" data-cites="mickel2021">Mickel (<a href="#ref-mickel2021" role="doc-biblioref">2021</a>)</span> and <span class="citation" data-cites="thorpe2012">Thorpe (<a href="#ref-thorpe2012" role="doc-biblioref">2012</a>)</span> who identified paternalistic attitudes concerning documentation practices in pedagogical, neocolonial and commercial contexts, respectively. <span class="citation" data-cites="batist2021">Batist et al. (<a href="#ref-batist2021" role="doc-biblioref">2021</a>)</span> extended this line of inquiry by noting how the use of digital systems are often used in a way that reduces crafty and creative applications; as such, the tools impose an order on research practice, leading the archaeologists to manage their projects and educate their students in ways that fulfill the tools’ needs.</p>
+<p><span id="4" class="paragraph-number">[4]</span> This relates to concerns with the translation of data into resources that support extended applications, beyond the scope of the project teams that captured them. The open archaeological data movement is propelled by a promise that the vast wealth of archaeological knowledge will serve as a resource to investigate large-scale phenomena that could not be fully understood on a project-by-project basis <span class="citation" data-cites="kintigh2014">(<a href="#ref-kintigh2014" role="doc-biblioref">Kintigh et al. 2014</a>)</span>. However, this totalizing vision of data, which is driven by a popularly held view of science as the collective pursuit of a unified and unambiguous understanding of nature, neglects to account for the great deal of work that archaeologists do to make data work for new purposes <span class="citation" data-cites="batist2024b">(<a href="#ref-batist2024b" role="doc-biblioref">Batist 2024</a>)</span>.</p>
+<p><span id="5" class="paragraph-number">[5]</span> Making integrated data <em>useful</em> entails reconciling differences between disparate datasets and between each dataset and the new objectives that they were never originally meant to address. Of course there is great potential value in having access to centralized and tidy data, but the effort must be driven by specific and bounded objectives. Archaeologists implicitly understand this, which is evident by the exasperated eye-rolls among readers and conference audiences in response to proposals to formulate global standards, but they still try to make their local data fit alongside the rest of the research community. Sometimes this relies on technical standards (either via the semantic web or formal metadata and paradata), but usually it takes the form of less formal means, such as through textual references, notes of personal communication, recognition of academic pedigree and reputation, and other forms of casual signalling. This is facilitated by the imprecise, participatory and “big tent” character of archaeology, which encourages dialogical and context-laden communication to enact collaborative extensions of work beyond a project’s initial scope.</p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-batist2023a" class="csl-entry" role="listitem">
+Batist, Zachary. 2023. <span>“Archaeological Data Work as Continuous and Collaborative Practice.”</span> PhD thesis, Toronto: University of Toronto. <a href="https://hdl.handle.net/1807/130306">https://hdl.handle.net/1807/130306</a>.
+</div>
+<div id="ref-batist2024b" class="csl-entry" role="listitem">
+———. 2024. <span>“Does Not Compute! Accounting for Social and Situated Experiences While Integrating and Analyzing Obsidian Sourcing Data.”</span> <em>Archeologia e Calcolatori</em> 35 (2): 47–54. <a href="https://doi.org/10.19282/ac.35.2.2024.06">https://doi.org/10.19282/ac.35.2.2024.06</a>.
+</div>
+<div id="ref-batist2021" class="csl-entry" role="listitem">
+Batist, Zachary, Val Masters, Tiffany C. Torma, Michael Carter, Neal Ferris, Isto Huvila, Seamus Ross, and Costis Dallas. 2021. <span>“Figurations of Digital Practice, Craft, and Agency in Two Mediterranean Fieldwork Projects.”</span> <em>Open Archaeology</em> 7 (1): 1731–55. <a href="https://doi.org/10.1515/opar-2020-0217">https://doi.org/10.1515/opar-2020-0217</a>.
+</div>
+<div id="ref-dallas2015" class="csl-entry" role="listitem">
+Dallas, Costis. 2015. <span>“Curating Archaeological Knowledge in the Digital Continuum: From Practice to Infrastructure.”</span> <em>Open Archaeology</em> 1 (1): 176–207. <a href="https://doi.org/10.1515/opar-2015-0011">https://doi.org/10.1515/opar-2015-0011</a>.
+</div>
+<div id="ref-dallas2016" class="csl-entry" role="listitem">
+———. 2016. <span>“Jean-Claude Gardin on Archaeological Data, Representation and Knowledge: Implications for Digital Archaeology.”</span> <em>Journal of Archaeological Method and Theory</em> 23 (1): 305–30. <a href="https://doi.org/10.1007/s10816-015-9241-3">https://doi.org/10.1007/s10816-015-9241-3</a>.
+</div>
+<div id="ref-eddisford2019" class="csl-entry" role="listitem">
+Eddisford, Daniel, and Colleen Morgan. 2019. <span>“Single Context Archaeology as Anarchist Praxis.”</span> <em>Journal of Contemporary Archaeology</em> 5 (2): 245–54. <a href="https://doi.org/10.1558/jca.33580">https://doi.org/10.1558/jca.33580</a>.
+</div>
+<div id="ref-haciguzeller2021" class="csl-entry" role="listitem">
+Hacıgüzeller, Piraye, James Stuart Taylor, and Sara Perry. 2021. <span>“On the Emerging Supremacy of Structured Digital Data in Archaeology: A Preliminary Assessment of Information, Knowledge and Wisdom Left Behind.”</span> <em>Open Archaeology</em> 7 (1): 1709–30. <a href="https://doi.org/10.1515/opar-2020-0220">https://doi.org/10.1515/opar-2020-0220</a>.
+</div>
+<div id="ref-huggett2022a" class="csl-entry" role="listitem">
+Huggett, Jeremy. 2022. <span>“Data Legacies, Epistemic Anxieties, and Digital Imaginaries in Archaeology.”</span> <em>Digital</em> 2 (2): 267–95. <a href="https://doi.org/10.3390/digital2020016">https://doi.org/10.3390/digital2020016</a>.
+</div>
+<div id="ref-kintigh2014" class="csl-entry" role="listitem">
+Kintigh, Keith W., Jeffrey H. Altschul, Mary C. Beaudry, Robert D. Drennan, Ann P. Kinzig, Timothy A. Kohler, W. Fredrick Limp, et al. 2014. <span>“Grand Challenges for Archaeology.”</span> <em>American Antiquity</em> 79 (1): 5–24. <a href="https://doi.org/10.7183/0002-7316.79.1.5">https://doi.org/10.7183/0002-7316.79.1.5</a>.
+</div>
+<div id="ref-mickel2021" class="csl-entry" role="listitem">
+Mickel, Allison. 2021. <em>Why Those Who Shovel Are Silent: A History of Local Archaeological Knowledge and Labor</em>. University Press of Colorado. <a href="https://doi.org/10.5876/9781646421152">https://doi.org/10.5876/9781646421152</a>.
+</div>
+<div id="ref-star1993" class="csl-entry" role="listitem">
+Star, Susan Leigh. 1993. <span>“Cooperation Without Consensus in Scientific Problem Solving: Dynamics of Closure in Open Systems.”</span> In <em>CSCW: Cooperation or Conflict?</em>, edited by Steve Easterbrook, 93–106. London, UK: Springer. <a href="https://doi.org/10.1007/978-1-4471-1981-4_3">https://doi.org/10.1007/978-1-4471-1981-4_3</a>.
+</div>
+<div id="ref-thorpe2012" class="csl-entry" role="listitem">
+Thorpe, Reuben. 2012. <span>“Often Fun, Usually Messy: Fieldwork, Recording and Higher Orders of Things.”</span> In <em>Reconsidering Archaeological Fieldwork: Exploring on-Site Relationships Between Theory and Practice</em>, edited by Hannah Cobb, Harris Harris Oliver J. T., Cara Jones, and Philip Richardson, 31–52. Springer, Boston, MA. <a href="https://doi.org/10.1007/978-1-4614-2338-6_3">https://doi.org/10.1007/978-1-4614-2338-6_3</a>.
+</div>
+<div id="ref-yarrow2008" class="csl-entry" role="listitem">
+Yarrow, Thomas. 2008. <span>“In Context: Meaning, Materiality and Agency in the Process of Archaeological Recording.”</span> In <em>Material Agency: Towards a Non-Anthropocentric Approach</em>, edited by Carl Knappett and Lambros Malafouris, 121–37. Boston, MA: Springer. <a href="https://doi.org/10.1007/978-0-387-74711-8_7">https://doi.org/10.1007/978-0-387-74711-8_7</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

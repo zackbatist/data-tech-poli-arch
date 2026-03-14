@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>methods-materials – Data Management is People Management</title>
+<title>methods-materials</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -67,6 +87,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+ 
+<!-- CSS added by lua-filter 'count-para' -->
+<style>
+.paragraph-number { 
+  float: left;
+  margin-left: -5em;
+  width: 4.5em;
+  text-align: right;
+  color: grey;
+  font-size: x-small;
+  padding-top: 5px;
+}
+</style>
+    
 
 
 </head>
@@ -87,31 +121,66 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="methods-and-data" class="level1">
 <h1>Methods and Data</h1>
-<p>The findings presented here are derived from the author’s dissertation <span class="citation" data-cites="batist2023a">[@batist2023a]</span>, which produced three other papers deriving from the same project. As such, this work’s methods and data overlap with the material presented in Batist <span class="citation" data-cites="batist2024a batist2025 batist2025a">[-@batist2024a; -@batist2025; -@batist2025a]</span> where further methodological details and provided.</p>
-<p>This paper addresses how researchers collaborate and share information, looking at how they contribute to and use shared pools of knowledge. It specifically focuses on how participation in specialized disciplinary communities of practice instills norms and expectations that govern how actors may contribute to or access these information commons, and how this mutual understanding is accessed, expressed and reproduced.</p>
+<p><span id="1" class="paragraph-number">[1]</span> The findings presented here are derived from the author’s dissertation <span class="citation" data-cites="batist2023a">(<a href="#ref-batist2023a" role="doc-biblioref">Batist 2023</a>)</span>, which produced three other papers deriving from the same project. As such, this work’s methods and data overlap with the material presented in Batist <span class="citation" data-cites="batist2024a batist2025 batist2025a">(<a href="#ref-batist2024a" role="doc-biblioref">2024</a>, <a href="#ref-batist2025" role="doc-biblioref">2025b</a>, <a href="#ref-batist2025a" role="doc-biblioref">2025a</a>)</span> where further methodological details and provided.</p>
+<p><span id="2" class="paragraph-number">[2]</span> This paper addresses how researchers collaborate and share information, looking at how they contribute to and use shared pools of knowledge. It specifically focuses on how participation in specialized disciplinary communities of practice instills norms and expectations that govern how actors may contribute to or access these information commons, and how this mutual understanding is accessed, expressed and reproduced.</p>
 <section id="cases" class="level2">
 <h2 class="anchored" data-anchor-id="cases">Cases</h2>
-<p>This paper articulates some systemic relations that scaffold archaeologists’ actions and attitudes at two independent archaeological projects, which serve as cases. The cases are not the subjects of inquiry, and instead represent discrete instances that share common reference to the overall research themes <span class="citation" data-cites="stake2006">[@stake2006]</span>. So while the cases are certainly not representative of the whole archaeological discipline, they do enable me to reveal some underappreciated systemic concerns that underlie data management. As such, the findings are informed by the behaviours and attitudes expressed to me by those who agreed to participate, and by my own standpoint as a scholar of the culture and practice of science and of the media and infrastructures that support data sharing, integration and reuse.</p>
-<p>Both cases were research projects located in southern Europe and directed by professors affiliated with North American universities. I contributed to Case A for several years as a database manager, which provided me a privileged outlook on the systems set up to integrate and draw value from data. My involvement as a participant observer occurred over three years, from 2017 to 2019, and involved visiting the project during its summer field seasons to observe archaeological practices and to interview selected participants. I also held interviews throughout the “off season”. My continual and longer-term participation at Case A afforded greater understanding of the intricate social relations that developed over time, and enabled me to examine how certain methods and attitudes evolved over successive field seasons. This helped me account for how knowledge emerged from activities distributed across time, place and circumstance. Case B is generally regarded as being technologically innovative and has paved the way for application of novel digital tools and technologies into daily fieldwork routines (especially photogrammetry and advanced spatial recording systems). I visited this project for ten days during its 2019 summer fieldwork season, and my visit focused on the challenges that emerge from the use of advanced information systems, including how participants attempt to resolve those problems. My work at Case B was more intensive, and presented me with a fresh alternative to what I observed in Case A, which follows more traditional data management procedures.</p>
-<p>In both cases, the data I collected largely pertains to fieldwork recording practices, processing and analysis of finds, records management, interdisciplinary collaboration, decisions regarding writing and publication of findings, and discussions of how data and findings are presented, evaluated and revised among broader research communities. They each illustrate of the pragmatic and multifaceted ways in which participants reason and work their way through the rather mundane activities that archaeologists commonly undertake in similar research contexts.</p>
-<p>Commercial archaeology is absent from this study’s scope, despite the fact that it accounts for the vast majority of archaeological work conducted throughout North America and Europe. My own lack of knowledge about commercial archaeology contributed to my decision to exclude it from this study. However, <span class="citation" data-cites="thorpe2012">@thorpe2012</span> and <span class="citation" data-cites="zorzin2015">@zorzin2015</span> have done similar work in this domain and have arrived at complementary conclusions.</p>
+<p><span id="3" class="paragraph-number">[3]</span> This paper articulates some systemic relations that scaffold archaeologists’ actions and attitudes at two independent archaeological projects, which serve as cases. The cases are not the subjects of inquiry, and instead represent discrete instances that share common reference to the overall research themes <span class="citation" data-cites="stake2006">(<a href="#ref-stake2006" role="doc-biblioref">Stake 2006</a>)</span>. So while the cases are certainly not representative of the whole archaeological discipline, they do enable me to reveal some underappreciated systemic concerns that underlie data management. As such, the findings are informed by the behaviours and attitudes expressed to me by those who agreed to participate, and by my own standpoint as a scholar of the culture and practice of science and of the media and infrastructures that support data sharing, integration and reuse.</p>
+<p><span id="4" class="paragraph-number">[4]</span> Both cases were research projects located in southern Europe and directed by professors affiliated with North American universities. I contributed to Case A for several years as a database manager, which provided me a privileged outlook on the systems set up to integrate and draw value from data. My involvement as a participant observer occurred over three years, from 2017 to 2019, and involved visiting the project during its summer field seasons to observe archaeological practices and to interview selected participants. I also held interviews throughout the “off season”. My continual and longer-term participation at Case A afforded greater understanding of the intricate social relations that developed over time, and enabled me to examine how certain methods and attitudes evolved over successive field seasons. This helped me account for how knowledge emerged from activities distributed across time, place and circumstance. Case B is generally regarded as being technologically innovative and has paved the way for application of novel digital tools and technologies into daily fieldwork routines (especially photogrammetry and advanced spatial recording systems). I visited this project for ten days during its 2019 summer fieldwork season, and my visit focused on the challenges that emerge from the use of advanced information systems, including how participants attempt to resolve those problems. My work at Case B was more intensive, and presented me with a fresh alternative to what I observed in Case A, which follows more traditional data management procedures.</p>
+<p><span id="5" class="paragraph-number">[5]</span> In both cases, the data I collected largely pertains to fieldwork recording practices, processing and analysis of finds, records management, interdisciplinary collaboration, decisions regarding writing and publication of findings, and discussions of how data and findings are presented, evaluated and revised among broader research communities. They each illustrate of the pragmatic and multifaceted ways in which participants reason and work their way through the rather mundane activities that archaeologists commonly undertake in similar research contexts.</p>
+<p><span id="6" class="paragraph-number">[6]</span> Commercial archaeology is absent from this study’s scope, despite the fact that it accounts for the vast majority of archaeological work conducted throughout North America and Europe. My own lack of knowledge about commercial archaeology contributed to my decision to exclude it from this study. However, <span class="citation" data-cites="thorpe2012">Thorpe (<a href="#ref-thorpe2012" role="doc-biblioref">2012</a>)</span> and <span class="citation" data-cites="zorzin2015">Zorzin (<a href="#ref-zorzin2015" role="doc-biblioref">2015</a>)</span> have done similar work in this domain and have arrived at complementary conclusions.</p>
 </section>
 <section id="data-collection" class="level2">
 <h2 class="anchored" data-anchor-id="data-collection">Data Collection</h2>
-<p>I assembled a rich and heterogeneous dataset comprising recorded observations of research practices, embedded interviews with archaeologists while they worked, retrospective interviews in non-work settings, and documents produced and used by project participants.</p>
-<p>Observations were usually video-recorded and documented what people actually do, which may differ from what they say or think they do. The main focus of observations was on how people used information tools and interfaces, to account for how the specific context of an activity influences its implementation, and to document how researchers use unconventional solutions or “hacks” to solve problems <span class="citation" data-cites="goodwin2010">[@goodwin2010]</span>. Embedded interviews were conversational inquiries conducted while participants were actively working. This helps me understand how and why people make decisions in real-time, considering the immediate pressures and circumstances of their work. Unlike simply observing their actions, these interviews captured the practical perspectives held by the researchers <span class="citation" data-cites="flick1997">[@flick1997]</span>. Retrospective interviews were longer discussions held outside participants’ work environments. They provided greater understanding of the broader contexts of work by exploring aspects that were not easily observed, such as project planning, publishing, and collaboration <span class="citation" data-cites="fontana2000">[@fontana2000]</span>. They also provided insight into how researchers saw themselves and their roles within the larger academic community. I examined documents including recording sheets, photographs, labels, databases, datasets and reports to gain insight into the norms or expectations concerning the presentation of legitimate forms of knowledge. I emphasized how people interacted with these media and ascribed value to them.</p>
-<p>I also wrote extensive field notes that remarked on key moments from observations and interview sessions, descriptions of unrecorded activities and conversations, and reflexive journal entries.</p>
+<p><span id="7" class="paragraph-number">[7]</span> I assembled a rich and heterogeneous dataset comprising recorded observations of research practices, embedded interviews with archaeologists while they worked, retrospective interviews in non-work settings, and documents produced and used by project participants.</p>
+<p><span id="8" class="paragraph-number">[8]</span> Observations were usually video-recorded and documented what people actually do, which may differ from what they say or think they do. The main focus of observations was on how people used information tools and interfaces, to account for how the specific context of an activity influences its implementation, and to document how researchers use unconventional solutions or “hacks” to solve problems <span class="citation" data-cites="goodwin2010">(<a href="#ref-goodwin2010" role="doc-biblioref">Goodwin 2010</a>)</span>. Embedded interviews were conversational inquiries conducted while participants were actively working. This helps me understand how and why people make decisions in real-time, considering the immediate pressures and circumstances of their work. Unlike simply observing their actions, these interviews captured the practical perspectives held by the researchers <span class="citation" data-cites="flick1997">(<a href="#ref-flick1997" role="doc-biblioref">Flick 1997</a>)</span>. Retrospective interviews were longer discussions held outside participants’ work environments. They provided greater understanding of the broader contexts of work by exploring aspects that were not easily observed, such as project planning, publishing, and collaboration <span class="citation" data-cites="fontana2000">(<a href="#ref-fontana2000" role="doc-biblioref">Fontana and Frey 2000</a>)</span>. They also provided insight into how researchers saw themselves and their roles within the larger academic community. I examined documents including recording sheets, photographs, labels, databases, datasets and reports to gain insight into the norms or expectations concerning the presentation of legitimate forms of knowledge. I emphasized how people interacted with these media and ascribed value to them.</p>
+<p><span id="9" class="paragraph-number">[9]</span> I also wrote extensive field notes that remarked on key moments from observations and interview sessions, descriptions of unrecorded activities and conversations, and reflexive journal entries.</p>
 </section>
 <section id="data-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="data-analysis">Data Analysis</h2>
-<p>Through abductive qualitative analysis of observations of archaeological practice, interviews with archaeologists as they worked, and of documents they created, I captured diverse experiences and outlooks that provide insight regarding how data management infrastructures are valued and used in a variety of contexts. This involved coding segments of interview transcripts and observational records and performing systematic writing and conceptual modelling exercises directly alongside the data <span class="citation" data-cites="charmaz2014">[@charmaz2014]</span>. This allowed me to build theories based on empirical evidence that reflected the informants’ diverse experiences.</p>
-<p>By listening to participants’ views concerning the systems with which they engaged and explanations as to why they acted in the ways that they did, I uncovered some underlying assumptions that shaped their perspectives and actions. Specifically, I was able to articulate systemic factors that scaffolded participants’ actions, attitudes, and experiences as they contributed to collective operations.</p>
+<p><span id="10" class="paragraph-number">[10]</span> Through abductive qualitative analysis of observations of archaeological practice, interviews with archaeologists as they worked, and of documents they created, I captured diverse experiences and outlooks that provide insight regarding how data management infrastructures are valued and used in a variety of contexts. This involved coding segments of interview transcripts and observational records and performing systematic writing and conceptual modelling exercises directly alongside the data <span class="citation" data-cites="charmaz2014">(<a href="#ref-charmaz2014" role="doc-biblioref">Charmaz 2014</a>)</span>. This allowed me to build theories based on empirical evidence that reflected the informants’ diverse experiences.</p>
+<p><span id="11" class="paragraph-number">[11]</span> By listening to participants’ views concerning the systems with which they engaged and explanations as to why they acted in the ways that they did, I uncovered some underlying assumptions that shaped their perspectives and actions. Specifically, I was able to articulate systemic factors that scaffolded participants’ actions, attitudes, and experiences as they contributed to collective operations.</p>
+
 
 
 </section>
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-batist2023a" class="csl-entry" role="listitem">
+Batist, Zachary. 2023. <span>“Archaeological Data Work as Continuous and Collaborative Practice.”</span> PhD thesis, Toronto: University of Toronto. <a href="https://hdl.handle.net/1807/130306">https://hdl.handle.net/1807/130306</a>.
+</div>
+<div id="ref-batist2024a" class="csl-entry" role="listitem">
+———. 2024. <span>“On the Value of Informal Communication in Archaeological Data Work.”</span> <em>Open Archaeology</em> 10 (1): 20240014. <a href="https://doi.org/10.1515/opar-2024-0014">https://doi.org/10.1515/opar-2024-0014</a>.
+</div>
+<div id="ref-batist2025a" class="csl-entry" role="listitem">
+———. 2025a. <span>“Balancing Situated and Objective Representations in Archaeological Fieldwork.”</span> <em>Advances in Archaeological Practice</em> 13 (4): 514–27. <a href="https://doi.org/10.1017/aap.2025.10101">https://doi.org/10.1017/aap.2025.10101</a>.
+</div>
+<div id="ref-batist2025" class="csl-entry" role="listitem">
+———. 2025b. <span>“Locating Creative Agency in Archaeological Data Work.”</span> August 9, 2025. <a href="https://doi.org/10.17613/8EQY4-N1M82">https://doi.org/10.17613/8EQY4-N1M82</a>.
+</div>
+<div id="ref-charmaz2014" class="csl-entry" role="listitem">
+Charmaz, Kathy. 2014. <em>Constructing Grounded Theory</em>. 2nd ed. SAGE.
+</div>
+<div id="ref-flick1997" class="csl-entry" role="listitem">
+Flick, Uwe. 1997. <span>“The Episodic Interview. Small Scale Narratives as Approach to Relevant Experiences.”</span> <em>London School of Economics Methodology Institute: Discussion Papers-Qualitative Series</em>.
+</div>
+<div id="ref-fontana2000" class="csl-entry" role="listitem">
+Fontana, Andrea, and James H. Frey. 2000. <span>“The Interview: From Structured Questions to Negotiated Text.”</span> In <em>Handbook of Qualitative Research</em>, edited by Norman K. Denzin and Yvonna S. Lincoln, 2nd ed., 645–72. Thousand Oaks, CA: SAGE.
+</div>
+<div id="ref-goodwin2010" class="csl-entry" role="listitem">
+Goodwin, Charles. 2010. <span>“Things and Their Embodied Environments.”</span> In <em>The Cognitive Life of Things: Recasting the Boundaries of the Mind</em>, edited by Lambros Malafouris and Colin Renfrew, 103–20. Cambridge: McDonald Institute of Archaeological Research.
+</div>
+<div id="ref-stake2006" class="csl-entry" role="listitem">
+Stake, Robert E. 2006. <em>Multiple Case Study Analysis</em>. New York: Guilford Press.
+</div>
+<div id="ref-thorpe2012" class="csl-entry" role="listitem">
+Thorpe, Reuben. 2012. <span>“Often Fun, Usually Messy: Fieldwork, Recording and Higher Orders of Things.”</span> In <em>Reconsidering Archaeological Fieldwork: Exploring on-Site Relationships Between Theory and Practice</em>, edited by Hannah Cobb, Harris Harris Oliver J. T., Cara Jones, and Philip Richardson, 31–52. Springer, Boston, MA. <a href="https://doi.org/10.1007/978-1-4614-2338-6_3">https://doi.org/10.1007/978-1-4614-2338-6_3</a>.
+</div>
+<div id="ref-zorzin2015" class="csl-entry" role="listitem">
+Zorzin, Nicolas. 2015. <span>“Dystopian Archaeologies: The Implementation of the Logic of Capital in Heritage Management.”</span> <em>International Journal of Historical Archaeology</em> 19 (4): 791–809. <a href="https://doi.org/10.1007/s10761-015-0315-4">https://doi.org/10.1007/s10761-015-0315-4</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

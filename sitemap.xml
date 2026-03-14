@@ -1,59 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/notes/brainstorm.html</loc>
-    <lastmod>2025-07-05T01:03:51.355Z</lastmod>
-  </url>
-  <url>
     <loc>https://zackbatist.github.io/data-tech-poli-arch/slides/slides.html</loc>
     <lastmod>2026-03-13T20:40:07.981Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/03_methods-materials.html</loc>
-    <lastmod>2026-03-14T16:45:37.676Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/10_references.html</loc>
-    <lastmod>2026-03-13T20:40:07.909Z</lastmod>
   </url>
   <url>
     <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/11_back-matter.html</loc>
     <lastmod>2026-03-13T20:40:07.910Z</lastmod>
   </url>
   <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/12_supplement.html</loc>
-    <lastmod>2026-03-13T20:43:43.576Z</lastmod>
-  </url>
-  <url>
     <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/06_conclusion.html</loc>
     <lastmod>2026-03-13T20:40:07.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/05_discussion.html</loc>
-    <lastmod>2026-03-13T20:40:07.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/02_background.html</loc>
-    <lastmod>2026-03-14T18:29:15.445Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/01_introduction.html</loc>
-    <lastmod>2026-03-14T17:03:50.768Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/00_abstract.html</loc>
-    <lastmod>2026-03-13T20:40:07.908Z</lastmod>
   </url>
   <url>
     <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/04_findings.html</loc>
     <lastmod>2026-03-14T21:21:41.970Z</lastmod>
   </url>
   <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/data-tech-poli-arch.html</loc>
-    <lastmod>2026-03-14T21:50:55.125Z</lastmod>
+    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/02_background.html</loc>
+    <lastmod>2026-03-14T18:29:15.445Z</lastmod>
   </url>
   <url>
-    <loc>https://zackbatist.github.io/data-tech-poli-arch/notes/workshop-notes.html</loc>
-    <lastmod>2025-12-11T09:19:11.173Z</lastmod>
+    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/00_abstract.html</loc>
+    <lastmod>2026-03-13T20:40:07.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zackbatist.github.io/data-tech-poli-arch/data-tech-poli-arch.html</loc>
+    <lastmod>2026-03-14T22:16:26.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/01_introduction.html</loc>
+    <lastmod>2026-03-14T17:03:50.768Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/03_methods-materials.html</loc>
+    <lastmod>2026-03-14T16:45:37.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/05_discussion.html</loc>
+    <lastmod>2026-03-13T20:40:07.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/10_references.html</loc>
+    <lastmod>2026-03-13T20:40:07.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zackbatist.github.io/data-tech-poli-arch/sections/12_supplement.html</loc>
+    <lastmod>2026-03-13T20:43:43.576Z</lastmod>
   </url>
 </urlset>
