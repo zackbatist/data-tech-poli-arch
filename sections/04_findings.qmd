@@ -108,7 +108,7 @@ He therefore invited Denise, a major figure in lithics analysis who was responsi
 ![Basil explains his rationale for inviting Denise to examine the archaeological material.](figures/excerpt1.png){#fig-warrant-for-consultation}
 :::
 
-::: {.content-visible when-format="html" #exc-warrant-for-consultation }
+::: {.content-visible when-format="html" #exc-warrant-for-consultation}
 > **Basil:** ... for decades, there have been accepted means of scientifically representing the archaeological record, umm to act as evidential bases for your claims. It's understood, that you know, it's impractical for every single interested archaeologist to come to see your site, to see your material. You could be in Australia and the site could be in Peru, umm and so, without that tactile, immediate relationship with the evidence basis that somebody's uhh excavated, there are ways of representing it through photography and line illustration. Umm, that always used to seem to be enough, but it seems like again, it comes down to this contentious nature of our site. The fact that we are, we allegedly have such an early site where such early sites are not meant to be, I'm starting to discover that some of what used to be the accepted means of, accepted ehh evidential umm bases, don't seem to be good enough for everyone. And so it's been very important to have people like Denise come and see this stuff in the flesh. Yes, she's seen the drawing, yes, she's seen the photograph, but for her to see it first hand, handle it, pick it up, query it, umm look at, look at assemblages, as opposed to cherry picked illustrated pieces, has been fundamental to convince her that we really have what we say we have.
 ^[A28](#sec-A28)^
 
@@ -143,7 +143,7 @@ Moreover, as outsiders, they were not forced to adhere to the systematic recordi
 <!-- As Case A, a consultant was called in to examine a peculiar and anomalous material configuration that confounded project participants.
 As illustrated in @exc-consulting-dialogue, Basil asked Andreas, a micromorphology specialist, to perform a preliminary, _ad-hoc_ examination of the microstratigraphy in a trench that exhibited evidence of hearth activity:^[A22](#sec-A22),[A23](#sec-A23),[A24](#sec-A24),[A25](#sec-A25)^ -->
 
-<!-- ::: {#exc-consulting-dialogue .exc}
+<!-- ::: {#exc-consulting-dialogue.exc}
 > **Andreas:** And on this side, on this side, is the, the fire base, sand, sand right below the, the hearth. \dots This sand is de-calcified, which again implies kind of, [left on] the surface in order to de-calcify. And on this surface, the guys came and put fire. Actually the matrix of the black stuff is sand again. \dots So the whole thing is kind of in play but not in sequence. \dots Of course we don't see any more ashes because they have been dissolved away. Actually what you see under the microscope is just sand grains surrounded by [unclear] made of very fine charcoaled dust, dust charcoal. That's why you don't find, I guess, charcoal inside, probably [a] few bits.\
 > **Basil:** Yeah, it's nothing. Yeah it's a very very tiny amount.\
 > **Andreas:** Yeah, I mean okay, it's like putting a fire down on the sand. You know, the sand is something that moves, always, around. Even people when we're trampling it, you know animals, you know \dots. Sadly, nothing would survive, \dots so much not in a \dots but would end up in dust, something like that.\

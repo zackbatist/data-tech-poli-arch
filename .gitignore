@@ -80,3 +80,5 @@ data-tech-poli-arch.tex
 data-tech-poli-arch.pdf
 data-tech-poli-arch.docx
 notes/workshop-notes.html
+
+**/*.quarto_ipynb
