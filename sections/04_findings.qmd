@@ -101,18 +101,27 @@ Additionally, the extreme amount of weathering made it very difficult to photogr
 Sharing illustrations was also deemed inappropriate because of a perception that they were too interpretive and lacked objective legitimacy.
 
 Despite the director's confidence in his project's claims, and his acknowledgement that the stratigraphy was imperfect, Basil knew that he would have a hard time convincing others of the nature of the things that they found.
-He therefore invited Denise, a major figure in lithics analysis who was responsible for publishing the most definitive assemblages of the kind of materials recovered at Case A, to examine their materials. The rationale behind this decision is articulated in @exc-warrant-for-consultation:
+He therefore invited Denise, a major figure in lithics analysis who was responsible for publishing the most definitive assemblages of the kind of materials recovered at Case A, to examine their materials. The rationale behind this decision is articulated in
+[@fig-warrant-for-consultation]{.content-visible when-format="pdf"}[@exc-warrant-for-consultation]{.content-visible when-format="html"}:
 
-::: {#exc-warrant-for-consultation .exc}
+::: {.content-visible when-format="pdf"}
+![Basil explains his rationale for inviting Denise to examine the archaeological material.](figures/excerpt1.png){#fig-warrant-for-consultation}
+:::
+
+::: {.content-visible when-format="html" #exc-warrant-for-consultation }
 > **Basil:** ... for decades, there have been accepted means of scientifically representing the archaeological record, umm to act as evidential bases for your claims. It's understood, that you know, it's impractical for every single interested archaeologist to come to see your site, to see your material. You could be in Australia and the site could be in Peru, umm and so, without that tactile, immediate relationship with the evidence basis that somebody's uhh excavated, there are ways of representing it through photography and line illustration. Umm, that always used to seem to be enough, but it seems like again, it comes down to this contentious nature of our site. The fact that we are, we allegedly have such an early site where such early sites are not meant to be, I'm starting to discover that some of what used to be the accepted means of, accepted ehh evidential umm bases, don't seem to be good enough for everyone. And so it's been very important to have people like Denise come and see this stuff in the flesh. Yes, she's seen the drawing, yes, she's seen the photograph, but for her to see it first hand, handle it, pick it up, query it, umm look at, look at assemblages, as opposed to cherry picked illustrated pieces, has been fundamental to convince her that we really have what we say we have.
 ^[A28](#sec-A28)^
 
 Basil explains his rationale for inviting Denise to examine the archaeological material.
 :::
 
-While Denise was happy to lend her expert eye, she also informed Basil about some of her concerns with the material. In @exc-result-of-consultation, Basil recalled how Denise's constructive criticism provided him with an understanding of how to proceed to accommodate these issues.^[A29](#sec-A29),[A30](#sec-A30)^
+While Denise was happy to lend her expert eye, she also informed Basil about some of her concerns with the material. In [@fig-result-of-consultation]{.content-visible when-format="pdf"}[@exc-result-of-consultation]{.content-visible when-format="html"}, Basil recalled how Denise's constructive criticism provided him with an understanding of how to proceed to accommodate these issues.^[A29](#sec-A29),[A30](#sec-A30)^
 
-::: {#exc-result-of-consultation .exc}
+::: {.content-visible when-format="pdf"}
+![Basil explains the feedback he received from Denise, and what this means for future work.](figures/excerpt2.png){#fig-result-of-consultation}
+:::
+
+::: {.content-visible when-format="html" #exc-result-of-consultation}
 > **Basil:** So the superstar material that Lauren was excavating, that we thought was Levallois blade cores, she disagreed. She thinks the material is fabulous, she's never seen this material before in Greece, she thinks it's Aurignation and looks much more like what you would find in France. She's blown away. She's blown away by---\
 > **Zack:** But it's still Middle Pal?\
 > **Basil:** Very early Middle Pal. But, we had shown her our superstar pieces. This is where it---\
@@ -129,9 +138,7 @@ From these examples we see that members of the archaeological community who were
 As people who were external to the project, they were not committed to following through on their advice; they instead relayed their interpretations to specialists who were already members of the project and who were capable of implementing their guidance.^[A31](#sec-A31),[A32](#sec-A32)^
 Moreover, as outsiders, they were not forced to adhere to the systematic recording systems that scaffolded internal procedures, and the informal nature of their contributions was in fact a crucial aspect that imbued them with value.
 
-![Diagram depicting the relationships between domain specialists who work for an archaeological project and consultants who are brought in to advise.](figures/consultants.png){#fig-consultants-diagram width="100%"}
-
-
+![Diagram depicting the relationships between domain specialists who work for an archaeological project and consultants who are brought in to advise. Archaeological projects host specialists from various intersecting domains, who consult with other specialists in their areas of expertise who are not members of the project.](figures/consultants.png){#fig-consultants-diagram width="100%"}
 
 <!-- As Case A, a consultant was called in to examine a peculiar and anomalous material configuration that confounded project participants.
 As illustrated in @exc-consulting-dialogue, Basil asked Andreas, a micromorphology specialist, to perform a preliminary, _ad-hoc_ examination of the microstratigraphy in a trench that exhibited evidence of hearth activity:^[A22](#sec-A22),[A23](#sec-A23),[A24](#sec-A24),[A25](#sec-A25)^ -->
