@@ -1,6 +1,6 @@
 ---
 title: "Data Management is People Management:"
-subtitle: On Abstraction of Data and Labor in Archaeological Projects
+subtitle: "On Abstraction of Data and Labor in Archaeological Projects"
 author:
   - name: Zachary Batist
     id: zb
@@ -14,8 +14,6 @@ author:
         city: Montreal
         region: Québec
         country: Canada
-bibliography: assets/data-tech-poli-arch.bib
-csl: assets/chicago-author-date.csl
 license: CC0
 lang: en-CA
 date: last-modified
@@ -33,15 +31,13 @@ citation:
   container-title: TBD
   doi: TBD
   url: https://zackbatist.info/data-tech-poli-arch
-number-sections: false
-code-fold: true
-code-copy: true
-code-tools:
-  source: true
-  toggle: false
-  caption: Source
-code-overflow: wrap
-title-block-banner: plain
+
+bibliography: assets/data-tech-poli-arch.bib
+csl: assets/chicago-author-date.csl
+filters:
+  - abstract-section
+  - assets/count-para.lua
+
 crossref:
   custom:
     - kind: float
@@ -49,29 +45,33 @@ crossref:
       key: exc
       caption-location: bottom
       latex-env: excerpt
-filters:
-  - abstract-section
-  - assets/count-para.lua
+
 format:
   html:
+    theme: cosmo
+    title-block-banner: true
+    format-links: [pdf, revealjs]
     embed-resources: true
     grid:
       margin-width: 500px
       body-width: 950px
+    number-sections: false
     toc: true
+    toc-location: right
     toc-depth: 2
     toc-expand: 2
+    code-fold: true
+    code-copy: true
+    code-tools:
+      source: true
+      toggle: false
+      caption: Source
+    code-overflow: wrap
     include-in-header:
       - text: |
           <style type="text/css">
             .exc {
               background-color: rgb(247, 247, 247);
-              &.quarto-figure-center>figure>div {
-                text-align: left;
-              }
-            }
-            h1.hide {
-              display: none;
             }
             #quarto-document-content {
               text-align: justify;
@@ -79,10 +79,15 @@ format:
             .abstract {
               text-align: justify;
             }
+            .quarto-title-banner {
+              padding-top: 25px;
+              padding-bottom: 25px;
+            }
           </style>
   pdf:
     keep-tex: true
     latex-clean: true
+    pdf-engine: lualatex
     geometry:
       - top = 0.75in
       - bottom = 1in
@@ -99,6 +104,7 @@ format:
         \usepackage{marvosym}
     template-partials:
       - assets/title.tex
+
 format-links: 
   - pdf
   - format: revealjs

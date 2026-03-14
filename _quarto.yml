@@ -1,20 +1,15 @@
 project:
   type: website
   output-dir: _output/html
-  render: 
-    - data-tech-poli-arch.qmd
 
-format:
-  html:
-    theme: cosmo
-    toc: true
-    code-fold: true
-    filters:
-      - abstract-section
-      - assets/count-para.lua
+website:
+  title: "Data Management is People Management"
+  sidebar: false
+  navbar: false
+  page-navigation: false
 
-# Common Metadata
-author: 
-  - name: Zachary Batist
-bibliography: assets/data-tech-poli-arch.bib
-csl: assets/chicago-author-date.csl
+render:
+  - data-tech-poli-arch.qmd
+
+project-metadata:
+  index: data-tech-poli-arch.qmd
