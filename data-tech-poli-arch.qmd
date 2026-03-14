@@ -32,12 +32,6 @@ citation:
   doi: TBD
   url: https://zackbatist.info/data-tech-poli-arch
 
-bibliography: assets/data-tech-poli-arch.bib
-csl: assets/chicago-author-date.csl
-filters:
-  - abstract-section
-  - assets/count-para.lua
-
 crossref:
   custom:
     - kind: float
