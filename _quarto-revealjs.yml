@@ -1,0 +1,12 @@
+project:
+  output-dir: _output/slides
+  render: 
+    - slides/slides.qmd
+
+format:
+  revealjs:
+    theme: simple
+    transition: fade
+    show-notes: true
+    filters:
+      - abstract-section

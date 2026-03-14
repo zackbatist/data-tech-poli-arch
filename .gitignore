@@ -56,6 +56,8 @@ Thumbs.db
 ######################
 .gdsheet
 /.quarto/
+/_output/
+/site_libs/
 .hugo_build.lock
 /.luarc.json
 _site/

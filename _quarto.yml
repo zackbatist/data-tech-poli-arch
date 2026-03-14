@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: _output/html
+  render: 
+    - data-tech-poli-arch.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    filters:
+      - abstract-section
+      - assets/count-para.lua
+
+# Common Metadata
+author: 
+  - name: Zachary Batist
+bibliography: assets/data-tech-poli-arch.bib
+csl: assets/chicago-author-date.csl
