@@ -1,12 +1,16 @@
 project:
-  output-dir: _output/slides
+  output-dir: _site/slides
   render: 
     - slides/slides.qmd
 
 format:
   revealjs:
-    theme: simple
-    transition: fade
-    show-notes: true
-    filters:
-      - abstract-section
+    slides: true
+    output-file: slides
+    embed-resources: true
+    toc: false
+    theme: black
+    slide-number: c/t
+    template-partials:
+      - slides/title-slide.html
+    css: slides/slides-styles.css

@@ -1,4 +1,14 @@
 ---
+project:
+  type: website
+  render:
+    - data-tech-poli-arch.qmd
+    - slides/slides.qmd
+    - "*.qmd"
+    - "!notes/"
+    - "!guidelines/"
+    - "!logistics/"
+  output-dir: _site
 title: "Data Management is People Management:"
 subtitle: "On Abstraction of Data and Labor in Archaeological Projects"
 author:
@@ -31,13 +41,19 @@ citation:
   container-title: TBD
   doi: TBD
   url: https://zackbatist.info/data-tech-poli-arch
-
+number-sections: false
+code-fold: true
+code-copy: true
+code-tools:
+  source: true
+  toggle: false
+  caption: Source
+code-overflow: wrap
 bibliography: assets/data-tech-poli-arch.bib
 csl: assets/chicago-author-date.csl
 filters:
   - abstract-section
   - assets/count-para.lua
-
 crossref:
   custom:
     - kind: float
@@ -45,11 +61,14 @@ crossref:
       key: exc
       caption-location: bottom
       latex-env: excerpt
-
+website:
+  sidebar: false
+  navbar: false
 format:
   html:
     theme: cosmo
-    title-block-banner: true
+    output-file: "index.html"
+    title-block-banner: plain
     toc: true
     toc-location: right
     embed-resources: true
@@ -83,13 +102,12 @@ format:
         \usepackage{marvosym}
     template-partials:
       - assets/title.tex
-
 format-links: 
   - pdf
   - format: revealjs
     text: Slides
     icon: easel
-    href: _output/slides/slides.html
+    href: _site/slides/slides.html
 ---
 
 ::: {.callout-note}
