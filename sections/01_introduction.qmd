@@ -3,8 +3,10 @@ Archaeological projects are inherently collaborative, in that they bring teams o
 Archaeologists apply a multitude of tools and methods, in sequence and in tandem and across different kinds of work settings, to produce rich and heterogeneous data about their engagements with the archaeological record.
 They adhere to professional norms and expectations to organize the products of their collective labour, and rely on a combination of digital and analog devices and protocols to pool the outcomes of their respective tasks.
 
-Advanced computational systems have addressed many technical barriers, but data integration is much more than just a technical process; it also involves considerable collaborative labour to facilitate commensurability of research outcomes and to ensure that all parties effectively contribute to common goals.
-In this paper I draw clear associations between project and data management, and their mutual reliance on technological systems as means of maintaining control.
-As such, it draws attention to the series of collaborative commitments and broader social contexts from which we develop data management systems and infrastructures.
+Advanced computational systems, especially those that integrate data from across the span of work occurring within archaeological projects, have helped overcome technical barriers obstructing the free flow of information.
+These systems have undoubtably unlocked enhanced analytical protocols that support robust understanding of the past.
+However, data integration is much more than a technical process; it also involves considerable collaborative labour to facilitate commensurability of research outcomes and to ensure that all parties effectively contribute to common goals.
 
-Specifically, the paper examines how locally-circumscribed practices are re-framed as generic processes as part of attempts to streamline the dissemination of data, and how this permeates across project systems at various scales --- albeit unevenly across various agents within project collectives.
+In this paper I make clear associations between project and data management, and how they establish means of maintaining controlled information resources.
+It therefore draws attention to the series of collaborative commitments and broader social contexts in which archaeologists embed their work.
+Specifically, the paper examines how locally-circumscribed practices are re-framed as generic processes as part of attempts to streamline the assembly and dissemination of data, and how this permeates across project systems.
