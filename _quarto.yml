@@ -1,15 +1,14 @@
 project:
-  type: website
-  output-dir: _output/html
+  type: default
+  render:
+    - "*.qmd"
+    - "!notes/"
+    - "!guidelines/"
+    - "!logistics/"
 
-website:
-  title: "Data Management is People Management"
-  sidebar: false
-  navbar: false
-  page-navigation: false
+bibliography: assets/data-tech-poli-arch.bib
+csl: assets/chicago-author-date.csl
 
-render:
-  - data-tech-poli-arch.qmd
-
-project-metadata:
-  index: data-tech-poli-arch.qmd
+filters:
+  - abstract-section
+  - assets/count-para.lua

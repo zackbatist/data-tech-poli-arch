@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - data-tech-poli-arch.qmd
+    - slides/slides.qmd
+
+website:
+  sidebar: false
+  navbar: false
+
+project-metadata:
+  website:
+    index-page: data-tech-poli-arch.qmd
+    format-links: 
+      - pdf
+      - text: Slides
+        icon: easel
+        href: _output/slides/slides.html

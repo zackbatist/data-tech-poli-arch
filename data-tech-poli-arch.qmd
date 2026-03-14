@@ -50,39 +50,18 @@ format:
   html:
     theme: cosmo
     title-block-banner: true
-    format-links: [pdf, revealjs]
+    toc: true
+    toc-location: right
     embed-resources: true
     grid:
       margin-width: 500px
       body-width: 950px
-    number-sections: false
-    toc: true
-    toc-location: right
-    toc-depth: 2
-    toc-expand: 2
-    code-fold: true
-    code-copy: true
-    code-tools:
-      source: true
-      toggle: false
-      caption: Source
-    code-overflow: wrap
     include-in-header:
       - text: |
           <style type="text/css">
-            .exc {
-              background-color: rgb(247, 247, 247);
-            }
-            #quarto-document-content {
-              text-align: justify;
-            }
-            .abstract {
-              text-align: justify;
-            }
-            .quarto-title-banner {
-              padding-top: 25px;
-              padding-bottom: 25px;
-            }
+            .exc { background-color: rgb(247, 247, 247); }
+            #quarto-document-content { text-align: justify; }
+            .abstract { text-align: justify; }
           </style>
   pdf:
     keep-tex: true
