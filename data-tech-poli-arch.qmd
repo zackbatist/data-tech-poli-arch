@@ -41,9 +41,6 @@ code-tools:
   toggle: false
   caption: Source
 code-overflow: wrap
-filters:
-  - abstract-section
-  - count-para.lua
 title-block-banner: plain
 crossref:
   custom:
@@ -52,6 +49,8 @@ crossref:
       key: exc
       caption-location: bottom
       latex-env: excerpt
+filters:
+  - abstract-section
 format:
   html:
     embed-resources: true
@@ -122,15 +121,12 @@ format-links:
 
 ---
 
-:::: {.content-hidden when-format="revealjs"}
-::: {.content-hidden when-format="docx"}
+:::: {.content-hidden when-format="revealjs" when-format="docx"}
 ::: {.callout-note}
-This is a draft of a paper to be presented at the 2nd Annual Workshop in the [Exploring the Layers of Digital Archaeological Practice Series](https://www.uib.no/en/nia/177998/digital-archaeology-workshop-series-2024%E2%80%932027), whose theme this year is [Data and Technology Politics in Archaeology](https://www.uib.no/en/nia/179128/data-and-technology-politics-archaeology).
-The workshop will be hosted at the Norwegian Institute at Athens from December 3-4, 2025.
-A refined, peer-reviewed version will be published in the workshop proceedings.\
+This is a pre-review preprint of a paper presented at the 2nd Workshop in the [Exploring the Layers of Digital Archaeological Practice Series](https://www.uib.no/en/nia/177998/digital-archaeology-workshop-series-2024%E2%80%932027), whose theme for 2025 was [Data and Technology Politics in Archaeology](https://www.uib.no/en/nia/179128/data-and-technology-politics-archaeology).
+The workshop was hosted at the Norwegian Institute at Athens from December 3-4, 2025.
 
 [This content is also available at [zackbatist.info/data-tech-poli-arch](https://zackbatist.info/data-tech-poli-arch/) for a better reading experience.]{.content-visible when-format="pdf"}
-:::
 :::
 
 {{< include sections/00_abstract.qmd >}}
@@ -147,8 +143,6 @@ A refined, peer-reviewed version will be published in the workshop proceedings.\
 ::::
 
 ::: {.content-hidden unless-meta="slides"}
-
 {{< include slides/slides.qmd >}}
-
 :::
 
