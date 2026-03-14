@@ -6,11 +6,14 @@ project:
     - slides/slides.qmd
 
 website:
-  index-page: data-tech-poli-arch.qmd
   sidebar: false
   navbar: false
-  format-links: 
-    - pdf
-    - text: Slides
-      icon: easel
-      href: _output/slides/slides.html
+
+project-metadata:
+  website:
+    index-page: data-tech-poli-arch.qmd
+    format-links: 
+      - pdf
+      - text: Slides
+        icon: easel
+        href: slides/slides.html
