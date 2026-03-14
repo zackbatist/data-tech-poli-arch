@@ -14,3 +14,10 @@ project-metadata:
     format:
       html:
         output-file: "index.html"
+  
+  website:
+    format-links: 
+      - pdf
+      - text: Slides
+        icon: easel
+        href: slides/slides.html
