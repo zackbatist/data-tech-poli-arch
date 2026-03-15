@@ -1,9 +1,0 @@
-project:
-  output-dir: _output/docx
-
-format:
-  docx:
-    reference-doc: logistics/guidelines/custom-reference-doc.docx
-    filters:
-      - abstract-section
-      - assets/count-para.lua

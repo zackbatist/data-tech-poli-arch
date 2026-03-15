@@ -108,6 +108,8 @@ format:
         \usepackage{marvosym}
     template-partials:
       - assets/title.tex
+  # docx:
+  #   reference-doc: logistics/guidelines/custom-reference-doc.docx
 format-links: 
   - pdf
   - format: revealjs

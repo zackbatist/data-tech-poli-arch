@@ -110,7 +110,7 @@ He therefore invited Denise, a major figure in lithics analysis who was responsi
 The rationale behind this decision is articulated in
 [@fig-warrant-for-consultation]{.content-visible when-format="pdf"}[@exc-warrant-for-consultation]{.content-visible when-format="html"}:
 
-::: {.content-visible when-format="pdf"}
+::: {.content-visible when-format="pdf" when-format="docx"}
 ![Basil explains his rationale for inviting Denise to examine the archaeological material.](figures/excerpt1.png){#fig-warrant-for-consultation}
 :::
 
@@ -123,7 +123,7 @@ Basil explains his rationale for inviting Denise to examine the archaeological m
 
 While Denise was happy to lend her expert eye, she also informed Basil about some of her concerns with the material. In [@fig-result-of-consultation]{.content-visible when-format="pdf"}[@exc-result-of-consultation]{.content-visible when-format="html"}, Basil recalled how Denise's constructive criticism provided him with an understanding of how to proceed to accommodate these issues.^[A23](#sec-A23),[A24](#sec-A24)^
 
-::: {.content-visible when-format="pdf"}
+::: {.content-visible when-format="pdf" when-format="docx"}
 ![Basil explains the feedback he received from Denise, and what this means for future work.](figures/excerpt2.png){#fig-result-of-consultation}
 :::
 
