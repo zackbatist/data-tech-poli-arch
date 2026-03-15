@@ -6,7 +6,6 @@ project:
     - slides/slides.qmd
     - "*.qmd"
     - "!notes/"
-    - "!guidelines/"
     - "!logistics/"
   output-dir: _site
 title: "Data Management is People Management:"
