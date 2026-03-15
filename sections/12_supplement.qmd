@@ -3,19 +3,6 @@ This supplement contains sections of transcribed interviews referenced throughou
 References are ordered by case and by the order in which they appear. Each reference has a prefix corresponding with the case to which it pertains.
 
 ## Case A
-##### A1 {#sec-A1}
-**Zack:** So my first question is, do you see fieldwork as being somewhat distinct? How do you separate the different research environments you work in? Like field work, and then lab work, and then other work? How to they relate to the overall professional...\
-**Basil:** Umm, I would like it to be as integrated as possible. Obviously there is the real pragmatic, the field is here, the labs are there. I'm not so used to talking about uhh, Pinnacle Point, in South Africa, where they actually have an OSL lab on site, they're doing this stuff on site. You know, I'm not, I don't think about that in terms of like ooh, that would be lovely, but what I do desire, and this is where it becomes a bit difficult and where some frustrations for me come in, is like, I want the people who are going to be doing the lab work to be as engaged in possible in the field. So that's why it makes me very happy that we have someone like Marie, who is going to be doing our OSL dating over in [her lab at her home institution], coming to the site, doing the sampling, discussing in detail the archaeology with knowledgeable characters such as Gabe, Alfred, Liane, because it makes me feel so much more confident that the results we're gonna get are trustworthy. Now, if push came to shove, I'm sure that Alfred, Gabe, Liane will be able to take those samples to the standards required by Marie, send them to the lab, and Marie would be able to process them. Indeed, that's exactly what we did with out first, umm, set of OSL dates. We took the samples, and we sent them off to Clifford, who until last year, umm I'd never met. Umm, and and, you know, that kind of umm lab based work is fairly standard for archaeology. You take a sample, you send it off to do something, but as much as possible, I want those people involved to be at the site so they understand the questions we're asking, they really understand the archaeology, and that will help them umm fine tune their sampling, their comprehension of what they're engaging with, so it's very important for me to have, you know, in theory Melinda from [redacted] is doing the archaeobotany, but she's given us her PhD student, Dorothy. Well Dorothy is there, she's seen the archaeology, she's working with us, you know, so there's a greater degree of comprehension. I really wanted a woman called umm Rachel this year to come down and look at our, our charcoal material, and in the end she couldn't umm come, uhh I saw her in [redacted], we're gonna try to move the material to umm the [redacted] Lab in [redacted] for her to work on. And for me that's a bit of a disappointment. You know, it was always going to happen sooner or later, there was gonna be somebody who couldn't come, or who didn't see it as necessary as actually coming, we'll look at this material, in a completely isolated manner, you know. And I'm sure Rachel has done fabulous work on carbon from Palaeolithic and Mesolithic sites elsewhere in the [region], she is exactly the person to work with, but I find it a bit sad maybe there will be a slightly lesser impact, because you know, she's never even been to the site. Yes, we can give her text, we can give her photos, we can give her videos, but it's, for me, umm there there's that kind of real, you know, the reality, the actual being there. I, I, I feel, I believe, I would like to think, umm, it gives the scholar an extra...\
-**Zack:** I mean, can you be a bit more specific though, when you think about that being there, like, what that really entails, like how that really is truly beneficial?\
-**Basil:** Well, I think, you know, it, it was great pleasure to you know, sit back across the table and watch, listen to Marie and Gabe and Alfred really talking in great detail about what they thought was going on in the site formation processes, what implications that had for sampling, what implications it had for the interpretative limitations of what they can say, and how things could be bracketed, how things could be rescued. They were already working on the narrative, they were like, it was basically, they were ready to roll with whatever we got. You know, it wasn't a matter of like "this is the result, ooh now what might this mean?", they were like really thinking through what this sort or, where this might actually take us, and they were all, they were using the same language, they really, there was a great deal of mutual comprehension. Umm, now, you know, in terms of the site, if we sent the stuff off to umm Marie, she would have generated the same dates, but there there would be, you know, I, with with Clifford and and the University of [redacted] there's been a bazillion emails, I mean part of this is pragmatic, in terms of like a bazillion emails back and forth, and not quite comprehension, you know "oh sorry, I didn't realize that this sample came from this", like you know. Umm, so. And I think also, maybe part of this is like, you know, Marie is now invested, she's part of the team, she's part of the community, hopefully she'll have a feeling of, you know when push comes to shove maybe she'll just take it a bit further, because she's, she has an investment with it. Whereas like Rachel, eh, this is the latest dataset to pass across her desk, yes, you know I've got an obligation, but maybe it's more of an obligation rather than an investment. You know, so it's, it's, it's being part of a community of scholars by actually coming and joining us. So you know, we have a personal relationship, Rachel and me, but Rachel hasn't met and talked with Dorothy, Dorothy has separated the samples for Rachel, Dorothy umm, Rachel, if she does the work in the [redacted] Lab will be able to engage with Alfred who will be there at the same time, so there is a bit of a disconnect. So it's not a complete disaster, but I feel, you know, part of this is wanting to be invested in the project.
-
-##### A2 {#sec-A2}
-Moreover, Marie wanted to come to site to sit down and go over the OSL results with Basil and Gabe and Alfred, to explain the results and dispel any potential misunderstanding. Meanwhile, Basil and Alfred were very nervous with anticipation, and in some car ride discussions talked about how they would write to her to find out more before her arrival. They were concerned with guiding the geoarchaeological interpretations of the landscape to decide how to prioritize the excavation of the site, and to guide Jolene in her interpretations of the lithics.\
-Marie, and a few others, have now left to take more samples, which must be done at night, out of the sunlight. She is also here for that more practical reason.
-
-##### A3 {#sec-A3}
-Trench [redacted trench ID] and [redacted trench ID] have been un-backfilled yesterday for the sampling and the need to retrieve OSL dosimeters from their sections.
-
 ##### A4 {#sec-A4}
 Without cleaning, and perhaps just to see whether it is worth her time, or to check if the deepest spot she reached is adequate, she measures another elevation; she can then go down to that point knowing that it works.\
 Actually, it was to measure the depth of a large handaxe-looking thing. She noted it earlier but I guess she waited till her legs got sore to take an elevation. I may ask later.\
@@ -25,9 +12,6 @@ Nina at the sieve, brought over an orangey-brown piece of chert, no cortex, for 
 
 ##### A5 {#sec-A5}
 At around 7:55 Will asks me to put a little nodule in the soil sample bag. I may ask him about that later.
-
-##### A6 {#sec-A6}
-Jolene separating diagnostics from non-diagnostics. Non-diagnostics get pulled aside to Agatha's side of the table, where she separates those into ecofacts/natural/too weathered to matter. She throws those in a zimble, and counts them off. This is counted, and subtracted from the number recorded the other day, in error, which included both natural and cultural together.
 
 ##### A7 {#sec-A7}
 **Jolene:** Yeah because you can't study dirty lithics\
@@ -48,37 +32,8 @@ Jolene separating diagnostics from non-diagnostics. Non-diagnostics get pulled a
 **Jolene:** Yeah\
 **Agatha:** Yeah
 
-##### A8 {#sec-A8}
-Moved to watch Agatha now. She pulls a pile from the larger pile made by Jolene. Separates cultural material from natural material to throw away. Cultural material is out in a pile in the back, natural is kept where it is, directly in front of her. Once the pile in front of her has no cultural material in it anymore, she separates the natural to the side and clicks her clicker according to how many are moved. Then she sweeps these off the table, into the zimble on the floor. Or, to be quicker, she clicks as she drags them into the zimble, or as she drops them in after grabbing a handful of small material. This number will then be subtracted from the total count, which was mistakenly recorded earlier without removing the natural materials.
-
-##### A9 {#sec-A9}
-Jolene describing laid out materials. Somewhat of a performance. Starts with a big core from Lauren's trench. It stands alone. Tosses is around, across her hands, but looks at Agatha, who takes dictated notes, as she speaks. Speaks a few words at a time, [illegible] so that each four words are enunciated for Agatha.\
-Concludes by "and that's it" before adding a last minute additional note. Then adds "and that's enough".\
-Onto [redacted context ID], laid out already. Looks down at the table, scans the material. Does not touch yet. Generalized descriptions. Most, many, boolean logic, etc. Describes a few particular objects in more details. Hones down into more specific groups of finds, describes tendencies among them.\
-Still very descriptive. Stating how many of what. Defining the scope of the assemblage. Not yet uttered anything about periods, etc [illegible]. After describing patina, however, she begins to add some interpretations of deposition conditions. Then notes burned pieces. Now explicitly notes "concerning dating of material..."\
-Notes caveat first, conditional clause proceeding what her observations are pertaining to a subset of the material, very cautious and selective with her words, and does not backtrack or correct herself.\
-Then explicitly introduces her notes on the emery.\
-Then moves to the side, has closer look at the smaller finds. Physically handles a few.\
-Lydia asks to put them back in the bag. Jolene says sure, but goes through them, selecting a few to bag separately, for [illegible] to go through later for a second, more specific look.\
-Lydia's question to pack up was a welcomed interruption. Jolene was a bit fed up with this context, since it has been on the table for a very long time and she was glad to see it settled.\
-Agatha writes down what Jolene dictates in a small notebook. She will then transfer these descriptive notes to the database in a more standardized and "nicer" language.\
-Now for [redacted context ID]. Starts with material selection. Most to least. Notes mixed material, based on partial and "[illegible] typological [illegible]", does not specify yet.\
-Now describes Mesolithic. Describes most abundant [illegible] of lithics. "As well as one multidirectional core", it stands out as exceptional.\
-"Second group would be Upper Pal tools and blades in similar preservation". Then goes on to describe subgroups within it. "This assemblage is defined by..."\
-Then moves on to Lower Pal, as well. Grouping emphasizes patination, since this is important for discerning Lower Pal material.
-
-##### A10 {#sec-A10}
-She actually really hates these organizational tasks. She is really grateful for having Agatha as her assistant, who could do all of that, which she generalizes and dismisses as of somewhat lesser importance, or as the distractions from her more hands on work.
-
-##### A11 {#sec-A11}
-Agatha does a lot of busy work. She brings material back and forth from storage, for Iona to count and weigh, and for Ana to analyze. She also prepares level 1 recording sheets where counts/weights can be written down officially. Also compiles the list of already closed contexts, numbers of bags within, etc. Planning work for [illegible].
-
-##### A12 {#sec-A12}
-**Basil:** We're still, I always sort of gave, because Jolene's been here from the get-go she has sort of first dibs on what sort of material she wants to work on, and I think she was always keen to work on sort of Middle to Lower, but until this year we didn't really have much of that. Now that's crystallizing a bit more for her, whereby it makes sense for me to bring in somebody else to work with me on the Upper Palaeolithic or Mesolithic.
-
-##### A13 {#sec-A13}
-It is extremely difficult to share how good I feel about this code. It represents a major breakthrough in my learning how to use R, and it sucks that no tangible research products can come out of this in a way that shows my skills. I actually included an R script on my [funding] application that was due on Friday, as a non-refereed contribution, but that designation is sketchy.\
-This seems to be true of database work in general. I will likely not be published on major papers as a co-author because my work is `supportive' but not necessarily "creative". The output of database work is other people's work. But the product, the database itself, is a creative output. It's the result of a tremendous amount of unpaid work, highly skilled work at that. However, there are no ways to recognize or evaluate these skills. At least not in a formal or bureaucratic way. Perhaps this is why there is so much gatekeeping and nerd-signaling among "digital archaeologists", it's a way to indicate that one's in the know. But I don't believe that that is a reliable indicator of skill or know-how, it's easy to play the game on twitter, it takes lots of time, over the long term, to develop digital skills.
+##### A6 {#sec-A6}
+Jolene separating diagnostics from non-diagnostics. Non-diagnostics get pulled aside to Agatha's side of the table, where she separates those into ecofacts/natural/too weathered to matter. She throws those in a zimble, and counts them off. This is counted, and subtracted from the number recorded the other day, in error, which included both natural and cultural together.
 
 ##### A14 {#sec-A14}
 **Zack:** Are you including any supportive documentation, such as data tables, figures, details, methodological descriptions or metadata?\
@@ -108,6 +63,38 @@ This seems to be true of database work in general. I will likely not be publishe
 **Jane:** Hahahaha\
 **Ben:** In theory.
 
+##### A8 {#sec-A8}
+Moved to watch Agatha now. She pulls a pile from the larger pile made by Jolene. Separates cultural material from natural material to throw away. Cultural material is out in a pile in the back, natural is kept where it is, directly in front of her. Once the pile in front of her has no cultural material in it anymore, she separates the natural to the side and clicks her clicker according to how many are moved. Then she sweeps these off the table, into the zimble on the floor. Or, to be quicker, she clicks as she drags them into the zimble, or as she drops them in after grabbing a handful of small material. This number will then be subtracted from the total count, which was mistakenly recorded earlier without removing the natural materials.
+
+##### A9 {#sec-A9}
+Jolene describing laid out materials. Somewhat of a performance. Starts with a big core from Lauren's trench. It stands alone. Tosses is around, across her hands, but looks at Agatha, who takes dictated notes, as she speaks. Speaks a few words at a time, [illegible] so that each four words are enunciated for Agatha.\
+Concludes by "and that's it" before adding a last minute additional note. Then adds "and that's enough".\
+Onto [redacted context ID], laid out already. Looks down at the table, scans the material. Does not touch yet. Generalized descriptions. Most, many, boolean logic, etc. Describes a few particular objects in more details. Hones down into more specific groups of finds, describes tendencies among them.\
+Still very descriptive. Stating how many of what. Defining the scope of the assemblage. Not yet uttered anything about periods, etc [illegible]. After describing patina, however, she begins to add some interpretations of deposition conditions. Then notes burned pieces. Now explicitly notes "concerning dating of material..."\
+Notes caveat first, conditional clause proceeding what her observations are pertaining to a subset of the material, very cautious and selective with her words, and does not backtrack or correct herself.\
+Then explicitly introduces her notes on the emery.\
+Then moves to the side, has closer look at the smaller finds. Physically handles a few.\
+Lydia asks to put them back in the bag. Jolene says sure, but goes through them, selecting a few to bag separately, for [illegible] to go through later for a second, more specific look.\
+Lydia's question to pack up was a welcomed interruption. Jolene was a bit fed up with this context, since it has been on the table for a very long time and she was glad to see it settled.\
+Agatha writes down what Jolene dictates in a small notebook. She will then transfer these descriptive notes to the database in a more standardized and "nicer" language.\
+Now for [redacted context ID]. Starts with material selection. Most to least. Notes mixed material, based on partial and "[illegible] typological [illegible]", does not specify yet.\
+Now describes Mesolithic. Describes most abundant [illegible] of lithics. "As well as one multidirectional core", it stands out as exceptional.\
+"Second group would be Upper Pal tools and blades in similar preservation". Then goes on to describe subgroups within it. "This assemblage is defined by..."\
+Then moves on to Lower Pal, as well. Grouping emphasizes patination, since this is important for discerning Lower Pal material.
+
+##### A11 {#sec-A11}
+Agatha does a lot of busy work. She brings material back and forth from storage, for Iona to count and weigh, and for Ana to analyze. She also prepares level 1 recording sheets where counts/weights can be written down officially. Also compiles the list of already closed contexts, numbers of bags within, etc. Planning work for [illegible].
+
+##### A12 {#sec-A12}
+**Basil:** We're still, I always sort of gave, because Jolene's been here from the get-go she has sort of first dibs on what sort of material she wants to work on, and I think she was always keen to work on sort of Middle to Lower, but until this year we didn't really have much of that. Now that's crystallizing a bit more for her, whereby it makes sense for me to bring in somebody else to work with me on the Upper Palaeolithic or Mesolithic.
+
+##### A13 {#sec-A13}
+It is extremely difficult to share how good I feel about this code. It represents a major breakthrough in my learning how to use R, and it sucks that no tangible research products can come out of this in a way that shows my skills. I actually included an R script on my [funding] application that was due on Friday, as a non-refereed contribution, but that designation is sketchy.\
+This seems to be true of database work in general. I will likely not be published on major papers as a co-author because my work is `supportive' but not necessarily "creative". The output of database work is other people's work. But the product, the database itself, is a creative output. It's the result of a tremendous amount of unpaid work, highly skilled work at that. However, there are no ways to recognize or evaluate these skills. At least not in a formal or bureaucratic way. Perhaps this is why there is so much gatekeeping and nerd-signaling among "digital archaeologists", it's a way to indicate that one's in the know. But I don't believe that that is a reliable indicator of skill or know-how, it's easy to play the game on twitter, it takes lots of time, over the long term, to develop digital skills.
+
+##### A10 {#sec-A10}
+She actually really hates these organizational tasks. She is really grateful for having Agatha as her assistant, who could do all of that, which she generalizes and dismisses as of somewhat lesser importance, or as the distractions from her more hands on work.
+
 ##### A16 {#sec-A16}
 **Zack:** Uhh in your view, what are the main challenges or considerations in managing information productively for archaeological... can you just mentioned an aspect of that?\
 **Basil:** Sorry, managing...?\
@@ -134,57 +121,15 @@ This seems to be true of database work in general. I will likely not be publishe
 **Zack:** But what has the publication done with it?\
 **Basil:** Umm, like I said, Science Advances requires that we make available, make data available, umm primary data available or make, have a commitment to sharing it should somebody ask for it.
 
+##### A33 {#sec-A33}
+**Basil:** And then there are those more sort of umm conflict management I guess, which is where you have, and usually this tends to correlate with relatively junior scholars, who don't have the security of a job or act more insecure in terms of like their progress, their knowledge and whatever, where it's like we have, I mean basically, you know, to a large extent we're all working, most of us are working with stone tools, and a whole bunch of others are working with soils, so it almost boils down, most of the archaeology, to two components. And yet we have more than two people working on them, which means that we have people who are ideally complementary in the information they're pooling for the project, but I'm also very aware of the fact that while people are inputting to the project, they kind of need their own datasets, there needs to be a bit of a boundary marking in terms of this is ultimately mine, and I will be publishing this. Or at the very least, I will be publishing this as the first author, with this person. So, and I've experienced a lot of that at [a prior project], and so it, for when you have these little flare ups, it's not something that, none of this surprises me. As to how one deals with it, I've never been in that position to actually have to mediate these sort of things. So I've learned, probably, to be more clear up front in terms of this is my expectation of you, what's your expectation, this is yours, this is common, you know–
+
 ##### A20 {#sec-A20}
 **Zack:** I noticed one example I found really fascinating was your conversation, your three way conversation with you, Alfred and Andreas, I found that really fascinating as you all seemed to have a different role in the conversation. I was wondering if you have any strategies that you commonly use, to assess whether they're different, or whether they're integrating or whether they're divergent, or like, how do you sort of assemble these different ideas, and these different knowledge bases?\
 **Basil:** I mean, either I initiate meetings or I make sure that, you know, the three people who need to be talking to each other are brought together. I mean what was fantastic last year was having brought in Marie, Marie, Gabe and Alfred spoke the same language, it was wonderful to see. Whereby I was like, after a while, okay, I'm going to go off and talk to these people over here, you guys are obviously perfectly capable on your own.
 
 ##### A21 {#sec-A21}
 **Basil:** Well, I think, you know, it, it was great pleasure to you know, sit back across the table and watch, listen to Marie and Gabe and Alfred really talking in great detail about what they thought was going on in the site formation processes, what implications that had for sampling, what implications it had for the interpretative limitations of what they can say, and how things could be bracketed, how things could be rescued. They were already working on the narrative, they were like, it was basically, they were ready to roll with whatever we got. You know, it wasn't a matter of like "this is the result, ooh now what might this mean?", they were like really thinking through what this sort or, where this might actually take us, and they were all, they were using the same language, they really, there was a great deal of mutual comprehension.
-
-##### A22 {#sec-A22}
-**Basil:** Andreas did the micromorph of the block that was taken from the cave. He confirmed that all the material was basically wash. Our fear was that like, rather than digging stuff that was in the cave— because originally we thought that it was, you know, it was completely sealed, and by extent anything from inside the cave was deposited in the cave. Then in fact it turns out that really the cave is a false cave because it's, you know, a little crevice umm and some rocks had broken off and capped it but there's still some gaps, and stuff has squeezed through toothpaste-like and created this whatever. But then apparently within this matrix was soil that had been displaced from higher up the hill of a type that is not to be found anywhere on the hill anymore and is some of the oldest material we've come across. What significant that is, I do not know, because he slightly confused me.
-
-##### A23 {#sec-A23}
-**Basil:** And so also in terms of like, you know, we have the feature sheet, which would be used much more regularly I think in a British or a more normal [local] excavation, whereas like we have, you know, the one yet to be defined hearth complex, which I mean, one has to be careful about, and I'm just thinking about that today, you know, Andreas has emphasized that, you know, the hearth are in fact hundreds of firing events. So bundling that together as a feature, you know, one has to be wary about what that represents.
-
-##### A24 {#sec-A24}
-Andreas tells a very nice monologue narrative to relay his interpretation. Alfred, and Basil, relate their experiences and the collections of [the project], to Andreas, trying to see how the narrative can be leveraged and how they can contribute developing and refining the narrative.\
-They together explore potential streams that might be followed. Seems like a negotiation of sorts.\
-Alfred proposes a possibility.\
-Andreas evaluates its viability and potential to be integrated within the current narrative.\
-Basil relates similar efforts that have already been made, tempers the exploratory drive, and offers a pragmatic, project-oriented perspective.\
-Basil is standing still and observing conversation between Alfred and Andreas. Does not contribute, except to interject once in a while. Difficult to mind read, but seems that he is evaluating the comfort and expertise among the two others, evaluating how certain they seem.
-
-##### A25 {#sec-A25}
-**Andreas:** So, in the sequence here, see if you take, first of all the lower half with the clay, is certainly a long, the result of a long activity phase, weathering, transformation. Now that I see it more clearly, it appears in several places. It's a kind of uhh, an environment that, because it's [unclear] clay, sometimes it retains water. So it's a kind of, not exactly stagnant, but you can cal it something umm... but during the wet season it can be quite muddy or something like that. Now that I see it here it looks like being at the expense of any real [...]. This one is probably weathering, and down to, so this is something like the clay that you see at the bottom. I'm talking about a lot of time here. Okay, this is tens o thousands of years at least. Heh. I'm not a show-y person but I think the muddying, in order to [...] alteration of the bedrocks, this is old stuff. Uhh, then here you have the co-variation and some sand blown in. And on this side, on this side, is the, the fire base , sand, sand right below the, the hearth. The blown sand of, by the base, sand. This was, now the sand that, the sand that was actually related, you had, you had probably a stable formed, some kind of small weathering of the sand [...], it could be aeolian. It has to be aeolian. I can only imagine the processes that brought here [pure sand]. This sand is de-calcified, which again implies kind of, some kind [left on] the surface in order to de-calcify. And on this surface, the guys came and put fire. Actually the matrix of the black stuff is sand again. I was surprised when I saw it but it's, like if I saw you tomorrow or in the afternoon or the evening, I will bring, I will bring my, my computer and my uhh laptop, you can see [...] a thin section in a picture that's pictures of black sand. I think you can see with the loop as well, with the magnifier. So the whole thing is kind of in play but not in sequence. [...], de-calcified uhh again, which means some water was circulating, the [...] was [...], during the winter, the rainy season, everything was moved around. But you know, moved around. So the, probably, for example, this area, kind of [...]. I [see] a few pockets that resemble more ashy remains. Of course we don't see any more ashes because they have been dissolved away. Actually what you see under the microscope is just sand grains surrounded by [...] made of very fine charcoaled dust, dust charcoal. That's why you don't find, I guess, charcoal inside, probably few bits.\
-**Basil:** Yeah, it's nothing. Yeah it's a very very tiny amount.\
-**Andreas:** Yeah, I mean okay, it's like putting a fire down on the sand. You know, the sand is something that moves, always, around. Even people when we're trampling it, you know animals, you know [...]. Sadly, nothing would survive, [...] so much not in a [...] but would end up in dust, something like that.\
-**Alfred:** Oh well.\
-**Andreas:** But still, it's [held up] in place, and made on the, on the material that is just below. So they are, let's say, kind of the same, umm, story.\
-**Basil:** Excellent.\
-**Alfred:** That's good. Yeah.\
-**Andreas:** I mean you can date, I guess the date of both events will not agree. The accumulation of the sand below and the fireplaces on top, they might be about the same age, more or less. I mean, if you are lucky and you [...] you can separate these two events, it would be nice but I think it's, it wouldn't be very [...].\
-**Alfred:** [something about carbonized remains]\
-**Basil:** We have a few carbonized remains. And we, we just took another 167 litres of flotation so our, we have our archaeobotanist coming through next week.\
-**Andreas:** Did you say carbonized or carbonated?\
-**Alfred:** Carbonized.\
-**Andreas:** Yeah, then of course.\
-**Alfred:** But I mean--\
-**Andreas:** It is, there's no doubt about it.\
-**Alfred:** Yeah.\
-**Andreas:** Actually yeah, ok I forgot. There's quite a few burnt bone inside but are reduced in the size of sand. Let's say less than a half a millimetre, but they are burnt. Again, because you know, they are so [can't hear because of the sieve nearby], they've degraded in that small sizes.\
-**Basil:** Well, that's the only bone we have from the site so far.\
-**Andreas:** I can show you under the mic, I mean they are tiny like, you know, sand grains. And they are burned too.\
-**Basil:** I wonder if we could do anything further with that.\
-**Andreas:** Other than dating, I don't think, what else? Yeah. Yeah, I think more or less, you can't do more.\
-**Basil:** So what--\
-**Andreas:** Ahh, I mean, ok, in theory, some more fancy biochemical analysis? I don't know, I don't know if these things have survived. But why not? There have been, lately, some umm biochemical analyses on these kinds of stuff. Right, and you know\
-**Alfred:** Lipids?\
-**Andreas:** Yeah I don't know, lipids or whatever, maybe it's different, maybe not lipids. You can say whether they were burning plant, or what of plant possibly. I'm not, I'm not sure if all lipids is fat.\
-**Alfred:** [...]\
-**Andreas:** Well, this kind of analysis, I mean the tools are [...] or ICP, I don't even know. [...]. You want to try [...] you could end up doing it, but I have seen people doing it with palaeolithic [...] see if it works.\
-**Basil:** Well we were gonna try it, we're gonna take some sample for aDNA for our, for lack of--\
-**Andreas:** No, I think that's absolutely right. I know some people from [an archaeological project] in Spain have done this kind of stuff.
 
 ##### A26 {#sec-A26}
 **Basil:** It's, I mean, yeah. Umm, now, for a very, you know, for decades, there have been accepted means of scientifically representing the archaeological record, umm to act as evidential bases for your claims. It's understood, that you know, it's impractical for every single interested archaeologist to come to see your site, to see your material. You could be in Australia and the site could be in Peru, umm and so, without that tactile, immediate relationship with the evidence basis that somebody's uhh excavated, there are ways of representing it through photography and line illustration. Umm, that always used to seem to be enough, but it seems like again, it comes down to this contentious nature of our site. The fact that we are, we allegedly have such an early site where such early sites are not meant to be, I'm starting to discover that some of what used to be the accepted means of, accepted ehh evidential umm bases, don't seem to be good enough for everyone. And so it's been very important to have people like Denise come and see this stuff in the flesh. Yes, she's seen the drawing, yes, she's seen the photograph, but for her to see it first hand, handle it, pick it up, query it, umm look at, look at assemblages, as opposed to cherry picked illustrated pieces, has been fundamental to convince her that we really have what we say we have. Ditto Jack. So I think, you know, because I still hear through the grapevine people, you know, muttering, that oh you know, maybe it's this, maybe it's that, you know. And my colleagues over in [the neighbouring region], I mean, what's interesting is that, you know, my colleagues in [that region], Richard and Bruce, they were the first guys to find the Palaeolithic stuff. Denise doesn't believe in that material, so other people do not believe in that material, even though they've done the scientific representation, they drawings and whatever, umm—\
@@ -232,30 +177,7 @@ Basil is standing still and observing conversation between Alfred and Andreas. D
 ##### A32 {#sec-A32}
 **Basil:** But like in terms of the visitor thing, to go back to that, umm, yes, you, having visitors is partly profile raising for the site, community engagement and community creation and networking, uhh we also brought Denise over in part because we wanted to impress her, but also we wanted her critical input and we were kind of, you know, Jolene and I can't publish all of this. We weren't necessarily looking for her to come in to publish with us, because she's a very strong character and I think she might overwhelm us, but we were sort of hoping to maybe get suggestions from her as to who else we could bring in, say like a postdoc or a—
 
-##### A33 {#sec-A33}
-**Basil:** And then there are those more sort of umm conflict management I guess, which is where you have, and usually this tends to correlate with relatively junior scholars, who don't have the security of a job or act more insecure in terms of like their progress, their knowledge and whatever, where it's like we have, I mean basically, you know, to a large extent we're all working, most of us are working with stone tools, and a whole bunch of others are working with soils, so it almost boils down, most of the archaeology, to two components. And yet we have more than two people working on them, which means that we have people who are ideally complementary in the information they're pooling for the project, but I'm also very aware of the fact that while people are inputting to the project, they kind of need their own datasets, there needs to be a bit of a boundary marking in terms of this is ultimately mine, and I will be publishing this. Or at the very least, I will be publishing this as the first author, with this person. So, and I've experienced a lot of that at [a prior project], and so it, for when you have these little flare ups, it's not something that, none of this surprises me. As to how one deals with it, I've never been in that position to actually have to mediate these sort of things. So I've learned, probably, to be more clear up front in terms of this is my expectation of you, what's your expectation, this is yours, this is common, you know–
-
 ## Case B
-##### B1 {#sec-B1}
-**Logan:** (from a distance) Hey, Chris! We're ready for pictures and points, uhh to close out both those units.\
-**Chris:** Ok! Everybody is. So I have to do photos here, here, here and there hehe\
-**Logan:** (joking) I think I'm more important!
-
-##### B2 {#sec-B2}
-**Liz:** And then if you can just take one point there, and one point right in the middle, umm that's all we need.\
-**Oliver:** Ok.\
-**Liz:** And then you're free to start digging and I'll help you out in a minute.\
-...\
-**Chris:** So what are we doing?\
-**Oliver:** We're taking points.\
-**Liz:** Just one where you dug.\
-**Oliver:** Here?\
-**Liz:** Yep, yep. One in there, and then one over there is fine, somewhere in the middle.\
-...\
-**Chris:** It's excavation unit [redacted ID]?\
-**Liz:** Yeah. Closing.\
-**Chris:** Alright.
-
 ##### B3 {#sec-B3}
 **Zack:** hahaha. Umm, so uhh, I guess uhh maybe we'll move onto some questions about, you know, workflows that occur throughout the project. What kinds of, I mean I have to play a little bit ignorant here, so what kinds of material does the project collect? And uhh how are these materials collected? How are they processed and prepared?\
 **Rufus:** So just archeo-- you're talking about archaeological--\
@@ -315,9 +237,6 @@ In the warehouse now, with Liz, Vanessa, Chris and Lisa. Liz, Vanessa and Chris 
 **Rufus:** Yeah, exactly.\
 **Zack:** Yeah. No, I mean...\
 **Rufus:** Oh, you're asking me to do that now? Okay. So the overall process being alright, department of antiquity report, whatever specialist report comes in, that's immediately appended verbatim into the final report, with on their name it. When it comes time to actually do a peer reviewed publication, there's a lead author. That lead author has access to that document that they can cut, paste, amend, bring in, rework, whatever they want to do, including those specialist reports. Once that document is then complete, the other co-director gets it to read it over to make their changes. Once that's done, that then goes to the specialist to look over their stuff, to make sure something wasn't misconstrued or whatever. They will then fix, amend as necessary. Then the primary author goes through it all over again. As far as pictures and images go. Those are then created, and then those who made a contribution to the paper, they are listed as authors.
-
-##### B10 {#sec-B10}
-Yesterday also saw the initiation of excavation of a pit by the east baulk. It was initially explained to me as possibly being a rubbish pit due to the fact that it is situated around another small east-west wall midway through the north-south wall. As it was being excavated, a bunch of large pottery fragments were recovered, as well as a large long bone, which was of particular concern due to the possibility of it being human. Some speculation was made regarding what animals it might belong to, but no experienced zooarchaeologist was present who could give a definitive interpretation. Chris took some photos with a scale bar and sent them to a colleague who might be able to offer his input from afar. He took the photos using his smart phone, and presumably emailed them to his colleague. I guess we might hear back at some point later today, due to the time zone difference, and his colleague's presumed location in the United States (this being an American-led project). I just overheard Chris talking with his students about the pit, and it seems that the notion of its specialness is beginning to wear off. Its location underlying the wall, however, might still be a loose thread that will need to be explained. Yesterday it was Liz who seemed most perplexed by this aspect of the pit, due to the fact that it does not conform to typical robber pits.
 
 ##### B13 {#sec-B13}
 **Zack:** Are any there potential areas that will, like that you think you may, that you might, that you may have a big role in be producing?\
