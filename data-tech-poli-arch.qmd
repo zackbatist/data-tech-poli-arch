@@ -59,6 +59,7 @@ csl: assets/chicago-author-date.csl
 filters:
   - abstract-section
   - assets/count-para.lua
+  # - assets/collect-citekeys.lua
 crossref:
   custom:
     - kind: float
