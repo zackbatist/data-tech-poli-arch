@@ -1,9 +1,6 @@
 # Methods and Data
-The findings presented here are derived from the author's dissertation [@batist2023a], which produced three other papers deriving from the same project.
-As such, this work's methods and data overlap with the material presented in Batist [-@batist2024a; -@batist2025; -@batist2025a] where further methodological details and provided.
-
-This paper addresses how researchers collaborate and share information, looking at how they contribute to and use shared pools of knowledge.
-It specifically focuses on how participation in specialized disciplinary communities of practice instills norms and expectations that govern how actors may contribute to or access these information commons, and how this mutual understanding is accessed, expressed and reproduced.
+The findings presented here derive from the author's dissertation [@batist2023a], which produced three other papers utilizing overlapping source material [@batist2024a; @batist2025; @batist2025a].
+Refer to the methods and data presented in those works for further methodological details.
 
 ## Cases
 This paper articulates some systemic relations that scaffold archaeologists' actions and attitudes at two independent archaeological projects, which serve as cases.

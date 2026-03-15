@@ -74,7 +74,7 @@ format:
     embed-resources: true
     grid:
       margin-width: 500px
-      body-width: 950px
+      body-width: 1000px
     include-in-header:
       - text: |
           <style type="text/css">
